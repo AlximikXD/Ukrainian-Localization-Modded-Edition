@@ -1,0 +1,6 @@
+version=1
+id=
+title=Ukrainian Localization Modded Edition
+description=[h1]W.I.P.[/h1]
+tags=Build 41
+visibility=listed

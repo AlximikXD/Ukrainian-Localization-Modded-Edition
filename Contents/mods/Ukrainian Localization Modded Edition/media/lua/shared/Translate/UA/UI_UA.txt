@@ -1,0 +1,1128 @@
+UI_UA = {
+
+		------------Dynamic Traits------------	
+	
+    UI_trait_Flimsy = "Слабкий",
+    UI_trait_FlimsyDesc = "Твій стан поганий, сили мало.",
+    UI_trait_Frail = "Кволий",
+    UI_trait_FrailDesc = "Твій стан жахливий, сили дуже мало.",
+    UI_trait_Bloodlust = "Жага крові",
+    UI_trait_BloodlustDesc = "Неконтрольоване бажання вбивати. Ваш настрій зіпсується, якщо у вас довго не буде жертви.",
+    UI_trait_AmateurElectrician = "Електрик-любитель",
+    UI_trait_AmateurElectricianDesc = "Ви достатньо попрактикувалися і знаєте як підключати генератори.",
+    UI_trait_Pluviophile = "Плювіофіл",
+    UI_trait_PluviophileDesc = "Ти любиш дощ. Під ним покращується настрій.",
+    UI_trait_Pluviophobia = "Плювіофобія",
+    UI_trait_PluviophobiaDesc = "Ти ненавидиш дощ. Перебуваючи під ним, ваш настрій погіршується.",
+    UI_trait_Alcoholic = "Алкоголік",
+    UI_trait_AlcoholicDesc = "Вам потрібен алкоголь, щоб почувати себе краще",
+    UI_trait_Anorexy = "Анорексія",
+    UI_trait_AnorexyDesc = "Розлад харчової поведінки. Сильний страх набрати вагу.",
+	UI_trait_Prodigy = "Вундеркінд",
+	UI_trait_ProdigyDesc = "Ви тренуєте силу та фізичну форму швидше, ніж інші люди.",
+	UI_trait_PhysicallyActive = "Фізично активний",
+	UI_trait_PhysicallyActiveDesc = "Ви енергійна людина. Витрачаючи енергію, ви відчуваєте себе добре.",
+	UI_trait_Sedentary = "Малорухливий",
+	UI_trait_SedentaryDesc = "Малоактивний спосіб життя. Ви не любите витрачати енергію.",
+	UI_trait_Nightmares = "Кошмари",
+	UI_trait_NightmaresDesc = "Вам частіше за інших сняться кошмари.",
+	UI_trait_Fibromyalgia = "Фіброміалгія",
+	UI_trait_FibromyalgiaDesc = "Хронічна хвороба с частим болем у суглобах та іншими симптомами.",
+	UI_trait_NervousWreck = "Нервовий розлад",
+	UI_trait_NervousWreckDesc = "Ви за своєю природою тривожні. Стресові ситуації впливають на вас сильніше.",
+	UI_trait_Melancholic = "Меланхолік",
+	UI_trait_MelancholicDesc = "Постійне почуття безнадії. Сумні ситуації впливають на вас сильніше.",
+	UI_trait_sneaky = "Малопомітний",
+	UI_trait_sneakydesc = "",
+	UI_trait_lightfooted = "Легконогий",
+	UI_trait_lightfooteddesc = "",
+	UI_trait_nimble = "Спритний",
+	UI_trait_nimbledesc = "",
+	UI_trait_amforager = "Здобувач",
+	UI_trait_amforagerdesc = "",
+	UI_trait_amtrapper = "Ловець",
+	UI_trait_amtrapperdesc = "",
+	UI_trait_amcook = "Кухарчук",
+	UI_trait_amcookdesc = "",
+	UI_trait_amelectrician = "Електротехнік",
+	UI_trait_amelectriciandesc = "",
+	UI_trait_ammechanic = "Автомеханік",
+	UI_trait_ammechanicdesc = "",
+	UI_trait_amcarpenter = "Столяр",
+	UI_trait_amcarpenterdesc = "",
+	UI_trait_ammetalworker = "Металозварник",
+	UI_trait_ammetalworkerdesc = "",
+	UI_trait_durabile = "Довговічність",
+	UI_trait_durabiledesc = "",
+	UI_trait_shortbladefan = "Штиркач",
+	UI_trait_shortbladefandesc = "",
+	UI_trait_shortbluntfan = "Руйнівник кісток",
+	UI_trait_shortbluntfandesc = "",
+	UI_trait_cutter	 = "Рубака",
+	UI_trait_cutterdesc = "",
+	UI_trait_spearman = "Копійщик",
+	UI_trait_spearmandesc = "",
+	UI_trait_swordsman = "Мечник",
+	UI_trait_swordsmandesc = "",
+	UI_trait_gunfan = "Стрілець",
+	UI_trait_gunfandesc = "",
+	UI_trait_PillsAllergy = "Алергія на таблетки",
+	UI_trait_PillsAllergyDesc = "Приймати теблетки не дуже гарна ідея. Можливо книжки підійдуть краще?",
+	UI_trait_WildPlantsAllergy = "Алергія на дикорослі рослини",
+	UI_trait_WildPlantsAllergyDesc = "Від диких ягід та грибів вас нудить. Краще їх уникати",
+	
+		----CheatMenuRebirth----
+	
+	UI_CMRB_Character_Ghost = "Невидимість",
+	UI_CMRB_Character_God = "Режим Бога",
+	UI_CMRB_Character_Heal = "Вилікувати персонажа",
+	UI_CMRB_Character_InstantActions = "Режим Миттєвих дій",
+	UI_CMRB_Character_InstantCrafting = "Режим Безкоштовного крафту",
+	UI_CMRB_Character_Noclip = "No-clip Мод",
+	UI_CMRB_Character_PreventDeath = "Запобігання смерті",
+	UI_CMRB_Character_Suicide = "Вбити персонажа",
+	UI_CMRB_Combat_InfiniteItemDurability = "Незламні предмети та спорядження",
+	UI_CMRB_Combat_InfiniteAmmo = "Нескінченні набої",
+	UI_CMRB_Combat_NotFoundItem = "У раках немає предметів.",
+	UI_CMRB_Combat_RefillAmmo = "Зарядити патрони",
+	UI_CMRB_GPS_CurrentCoord = "Поточне розташування",
+	UI_CMRB_GPS_TargetDistance = "Дистанція до цілі",
+	UI_CMRB_GPS_TargetLocation = "Цільове розташування",
+	UI_CMRB_ItemSpawner_Amount = "Кількість",
+	UI_CMRB_ItemSpawner_Name = "Назва",
+	UI_CMRB_ItemSpawner_Sort = "Сортування за",
+	UI_CMRB_ItemSpawner_Weight = "Вага",
+	UI_CMRB_Item_ItemSpawnerWindow = "Вікно створення предметів",
+	UI_CMRB_Item_RepairEquippedItems = "Ремонт предметів у руках",
+	UI_CMRB_Item_RepairInventoryItems = "Ремонт предметів інвентарю",
+	UI_CMRB_Item_RepairWearingClothes = "Ремонт одягнених речей",
+	UI_CMRB_Lua_Close = "Закрити",
+	UI_CMRB_Lua_Export = "Експорт",
+	UI_CMRB_Lua_Go = "Додати",
+	UI_CMRB_Lua_Import = "Імпорт",
+	UI_CMRB_Lua_Run = "Запустити",
+	UI_CMRB_Menu_Catagory_Character = "Персонаж",
+	UI_CMRB_Menu_Catagory_Combat = "Бій",
+	UI_CMRB_Menu_Catagory_Item = "Предмети",
+	UI_CMRB_Menu_Catagory_Terrain = "Територія",
+	UI_CMRB_Menu_Catagory_Utility = "Утілити",
+	UI_CMRB_Menu_DisableAll = "Вимкнути всі чити",
+	UI_CMRB_Menu_Title = "Cheat Menu: RB",
+	UI_CMRB_Message_AdminRevoke = "Ви втратили права Адміністратора/Модератора/'Режим Бога' на сервері. Вимкнені всі застосовані чити",
+	UI_CMRB_Message_AlreadyExistWindow = "Вікно вже існує.",
+	UI_CMRB_Message_And = " і ",
+	UI_CMRB_Message_Current_Creative = "Творчий",
+	UI_CMRB_Message_Current_Fly = "Політ",
+	UI_CMRB_Message_Current_Ghost = "Невидимий",
+	UI_CMRB_Message_Current_God = "God",
+	UI_CMRB_Message_Current_Mode = "Мод.",
+	UI_CMRB_Message_AdminDeath = "Ви мертві. Скинути всі застосовані чит-моди.",
+	UI_CMRB_Menu_Catagory_MoodAndXP = "Настрій і Вміння",
+	UI_CMRB_Message_AttemptTracing = "Не вдалося знайти предмет, застосований до чату. Спроба знайти його в інвентарі.",
+	UI_CMRB_Combat_NoDelayShots = "Стрільба без затримки",
+	UI_CMRB_Lua_FileExists = "Файл уже існує. Ви впевнені, що хочете перезаписати?",
+	UI_CMRB_Lua_Filename = "Введіть назву файлу",
+	UI_CMRB_Lua_Interpreter = "Lua Interpreter",
+	UI_CMRB_Lua_ScrollDown = "Прокрутіть це вікно вниз, щоб переглянути шлях файлу",
+	UI_CMRB_Message_ChangedLevel = "Рівень вміння змінено",
+	UI_CMRB_Message_BarricadeCreated = "Створено барикаду",
+	UI_CMRB_Message_Current_AllStats = "Нескінченні стати",
+	UI_CMRB_Message_Current_ActionCheat = "Миттєві дії",
+	UI_CMRB_Character_ZombifiedSuicide = "Вбити персонажа (Зомбіфікація)",
+	UI_CMRB_Message_AdminGrant = "Сервер надав вам права Адміністратора/Модератора/'Режим Бога'. Ви можете використовувати Cheat Menu: RB mod.",
+	UI_CMRB_Message_VehicleSelection_2 = ", будь ласка, оберіть транспорт та клацніть на нього курсором",
+	UI_CMRB_Message_Current_PreventDeath = "Запобігти смерті",
+	UI_CMRB_Message_UnknownError = "Сталася невідома помилка.",
+	UI_CMRB_Message_Disabled = "Вимкнено",
+	UI_CMRB_Message_Enabled = "Увімкнено",
+	UI_CMRB_Message_EnabledCheat = "Чит увімкнено: ",
+	UI_CMRB_Message_IsEnabled = " увімкнено.",
+	UI_CMRB_Message_NoInventoryItems = "У вашому інвентарі немає предметів.",
+	UI_CMRB_Message_NoWeaponEquipped = "Ви не тримаєте зброю дальнього бою",
+	UI_CMRB_Message_NoPItems = "Ви не тримаєте жодних предметів у основній (правій) руці.",
+	UI_CMRB_Message_NoSItems = "Ви не тримаєте жодних предметів у вторинній руці (лівій руці).",
+	UI_CMRB_Message_NoWeaponEquipped_IAM = "У вас немає зброї дальнього бою. Бойові чити вимкнено..",
+	UI_CMRB_Message_NoWearingClothes = "Ви не носите жодного одягу!",
+	UI_CMRB_Message_RepairedAllItem = "Усі предмети у вашому інвентарі були відремонтовані.",
+	UI_CMRB_Message_RightClickDeactivation = "Активні інструменти роботи з місцевістю були вимкнені за натисканням правої кнопки миші",
+	UI_CMRB_Message_Hotwired = "Видалені 'дроти' з запалювання у авто",
+	UI_CMRB_Message_DisableAll = "Всі чити були вимкнені",
+	UI_CMRB_Message_TerrainBarricade = "Режим барикад",
+	UI_CMRB_Message_TerrainDelete = "Режим видалення",
+	UI_CMRB_Message_TerrainTerraforming = "Режим тераформування",
+	UI_CMRB_Message_TimeChange_2 = "%1:%2.",
+	UI_CMRB_Message_TimeChange_1 = "Час було змінено на %2/%3/%1, ",
+	UI_CMRB_Message_TeleportChange = "Персонаж телепортований на координати X: %1, Y: %2, Z: %3.",
+	UI_CMRB_Message_HealedCharacter = "Персонажа виліковано.",
+	UI_CMRB_Message_LostItem = "Не вдалося знайти предмет навіть під час пошуку в інвентарі. Ви його десь викинули?",
+	UI_CMRB_Message_NoZombieAmount = "Кількість зомбі не встановлено або ви ввели неправильне значення.",
+	UI_CMRB_Message_VehicleSelection = "Режим вибору ",
+	UI_CMRB_Message_VehicleReselection = "Режим повторного вибору ",
+	UI_CMRB_Message_ZombieRemove1 = "Видалено ",
+	UI_CMRB_Message_ZombieRemove2 = " зомбі зі світу.",
+	UI_CMRB_Message_ZombieRemoveServer = "Видалено зомбі поблизу всіх гравців на сервері.",
+	UI_CMRB_Message_ZombieSpawn = "Спавн Зомбі",
+	UI_CMRB_MoodAndXP_AllStats = "Імунітет до Всіх Станів",
+	UI_CMRB_Message_NotHotwired = "Додано 'Дроти' у запалювання. Можливо заводити без ключів",
+	UI_CMRB_Message_NotRangedWeapon = "Предмет(и) у руках не є зброєю дальнього бою.",
+	UI_CMRB_Message_NotSupported = "Ця функція ще не реалізована. Будь ласка, перевірте меню транспортних засобів, щоб скористатися цією функцією",
+	UI_CMRB_Message_NotWeapon = "Предмет(и) у руках не є зброєю.",
+	UI_CMRB_Message_NotSuppportMP = "Ця функція не підтримується в багатокористувацькій грі.",
+	UI_CMRB_Message_RecipesForgotten = "Ви забули всі рецепти.",
+	UI_CMRB_Message_RecipesLearned = "Ви вивчили всі рецепти.",
+	UI_CMRB_Message_RepairedPEquippedItem = "Предмети у руках були відремонтовані",
+	UI_CMRB_Message_RepairedWearingClothes = "Весь екіпірований одяг був відремонтований.",
+	UI_CMRB_Message_RefillAmmoS = "Ваша зброя була перезаряджена.",
+	UI_CMRB_Message_RepairedSEquippedItem = "Предмети у руках були відремонтовані",
+	UI_CMRB_Message_ResetLevel = "Рівень навичок скинуто.",
+	UI_CMRB_Message_TeleportMayUnsafe_1 = "Було введено значення осі Z. Якщо ви не в режимі Бога, дія може призвести до смерті.",
+	UI_CMRB_Message_TeleportMayUnsafe_2 = "Якщо ви все ще хочете телепортуватися, натисніть кнопку <Телепорт> ще раз.",
+	UI_CMRB_Message_TimeCannotChange = "Не вдалося змінити час, оскільки ви ввели неправильне значення.",
+	UI_CMRB_Message_VehicleColorChanged = "Значення кольору вибраного автомобіля змінено.",
+	UI_CMRB_Message_TimeCannotUndo = "Як і планували початкові розробники, ви НЕ МОЖЕТЕ повернутися в час до початку апокаліпсиса.",
+	UI_CMRB_Message_RepairedVehicle = "Всі транспортні засоби відремонтовані.",
+	UI_CMRB_Message_VehicleDeselectedAlready = "Транспортний засіб не вибрано або не існує.",
+	UI_CMRB_Message_IsDisabled = " вимкнено.",
+	UI_CMRB_Message_VehicleKeyUnnecessary = "Створений вами транспортний засіб знаходиться в несправному стані. Не вдається створити ключ.",
+	UI_CMRB_Message_VehicleRustChanged = "Значення іржі вибраного автомобіля змінено.",
+	UI_CMRB_Message_VehicleKeyAdded = "Ключ від автомобіля додано до вашого інвентарю",
+	UI_CMRB_Message_DateInvalid = "Дата введена неправильно. Вона змінена на останній день місяця.",
+	UI_CMRB_Message_RefillAmmoP = "Ваша зброя була перезаряджена.",
+	UI_CMRB_Message_RevertedItem = "Знайдено предмет, Відновлення елемента до початкового стану.",
+	UI_CMRB_Message_VehicleDeselected = "Ви скасували вибір автомобіля.",
+	UI_CMRB_Message_TeleportUnsafe_OuterBorder = "Введене значення знаходиться за межами карти, телепортація скасована.",
+	UI_CMRB_Message_TeleportUnsafe_NoChunkData = "Безпечної землі не знайдено, телепортація скасована.",
+	UI_CMRB_Terrain_Asphalt = "Дорога (Асфальт)",
+	UI_CMRB_Terrain_Barricade = "Режим барикад (Застосування кнопкою Z)",
+	UI_CMRB_Terrain_BarricadeInstall = " дошки",
+	UI_CMRB_Terrain_BarricadeMaterial = "Матеріал",
+	UI_CMRB_Terrain_BarricadeMetal = "Метал",
+	UI_CMRB_Terrain_BarricadeNoB = "Кількість дощок",
+	UI_CMRB_Terrain_BarricadeRAll = "Прибрати усі дошки",
+	UI_CMRB_Terrain_BarricadeWith = "Встановити ",
+	UI_CMRB_Terrain_BarricadeWood = "Дошки (Стандарт)",
+	UI_CMRB_Terrain_Bordered = " (Розмежований)",
+	UI_CMRB_Terrain_BToggle = "Увімкнути/Вимкнути",
+	UI_CMRB_Terrain_Carpets = "Килими",
+	UI_CMRB_Terrain_Concrete = "Дорога (Бетон)",
+	UI_CMRB_Terrain_Delete = "Режим видалення (Застосування кнопкою X)",
+	UI_CMRB_Terrain_DeleteWithCorpse = "Видаляти З трупом",
+	UI_CMRB_Terrain_DeleteWithoutDoorWindow = "Видаляти БЕЗ дверей та вікон",
+	UI_CMRB_Terrain_DeleteWithoutWall = "Видаляти БЕЗ стін",
+	UI_CMRB_Terrain_DeleteWithZombie = "Видаляти З зомбі",
+	UI_CMRB_Terrain_Dirt = "Грунт",
+	UI_CMRB_Terrain_DToggle = "Увімкнути/Вимкнути",
+	UI_CMRB_Terrain_Fire = "Режим вогню (N для запуску, F для видалення)",
+	UI_CMRB_Terrain_Fire_Message = "Режим вогню",
+	UI_CMRB_Terrain_GrassC = "Трава (скошена)",
+	UI_CMRB_Terrain_GrassD = "Трава (звичайна)",
+	UI_CMRB_Terrain_Natural = "Природні",
+	UI_CMRB_Terrain_NoFillEmpty = "Не заповнювати порожні квадрати",
+	UI_CMRB_Terrain_Paved = "Дорога (Вимощена)",
+	UI_CMRB_Terrain_PlayerBuilt = "Дерев'яна підлога, створена гравцем",
+	UI_CMRB_Terrain_Roads = "Дороги",
+	UI_CMRB_Terrain_TDisable = "Вимкнено",
+	UI_CMRB_Terrain_Terraforming = "Режим тераформування (Застосування кнопкою X)",
+	UI_CMRB_Terrain_Tiles = "Плитка",
+	UI_CMRB_Terrain_Water = "Вода",
+	UI_CMRB_Terrain_WoodFloors = "Дерев'яна підлога",
+	UI_CMRB_Terrain_ZombieRemoveAll = "Видалити всіх зомбі (Завантажений фрагмент мапи)",
+	UI_CMRB_Terrain_ZombieSpawn = "Режим спавну зомбі (Застосування кнопкою Z)",
+	UI_CMRB_MoodAndXP_InfiniteCarryweight = "Нескінченна вантажопідйомність",
+	UI_CMRB_MoodAndXP_LearnRecipes = "Вивчити всі рецепти",
+	UI_CMRB_MoodAndXP_SkillMax = "Зробити всі навички максимальними",
+	UI_CMRB_MoodAndXP_SkillReset = "Скинути всі навички",
+	UI_CMRB_MoodAndXP_SkillSet = "Встановити рівень навичок",
+	UI_CMRB_MoodAndXP_Stats = "Імунітет до станів",
+	UI_CMRB_MoodAndXP_StatsAnger = "Імунітет до Гніву",
+	UI_CMRB_MoodAndXP_StatsBoredom = "Імунітет до Нудьги",
+	UI_CMRB_MoodAndXP_StatsDrunk = "Імунітет до Сп'яніння",
+	UI_CMRB_MoodAndXP_StatsEndurance = "Імунітет до Напруження",
+	UI_CMRB_MoodAndXP_StatsFatigue = "Імунітет до Сонливості",
+	UI_CMRB_MoodAndXP_StatsFixed = "",
+	UI_CMRB_MoodAndXP_StatsHunger = "Імунітет до Голоду",
+	UI_CMRB_MoodAndXP_StatsPain = "Імунітет до Болів",
+	UI_CMRB_MoodAndXP_StatsPanic = "Імунітет до Паніки",
+	UI_CMRB_MoodAndXP_StatsSanity = "Імунітет до Розсудку",
+	UI_CMRB_MoodAndXP_StatsSickness = "Імунітет до Хвороби",
+	UI_CMRB_MoodAndXP_StatsStress = "Імунітет до Стресу",
+	UI_CMRB_MoodAndXP_StatsTemperature = "Імунітет до Температури",
+	UI_CMRB_MoodAndXP_StatsThirst = "Імунітет до Спраги",
+	UI_CMRB_MoodAndXP_StatsUnhappy = "Імунітет до Нещастя",
+	UI_CMRB_MoodAndXP_StatsWet = "Імунітет до Вологості",
+	UI_CMRB_TeleportLocation_Country_Club = "Сільський клуб",
+	UI_CMRB_TeleportLocation_Custom = "Своє",
+	UI_CMRB_TeleportLocation_Dixie = "Діксі",
+	UI_CMRB_TeleportLocation_ETC = "Інше",
+	UI_CMRB_TeleportLocation_GPS = "GPS",
+	UI_CMRB_TeleportLocation_Louisville = "Луїсвіль",
+	UI_CMRB_TeleportLocation_March_Ridge = "March Ridge",
+	UI_CMRB_TeleportLocation_Muldraugh = "Малдро",
+	UI_CMRB_TeleportLocation_NewLocation = "Нове розташування",
+	UI_CMRB_TeleportLocation_North_Highway_Stop = "Зупинка Північного шосе",
+	UI_CMRB_TeleportLocation_Riverside = "Ріверсайд",
+	UI_CMRB_TeleportLocation_Rosewood = "Воузвуд",
+	UI_CMRB_Teleport_CustomRename = "Перейменувати",
+	UI_CMRB_Teleport_CustomDelete = "Видалити",
+	UI_CMRB_Teleport_CustomConfirm = "Прийняти",
+	UI_CMRB_TeleportWindow_Z = "Z:",
+	UI_CMRB_TeleportWindow_Y = "Y:",
+	UI_CMRB_TeleportWindow_X = "X:",
+	UI_CMRB_TeleportLocation_West_Point = "Вест Поінт",
+	UI_CMRB_TeleportLocation_West_Highway_Stop = "Зупинка Західного шосе",
+	UI_CMRB_TeleportLocation_Valley_Station = "Valley Station",
+	UI_CMRB_TeleportLocation_Teleport = "Телепорт",
+	UI_CMRB_TeleportLocation_South_Highway_Stop = "Зупинка Південного шосе",
+	UI_CMRB_TeleportLocation_Scenic_Grove = "Scenic Grove",
+	UI_CMRB_TeleportLocation_Rural_Town = "Сільське Містечко",
+	UI_CMRB_TeleportLocation_Rural_Highway_Stop = "Зупинка Сільського Шосе.",
+	UI_CMRB_Terrain_ZombieSpawnSetAmount = "Встановити кількість зомбі",
+	UI_CMRB_Terrain_ZToggle = "Увімкнути/Вимкнути",
+	UI_CMRB_TimeWindow_Days = "Дні",
+	UI_CMRB_TimeWindow_Hours = "Години",
+	UI_CMRB_TimeWindow_Minutes = "Хвилини",
+	UI_CMRB_TimeWindow_Months = "Місяць",
+	UI_CMRB_TimeWindow_Years = "Рік",
+	UI_CMRB_Utility_Fly = "Режим польоту (Стрілки Угору/Вниз)",
+	UI_CMRB_Utility_Fly_Message = "Режим польоту",
+	UI_CMRB_Utility_LuaEditor = "Lua Інтерпретатор / Редактор Файлів",
+	UI_CMRB_Utility_Time = "Час",
+	UI_CMRB_Utility_TimeFreeze = "Заморозити плин час",
+	UI_CMRB_Utility_TimeWarp = "Змінити час",
+	UI_CMRB_Utility_TimeWarpWindow = "Вікно зміни часу та дати",
+	UI_CMRB_Utility_VehicleControl = "Контроль Транспорту",
+	UI_CMRB_Utility_VehicleParts = "Окремі частини транспорту",
+	UI_CMRB_Utility_VehicleParts_Change = "Змінити",
+	UI_CMRB_Utility_VehicleParts_Durability = "Змінити стан деталі",
+	UI_CMRB_Utility_VehicleParts_Lock = "Зачинити/Відкрити",
+	UI_CMRB_Utility_VehicleParts_Loudness = "Встановити гучність",
+	UI_CMRB_Utility_VehicleParts_Power = "Встановити потужність",
+	UI_CMRB_Utility_VehicleParts_Quality = "Встановити якість деталі",
+	UI_CMRB_Utility_VehicleParts_Repair = "Ремонтувати",
+	UI_CMRB_Utility_VehicleParts_RPM = "Змінити тип Обертів",
+	UI_CMRB_Utility_VehicleParts_SetResource = "Встановити кількість ресурсу деталі",
+	UI_CMRB_Utility_VehicleParts_Uninstall = "Зняти",
+	UI_CMRB_Utility_Vehicles = "Транспорт",
+	UI_CMRB_Utility_VehicleSetValueWindow = "Вікно налаштування значень",
+	UI_CMRB_Utility_VehicleSpawnerWindow = "Вікно створення транспорту",
+	UI_CMRB_VehicleControl_ColorBrightness = "Яскравість",
+	UI_CMRB_VehicleControl_ColorEditor = "Зміна кольору",
+	UI_CMRB_VehicleControl_ColorEditorWindow = "Вікно зміни кольору транспорту",
+	UI_CMRB_VehicleControl_ColorHue = "Відтінок",
+	UI_CMRB_VehicleControl_ColorSaturation = "Насиченість",
+	UI_CMRB_VehicleControl_DeselectVehicle = "Відмінити<br>виділення",
+	UI_CMRB_VehicleControl_DestroyVehicle = "Знищити транспорт",
+	UI_CMRB_VehicleControl_Godmode = "'Режим Бога'<br>транспорту",
+	UI_CMRB_VehicleControl_Hotwire = "Взламати авто",
+	UI_CMRB_VehicleControl_KeyCreation = "Створити ключ<br>до авто",
+	UI_CMRB_VehicleControl_RepairAll = "Ремонт транспорту",
+	UI_CMRB_VehicleControl_Rust = "Іржа на транспорті",
+	UI_CMRB_VehicleControl_RustEditor = "Редактор Іржі",
+	UI_CMRB_VehicleControl_RustEditorWindow = "Вікно редактору іржі транспорту",
+	UI_CMRB_VehicleControl_SelectVehicle = "Виділити Транспорт",
+	UI_CMRB_VehicleControlWindow = "Вікно управління авто",
+	UI_CMRB_VehicleSpawner_Boats = "Човни",
+	UI_CMRB_VehicleSpawner_Create = "Створити",
+	UI_CMRB_VehicleSpawner_Heavy_Duty = "Важкі авто",
+	UI_CMRB_VehicleSpawner_Sports = "Спортивні",
+	UI_CMRB_VehicleSpawner_Standards = "Звичайні",
+	UI_CMRB_VehicleSpawner_Trailer = "Трейлери",
+	UI_CMRB_VehicleSpawner_Unusable = "Непридатні",
+	UI_CMRB_VehicleSpawnerWindow = "Вікно створення авто",
+	UI_CMRB_Window_Set = "Встановити",
+	UI_CMRB_Character_Creative = "Режим творця",
+	UI_CMRB_Message_Current_NoClip = "NoClip",
+	UI_CMRB_Combat_InstaKill = "Миттєве вбивство (зброя ближнього бою)",
+	UI_CMRB_Menu_NotSupportedMP = "Ця функція не підтримується в багатокористувацькій грі.",
+	UI_CMRB_Message_DestroyedVehicle = "Вибраний автомобіль видалено.",
+	UI_CMRB_MoodAndXP_ForgetRecipes = "Забути всі рецепти",
+	UI_CMRB_MoodAndXP_SkillWindow = "Вікно рівня навичок",
+	UI_CMRB_Message_VehicleSelected = " було обрано.",
+	UI_CMRB_Utility_TeleportLocation = "Вікно телепортації (Локації)",
+	UI_CMRB_Utility_TeleportCoord = "Вікно телепортації (Координати)",
+	UI_CMRB_Warning_ServerSetting = "Оскільки налаштування сервера DoLuaCheckSum вимкнено або не має значення,<br>Cheat menu: RB вимкнено, щоб запобігти нещасним випадкам злому.",
+	UI_CMRB_VehicleSpawner_Smashed = "Розбиті",
+	UI_CMRB_VehicleSpawner_Burnt = "Спалені",
+	UI_CMRB_Utility_Weather = "Погода",
+	UI_CMRB_Character_HealthPanelCheat = "Додаткові можливості панелі Здоров'я",
+	UI_CMRB_Menu_ObjectCheat = "Об'єкт",
+	UI_CMRB_Object_NoKeyRequired = "Неможливо створити дверний ключ",
+	UI_CMRB_Message_ItemSpawned = "%2 %1 додано до вашого інвентарю.",
+	UI_CMRB_Message_WindowPermaUnlocked = "Вибране вікно було розблоковано назавжди.",
+	UI_CMRB_Message_WindowLocked = "Вибране вікно було заблоковано.",
+	UI_CMRB_Warning_IntegrityCheck = "[ПОПЕРЕДЖЕННЯ!]<br>Якщо вимкнути цю опцію, функція перевірки цілісності в Cheat Menu: RB буде пропущена.<br><br>Це опція для гравця, який хоче грати з сервером (особливо виділеним сервером) де вимкнено параметр DoLuaChecksum .<br>Цей параметр не змінює налаштувань сервера та не впливає на одиночну гру та залишатиметься, навіть якщо ви закриєте гру.",
+	UI_CMRB_Object_SpawnDoorKey = "Створити ключ для дверей",
+	UI_CMRB_Object_WindowLock = "Зачинити вікно
+	UI_CMRB_Object_WindowPremaLock = "Назавжди зачинити вікно ",
+	UI_CMRB_Object_WindowPremaUnlock = "Назавжди відкрити вікно ",
+	UI_CMRB_Object_WindowUnlock = "Відкрити вікно",
+	UI_CMRB_Options_Title = "Налаштування Cheat Menu: RB",
+	UI_CMRB_Options_IntegrityCheck = "Функція перевірки цілісності",
+	UI_CMRB_Message_WindowPermaLocked = "Вибране вікно було заблоковано назавжди.",
+	UI_CMRB_Message_WindowUnlocked = "Вибране вікно було розблоковано.",
+	UI_CMRB_Message_CannotTeleport = "Не вдалося телепортуватись, оскільки ви ввели неправильне значення.",
+	UI_CMRB_Object_DoorLock = "Зачинити двері",
+	UI_CMRB_Object_DoorUnlock = "Відчинити двері",
+	UI_CMRB_Object_NoObjectFound = "Вибраний об’єкт не є дверима чи вікном.",
+	UI_CMRB_Object_RestoreWindowGlass = "Відновити віконне скло",
+	UI_CMRB_Message_WindowGlassRestored = "Віконне скло відновлене",
+	UI_CMRB_Message_DoorUnlocked = "Вибрані двері було розблоковано.",
+	UI_CMRB_Message_DoorLocked = "Вибрані двері були замкнені.",
+	UI_CMRB_Message_DoorKeySpawned = "Вибрані двері додано до вашого інвентарю.",
+	UI_CMRB_Message_Current_Mechanics = "Механіка",
+	UI_CMRB_Message_Current_Health = "Контроль здоров'я",
+	UI_CMRB_Utility_VehicleMechanicsCheat = "Чит механіки",
+	UI_CMRB_Message_ServerChecksModIntegrity = "Перевірка цілісності вимкнена в параметрах мода, але сервер використовує перевірку цілісності (DoLuaChecksum)."
+	
+		------------ModManager------------
+		
+	UI_ModManager_About_Translation = "Переклад: CatDogFishFrog",
+	
+    UI_ModManager_Button_Accept = "Прийняти",
+    UI_ModManager_Button_Back = "Назад",
+    UI_ModManager_Button_Cancel = "Скасувати",
+    UI_ModManager_Button_Delete = "Видалити",
+    UI_ModManager_Button_Reset = "Відновити",
+    UI_ModManager_Button_Save = "Зберегти",
+    UI_ModManager_Button_Server = "Сервер",
+    UI_ModManager_Button_MapsOrder = "Пріоритет завантаження мап",
+    UI_ModManager_NotAvailable = "N/A",
+    UI_ModManager_Warning_Failed = "Помилка завантаження: %1",
+    UI_ModManager_Warning_Favs = "Примусово увімкнені обрані: %1",
+    UI_ModManager_Warning_Hidden = "Примусово вимкнені приховані: %1",
+
+    -- Filters Panel
+    UI_ModManager_Filter_Button_Save_Tooltip = "Зберегти фільтри",
+    UI_ModManager_Filter_Button_Reset_Tooltip = "Скинути фільтри. <LINE> Довге натискання: Скинути до значення за замовчуванням.",
+    -- Filter
+    UI_ModManager_Filter_Off = "Фільтр: Усі моди",
+    UI_ModManager_Filter_On = "Фільтр: %1",
+    UI_ModManager_Filter_Button_All = "Показати усі моди",
+    UI_ModManager_Filter_Workshop = "з майстерні",
+    UI_ModManager_Filter_Local = "локальні",
+    UI_ModManager_Filter_Local_Tooltip = "Моди, які знаходяться у Zomboid/mods чи Zomboid/Workshop",
+    UI_ModManager_Filter_WithMap = "містять мапи",
+    UI_ModManager_Filter_WithMap_Tooltip = "Моди з мапами не обов'язково містять одні тільки мапи.",
+    UI_ModManager_Filter_WithoutMap = "без мап",
+    UI_ModManager_Filter_WithTranslation = "з перекладом",
+    UI_ModManager_Filter_WithTranslation_Tooltip = "Модифікації, перекладені поточною мовою гри. Це не обов’язково означає, що такі моди повністю перекладені (або взагалі перекладені).",
+    UI_ModManager_Filter_WithoutTranslation = "без перекладу",
+    UI_ModManager_Filter_Available = "доступні",
+    UI_ModManager_Filter_Broken = "недоступні",
+    UI_ModManager_Filter_Enabled = "увімкнені",
+    UI_ModManager_Filter_Disabled = "вимкнені",
+    UI_ModManager_Filter_UpToDate = "актуальна версія",
+    UI_ModManager_Filter_NeedsUpdate = "є оновлення",
+    UI_ModManager_Filter_Normal = "звичайні",
+    UI_ModManager_Filter_Favorites = "обрані",
+    UI_ModManager_Filter_Hidden = "приховані",
+    -- Order
+    UI_ModManager_Order_By = "Сортування: %1 %2",
+    UI_ModManager_Order_Name = "назва",
+    UI_ModManager_Order_Enabled = " увімкнено",
+    UI_ModManager_Order_DateAdded = "дата додання",
+    UI_ModManager_Order_DateCreated = "дата створення",
+    UI_ModManager_Order_DateUpdated = "дата оновлення",
+    UI_ModManager_Order_Date_Tooltip = "Тільки для модів із Майстерні.",
+    UI_ModManager_Order_Asc = "Сортувати за зростанням",
+    UI_ModManager_Order_Desc = "Сортувати за спаданням",
+    -- Search
+    UI_ModManager_Search_By = "Пошук: «%1» %2",
+    UI_ModManager_Search_OR = "» чи «",
+    UI_ModManager_Search_AND = "» та «",
+    UI_ModManager_Search_Name = "назва",
+    UI_ModManager_Search_Description = "опис",
+    UI_ModManager_Search_ModID = "ID моду",
+    UI_ModManager_Search_WorkshopID = "ID Майстерні",
+    UI_ModManager_Search_MapID = "мапа",
+    UI_ModManager_Search_Tags = "тег",
+    UI_ModManager_Search_Author = "автор",
+    UI_ModManager_Search_Equals = "дорівнює",
+    UI_ModManager_Search_Contains = "містить",
+    UI_ModManager_Search_Empty = "пустий",
+    UI_ModManager_Search_notEquals = "не дорівнює",
+    UI_ModManager_Search_notContains = "не містить",
+    UI_ModManager_Search_notEmpty = "не пустий",
+
+    -- List
+    UI_ModManager_List_Empty = "Нічого немає",
+    UI_ModManager_List_Favorite = "Обрані",
+    UI_ModManager_List_Unfavorite = "Вилучити з обраних",
+    UI_ModManager_List_Hide = "Приховати",
+    UI_ModManager_List_Unhide = "Вилучити з прихованого",
+    UI_ModManager_List_On = "Увімкнути",
+    UI_ModManager_List_Off = "Вимкнути",
+    UI_ModManager_List_Add = "Додати",
+    UI_ModManager_List_Remove = "Видалити",
+    UI_ModManager_List_Tooltip_Broken = "Не працює",
+    UI_ModManager_List_Tooltip_Enabled = "Увімкнений",
+    UI_ModManager_List_Tooltip_EnabledBy = "Увімкнений для:",
+    UI_ModManager_List_Dialog_Favorite = "Додавання цього моду до обраного дозволить увімкнути його та необхідні модифікації (якщо такі є) у всіх збереженнях.\nПродовжити?",
+    UI_ModManager_List_Dialog_Hide = "Якщо приховати цю модифікацію, вона буде вимкнена в усіх збереженнях.\Продовжити?",
+
+    -- Info
+    UI_ModManager_Info_NoPoster = "Немає постера",
+    UI_ModManager_Info_Poster = "Постер",
+    UI_ModManager_Info_ModID = "ID моду: %1",
+    UI_ModManager_Info_WorkshopID = "ID Майстерні: %1",
+    UI_ModManager_Info_GameVersion = "Версія гри: %1+",
+    UI_ModManager_Info_ModVersion = "Версія моду: %1",
+    UI_ModManager_Info_Author = "Автор:",
+    UI_ModManager_Info_Maps = "Мапи:",
+    UI_ModManager_Info_Tags = "Теги:",
+    UI_ModManager_Info_DateCreated = "Дата створення: %1",
+    UI_ModManager_Info_DateUpdated = "Дата оновлення: %1",
+    UI_ModManager_Info_LocationLabel = "Розташування:",
+    UI_ModManager_Info_LocationTooltip = "Відкрити розташування файлу",
+    UI_ModManager_Info_URLLabel = "Посилання на сайт:",
+    UI_ModManager_Info_URLButton = "Відкрити сайт моду",
+    UI_ModManager_Info_URLWarning = "(ця адреса не є офіційним джерелом модів для PZ - ви переходите на неї на власний ризик)",
+    UI_ModManager_Info_Tags_Button = "Редагувати теги",
+    UI_ModManager_Info_Tags_Request = "Введіть теги, розділяючи їх комою",
+    UI_ModManager_Info_Tags_Warning = "Теги не повинні містити символи: %1",
+    UI_ModManager_Info_TagsCombo_Add = "Додати",
+    UI_ModManager_Info_TagsCombo_Del = "Видалити",
+    UI_ModManager_Info_TagsCombo_All = "усі теги",
+    UI_ModManager_Info_FollowButton = "Перейти",
+
+    -- Presets
+    UI_ModManager_Presets_Label = "Списки модів:",
+    UI_ModManager_Presets_NoSelection = "[--Виберіть для завантаження--]",
+    UI_ModManager_Presets_List_DisableAll = "Вимкнути усе",
+    UI_ModManager_Presets_List_DisableAllExceptFavs = "Вимкнути усе (окрім обраного)",
+    UI_ModManager_Presets_List_EnableAll = "Увімкнути усе",
+    UI_ModManager_Presets_List_EnableAllExceptHidden = "Увімкнути усе (окрім прихованого)",
+    UI_ModManager_Presets_List_Default = "Гра - стандарт",
+    UI_ModManager_Presets_List_LastSave = "Гра - останнє збереження",
+    UI_ModManager_Presets_List_CurrentSave = "Гра - поточне збереження",
+    UI_ModManager_Presets_Save_Request = "Назва:",
+    UI_ModManager_Presets_Save_Warning = "Назва не має містити символи: %1",
+    UI_ModManager_Presets_Delete_Request = "Видалити "%1"?",
+    UI_ModManager_Presets_Button_LoadFromSave = "З файлу збереження",
+
+    -- Server
+    UI_ModManager_Server_List_SelectConfig = "Обрати конфігурацію сервера",
+    UI_ModManager_Server_Configs_Label = "Серверні конфігурації:",
+
+    -- WorkshopItemState
+    UI_ModManager_WorkshopItemState_NotSubscribed = "Не підписані",
+    UI_ModManager_WorkshopItemState_Downloading = "Завантажується",
+    UI_ModManager_WorkshopItemState_NeedsUpdate = "Є оновлення",
+    UI_ModManager_WorkshopItemState_Installed = "Встановлено",
+    UI_ModManager_WorkshopItemState_Error = "Помилка",
+    UI_ModManager_WorkshopItemState_NotInstalled = "Не встановлено",
+
+    -- Mod Load Order
+    UI_ModManager_LoadOrder = "Порядок завантаження модів",
+    UI_ModManager_LoadOrder_Button_MoveUp = "Рухати вгору",
+    UI_ModManager_LoadOrder_Button_MoveDown = "Рухати вниз",
+    UI_ModManager_LoadOrder_Button_MoveToTop = "Поремістити на початок",
+    UI_ModManager_LoadOrder_Button_MoveToBottom = "Поремістити в кінець",
+    UI_ModManager_LoadOrder_Info = "Моди будуть завантажуватися в порядку зверху вниз. Першими завантажуватимуться моди ближче до верхньої частини списку. Якщо два моди перезаписують один файл, то буде використовуватися файл з мода, який завантажується пізніше, тобто той який нижче по списку. <LINE> <LINE> Зазвичай вам не потрібно змінювати це, і в багатьох випадках це не запобігатиме конфліктам і помилкам.",
+
+    -- About
+    UI_ModManager_About_Navigation = "Навігація: <LINE> <INDENT:20> Стрілка ВГОРУ/ВНИЗ - переміщення по списку модів <LINE> PAGE UP/DOWN - прокрутка вгору/вниз <LINE> HOME/END - переміститися до першого/останнього у списку <LINE> ENTER чи SPACE - увімкнути/вимкнути мод <LINE> SHIFT + ENTER чи SPACE - додати до обраного чи видалити <LINE> CTRL + ENTER чи SPACE - приховати/показати мод <LINE> TAB - перемкнутися між пошуком та списком модів <LINE> ESC - закріти вікно <LINE> <INDENT:0> ",
+    UI_ModManager_About_Navigation_Server = "Навігація: <LINE> <INDENT:20> Стрілка ВГОРУ/ВНИЗ - переміщення по списку модів <LINE> PAGE UP/DOWN - прокрутка вгору/вниз <LINE> HOME/END - переміститися до першого/останнього у списку <LINE> ENTER чи SPACE - увімкнути/вимкнути мод <LINE> TAB - перемкнутися між пошуком та списком модів <LINE> ESC - закріти вікно <LINE> <INDENT:0> ",
+
+    -- Changelog
+    UI_ModManager_Changelog = "Журнал змін",
+
+    -- Settings
+    UI_ModManager_Settings = "Налаштування",
+    UI_ModManager_Settings_Filter = "Фільтри",
+    UI_ModManager_Settings_Other = "Інше",
+    UI_ModManager_Settings_ShowCustomIcons = "Показувати значки модів",
+    UI_ModManager_Settings_ShowWelcome = "Показувати вікно 'ПРО МОДИ'",
+
+    -- LoadGameScreen
+    UI_ModManager_LoadGameScreen_Button_LoadMods = "ЗАВАНТАЖИТИ МОДИ",
+	
+		------------TheWorkshop------------
+	
+	UI_ClothingType_SpecialBelt = "Спеціальний пояс",
+	
+		------------ScrapWeapons------------
+		
+	UI_trait_preparedscrapweapons = "Підготований: Саморобна зброя",
+    UI_trait_preparedscrapweaponsdesc = "Ви 	ли саморобну зброю з усілякого металу ще до Апокаліпсиса.<br>Ви починаєте гру, маючи в інвентарі 2 пристойні екземпляри саморобної зброї.",
+	UI_trait_scrapwarrior = "Воїн сміттєзвалища",
+    UI_trait_scrapwarriordesc = "Як у справжнього самурая, у вас був шлях - шлях воїна зі сміттєзвалища.<br>+1 Газозварка<br>Ви знаєте як виготовляти базову зброю з брухту.",
+	
+		------------CraftHelperContinued------------
+	
+	UI_item_uses_tab_name =         "Використання"
+	UI_item_craft_tab_name =        "Крафт"
+	UI_common_left_col_name =       "Рецепт"
+	UI_common_right_col_name =      "Деталі"
+	UI_search_tab_name =            "Пошук"
+	UI_search_items_tab_name =      "Предмети"
+	UI_search_recipes_tab_name =    "Рецепти"
+	UI_recipe_panel_required_book = "Необхідні книги (хоча б одна)"
+	UI_recipe_panel_near_item =     "Необхідне обладнання для крафту"
+
+	UI_settings_st_title =   "Порядок сортування"
+	UI_settings_av_title =   "Наявність"
+	UI_settings_av_valid =   "Дійсні"
+	UI_settings_av_known =   "Відомо"
+	UI_settings_av_invalid = "Недійсні"
+
+	UI_optionscreen_binding_chc_category_title =            "Craft Helper"
+	UI_optionscreen_binding_chc_move_up =                   "Вибрати попередній рецепт"
+	UI_optionscreen_binding_chc_move_down =                 "Вибрати наступний рецепт"
+	UI_optionscreen_binding_chc_move_left =                 "Вибрати попередню категорію"
+	UI_optionscreen_binding_chc_move_right =                "Вибрати наступну категорію"
+	UI_optionscreen_binding_chc_craft_one =                 "Створити один"
+	UI_optionscreen_binding_chc_craft_all =                 "Створити максимум"
+	UI_optionscreen_binding_chc_favorite_recipe =           "Додати рецепт до улюблених"
+	UI_optionscreen_binding_chc_close_window =              "Закрити вікно Craft Helper"
+	UI_optionscreen_binding_chc_toggle_window =             "Перемкнути вікно Craft Helper"
+	UI_optionscreen_binding_chc_toggle_uses_craft =         "Перемкнути між використанням/крафтом"
+	UI_optionscreen_binding_chc_move_tab_left =             "Вибрати попередню вкладку"
+	UI_optionscreen_binding_chc_move_tab_right =            "Вибрати наступну вкладку"
+	UI_optionscreen_binding_chc_toggle_focus_search_bar =   "Фокус на полі пошуку"
+
+    UI_infotext_search =    "<CENTRE><SIZE:medium> Вікно пошуку <LINE><LINE> "..
+                            "<SIZE:small> <LEFT> Тут ви знайдете всі предмети та рецепти. <LINE><LINE> "
+    UI_infotext_favorites = "<CENTRE><SIZE:medium> Вікно обраного <LINE><LINE> "..
+                            "<SIZE:small> <LEFT> Тут ви можете знайти вибрані продукти (ще у процесі розробки) і рецепти. <LINE><LINE> "
+    UI_infotext_itemtab =   "<CENTRE><SIZE:medium> Вікно предметів <LINE>"..
+                            "<SIZE:small> <LEFT> Тут ви можете знайти детальну інформацію про '%1' <LINE> "..
+                            "Перша вкладка (%2) показує рецепти, де '%1' використовується як інгредієнт. <LINE> "..
+                            "Друга вкладка (%3) показує рецепти, результатом яких є '%1'. <LINE><LINE> " 
+    
+    UI_infotext_common = "<INDENT:0> Лівий стовпець (Рецепт) показує список предметів/рецептів з деякими додатковими елементами керування. Перший рядок – рядок фільтра.<LINE><LINE> "..
+                         "<IMAGECENTRE:media/textures/info_filter_row.png> <LINE>"..
+                         "<INDENT:8>Кнопка 1 показує поточний порядок сортування продуктів/рецептів. Натисніть кнопку, щоб змінити порядок. <LINE>"..
+                         "Кнопка 2 дозволяє вибрати тип бажаного виходу: <LINE>"..
+                         "<INDENT:16> %1 <LINE>"..
+                         "<INDENT:8> Елемент 3 — це селектор категорій, де можна вказати потрібну категорію. <LINE><LINE>"..
+                         "Під рядком фільтра є рядок пошуку, де ви можете шукати за назвою предмета/рецепту або за певними правилами, залежно від вашого запиту. <LINE>"..
+                         "Щоб дізнатися більше про правила пошуку, натисніть на <IMAGE:media/textures/search_icon.png> <LINE><LINE>"..
+                         "<INDENT:0> Правий стовпець (Деталі) показує деталі продукту/рецепту: <LINE>"..
+                         "<INDENT:8> %2 <LINE><LINE>"..
+                         "<INDENT:0><SIZE:medium>Елементи керування: <SIZE:small><LINE><LINE>"..
+                         "<INDENT:16> - Ви можете змінити розмір стовпців «Рецепт» і «Деталі», перетягнувши лінію між їхніми назвами <LINE> "..
+                         " - Правий клік по вкладці предмета відкриває контекстне меню <LINE>"..
+                         "%3 <LINE>"..
+                         " - За допомогою налаштувань у «Mod Options» ви можете встановлювати гарячі клавіші	"
+                         
+    -- %1
+    UI_infotext_recipe_types = "- <IMAGE:media/textures/type_filt_all.png> <SPACE>(%1): Усі рецепти <LINE> "..
+                               "- <IMAGE:media/textures/type_filt_valid.png> (%2): Рецепти, які ви можете створити прямо зараз <LINE> "..
+                               "- <IMAGE:media/textures/type_filt_known.png> (%3): Рецепти які ви знаєте, але не можете створити (недостатньо навичок/предметів) <LINE> "..
+                               "- <IMAGE:media/textures/type_filt_invalid.png> (%4): Рецепти, про які ви не знаєте. Покаже книги, з яких його можна вивчити."
+    UI_infotext_item_types =   " - Одяг <LINE> - Їжа <LINE> - Зброя <LINE> - тощо"
+
+    -- %2
+    UI_infotext_recipe_details = " - Інформація про категорію рецепта та кінцевий продукт(и) <LINE> "..
+                                 " - Необхідні предмети <LINE>"..
+                                 " - Інші вимоги (навички, книги, інструменти та час на виготовлення)"
+    UI_infotext_item_details =   " - Основна інформація про предмет і кількість рецептів <LINE> "..
+                                 " - Атрибути предмета (WIP) <LINE> "..
+                                 " - Як полагодити цей предмет (якщо можливо) (WIP) <LINE>"..
+                                 " - Де знайти цей предмет (WIP)"
+
+    -- %3
+    UI_infotext_recipe_mouse = " - Клацніть лівою кнопкою миші піктограму зірочки (стовпець рецептів, наведіть курсор миші на елемент), щоб додати або прибрати рецепт з обраного <LINE> "..
+                               " - Клацніть правою кнопкою миші піктограму результату рецепта (стовпець 'Деталі'), щоб відкрити контекстне меню <LINE> "..
+                               " - Клацніть правою кнопкою миші на предметі в розділі 'Необхідні Предмети' (стовпець 'Деталі'), щоб відкрити контекстне меню"
+    UI_infotext_item_mouse =   " - Клацніть предмет середньою кнопкою миші (стовпець рецептів), щоб відкрити нову вкладку з клацнутим елементом у фоновому режимі <LINE>"..
+                               " - Клацніть правою кнопкою миші на предметі (стовпець рецептів), щоб відкрити контекстне меню <LINE>"..
+                               " - Клацніть правою кнопкою миші на значку предмета (стовпець Деталі), щоб відкрити контекстне меню <LINE>"..
+                               " - Shift + права кнопка миші на деяких елементах (див. вище) відобразить додаткові параметри"
+
+
+    UI_searchrow_info = "<CENTRE><SIZE:medium> Помічник у пошуку <LINE><LINE> "..
+                        "<LEFT><SIZE:small> Ця панель пошуку підтримує спеціальні правила. Кожен відокремлений запит (слово) називається Токен. <LINE>"..
+                        "Ви можете здійснювати пошук за кількома запитами одночасно, використовуючи РОЗДІЛЬНИКИ. <LINE>"..
+                        "Ви можете додати до кожного Токена СПЕЦІАЛЬНІ СИМВОЛИ, щоб визначити правило пошуку для кожного з них. <LINE>"..
+                        "За допомогою «Mod Options» ви можете встановити гарячу клавішу для фокусування на панелі пошуку. Зняти фокус можна кнопкою ESC. <LINE><LINE>"..
+                        "<SIZE:medium> Роздільники: <LINE> <SIZE:small> "..
+                        "<INDENT:8> <SIZE:medium> , <SIZE:small> <SPACE><SPACE>(кома) – об’єднує результати всіх Токенів (логічне І), можна використовувати для дуже конкретного фільтрування <LINE> "..
+                        "<SIZE:medium> | <SIZE:small> <SPACE><SPACE>(вертикальна риска) - розділяє всі маркери (логічне АБО), можна використовувати для окремого пошуку кількох запитів <LINE><LINE> "..
+                        "<INDENT:0><SIZE:medium> Спеціальні символи: <LINE> <SIZE:small> "..
+                        "<INDENT:8>%1"..
+                        "<SIZE:medium> ~ <SIZE:small> <SPACE><SPACE>(тільда) - виключає цей токен (тобто знайти все, що НЕ є токеном; має бути після спеціального символу, якщо вони використовуються) <LINE><LINE>"..
+                        "<INDENT:0><SIZE:medium> <LEFT> Приклади: <LINE> <SIZE:small> "..
+                        "<INDENT:8>%2<LINE>"..
+                        "<INDENT:0><SIZE:medium> Обмеження: <LINE> <SIZE:small> "..
+                        "<INDENT:8>- Не можна використовувати обидва роздільники (',' і '|') в одному запиті <LINE> "..
+                        "- Не можна виключати інгредієнти (#~пила)"
+
+    -- %1
+    UI_searchrow_info_recipes_special = "<SIZE:medium> ! <SIZE:small> <SPACE><SPACE>(знак оклику) - пошук за категорією рецепта <LINE>"..
+                                        "<SIZE:medium> @ <SIZE:small> <SPACE><SPACE>(знак 'собачки') - пошук за назвою моду отриманого елемента ('Project Zomboid' для ванільних)<LINE>"..
+                                        "<SIZE:medium> # <SIZE:small> <SPACE><SPACE>(знак решітки) - пошук за інгредієнтами рецепта <LINE>"..
+                                        "<SIZE:medium> $ <SIZE:small> <SPACE><SPACE>(знак долара) - пошук за категорією знайденого предмета (показано в правій частині панелі інвентарю) <LINE>"..
+                                        "<SIZE:medium> % <SIZE:small> <SPACE><SPACE>(знак відсотка) - пошук за назвою результату <LINE>"..
+                                        "<SIZE:medium> ^ <SIZE:small> <SPACE><SPACE>(каретка) - пошук за вподобаними рецептами <LINE>"..
+                                        "<SIZE:medium> & <SIZE:small> <SPACE><SPACE>(амперсанд) - пошук за назвою категорії рецепта ('Base' для ванільних) <LINE>"
+    UI_searchrow_info_items_special =   "<SIZE:medium> ! <SIZE:small> <SPACE><SPACE>(знак оклику) - пошук за типом елемента <LINE>"..
+                                        "<SIZE:medium> @ <SIZE:small> <SPACE><SPACE>(знак 'собачки') - пошук за назвою моду елемента ('Project Zomboid' для ванільних) <LINE>"..
+                                        "<SIZE:medium> # <SIZE:small> <SPACE><SPACE>(знак решітки) - пошук за категорією предмета (показано в правій частині панелі інвентарю) <LINE>"..
+                                        "<SIZE:medium> $ <SIZE:small> <SPACE><SPACE>(знак долара) - пошук по атрибутах предмета <LINE>"
+    UI_searchrow_info_item_attributes_special = "<SIZE:medium> ! <SIZE:small> <SPACE><SPACE>(знак оклику) - пошук за назвою атрибута <LINE>"..
+                                                "<SIZE:medium> @ <SIZE:small> <SPACE><SPACE>(знак 'собачки') - пошук за значенням атрибута <LINE>"
+
+    -- %2
+    UI_searchrow_info_recipes_examples = "#кон <SPACE><SPACE>- показати рецепти, інгредієнти яких містять щось із 'кон' у назві <LINE>"..
+                                         "@hydrocra,!Звіроловство,#Пила <SPACE><SPACE>- показати рецепти від Hydrocraft (або подібних) у категорії рецептів «Звіроловство», які містять «Пила» як інгредієнт <LINE>"..
+                                         "%Дошка|!Зброя <SPACE><SPACE>- показати рецепти, де результатом є «Дошка», АБО рецепти в категорії «Зброя». <LINE> "
+    UI_searchrow_info_items_examples =   "#Інструмент,!~Зброя <SPACE><SPACE>: показати інструменти, які не є зброєю (наприклад, голка, пила, насос) <LINE> "..
+                                        "$maxdamage>4,$maxdamage<9 <SPACE><SPACE>- показати елементи з атрибутом MaxDamage від 4 до 9 <LINE> "
+
+    UI_searchrow_info_item_attributes_examples = "!>а,!<в <SPACE><SPACE>: показати атрибути, назва яких починається з 'а' або 'б' <LINE> "
+	
+		------------Weapon Condition Indicator------------
+	
+	UI_TheStar_EquippedItemOnly = "Показати стан лише предмету у руках",
+    UI_TheStar_Icon = "Показувати значок стану предмету",
+    UI_TheStar_Icon_Tooltip = "Відображає значок на панелі швидкого доступу та в біля предмета у руках (верхній лівий кут екрана).",
+    UI_TheStar_Icon_Type = "Тип значка",
+    UI_TheStar_Icon_Type_Star = "Зірка",
+    UI_TheStar_Icon_Type_Bubble = "Бульбашка",
+    UI_TheStar_EquippedItemIconPosition = "Позиція значка в колі предмета у руках",
+    UI_TheStar_EquippedItemIconPosition_TopLeft = "Зверху зліва",
+    UI_TheStar_EquippedItemIconPosition_TopRight = "Зверху справа",
+    UI_TheStar_ProgressBar = "Показувати шкалу індикатору стану",
+    UI_TheStar_ProgressBar_Tooltip = "Відображає шкалу стану зброї як фон, на панелі швидкого доступу. Більш заповнений - значить більш цілий предмет",
+    UI_TheStar_ProgressBar_Orientation = "Орієнтація шкали стану",
+    UI_TheStar_ProgressBar_Horizontal = "Горизонтальна",
+    UI_TheStar_ProgressBar_Vertical = "Вертикальна",
+    UI_TheStar_ProgressBar_Opacity = "Прозорість шкали стану (панель швидкого доступу)",
+    UI_TheStar_ProgressBar_OpacityEquipped = "Прозорість шкали стану (екіпірований предмет)",
+    UI_TheStar_ProgressBar_Opacity_Tooltip = "Наскільки прозорим буде фон. Чим БІЛЬШЕ значення, тим МЕНШ прозоре",
+    UI_TheStar_ProgressBar_Multicolor = "Багатокольорова шкала стану",
+    UI_TheStar_ProgressBar_Multicolor_Tooltip = "Колір шкали змінюється залежно від стану елемента:<br>зелений – хороший,<br>жовтий – середній,<br>червоний – поганий.",
+    UI_TheStar_OverheadNotification = "Показувати сповіщення, коли міцність зброї зменшується",
+    UI_TheStar_OverheadNotification_Tooltip = "Повідомлення з’являтиметься кожного разу, коли стан предмета стає нижче, ніж заданий відсоток",
+    UI_TheStar_BlinkConditionPercent = "Блимати, коли стан погіршується",
+    UI_TheStar_BlinkConditionPercent_Tooltip = "Фон слота предмета блиматиме кожного разу, коли стан предмета стає нижче, ніж заданий відсоток",
+    UI_TheStar_Ammo = "Показувати кількість боєприпасів",
+    UI_TheStar_AmmoInventory = "Показувати кількість боєприпасів у інвентарі",
+    UI_TheStar_AmmoInventory_Tooltip = "Показує загальну кількість боєприпасів в інвентарі для оснащеної зброї. Включає кулі, ящики для патронів і магазини, не включає заряджені патрони в спорядженій зброї.",
+    UI_TheStar_BatteryCharge = "Показувати заряд батареї",
+    UI_TheStar_OverheadNotificationItemFall = "Показувати сповіщення під час випадання зброї з рук",
+    UI_TheStar_OverheadNotificationItemFall_Tooltip = "Сповіщення з’явиться, якщо ваш персонаж упустить споряджений предмет після падіння на землю (наприклад, під час стрибка через паркан або бігу крізь натовп зомбі).",
+    UI_TheStar_ItemTooltip = "Показати спливаючу підказку предмета",
+    UI_TheStar_ItemTooltip_Tooltip = "Відображає спливаючу підказку (як в інвентарі), коли ви наводите курсор миші на слот панелі швидкого доступу або піктограму оснащеного предмета.",
+    UI_TheStar_Dropdown_Always = "Завжди",
+    UI_TheStar_Dropdown_Off = "Вимкнути",
+    UI_TheStar_Dropdown_HotbarEquippedItem = "Панель швидкого доступу + Екіпірований предмет",
+    UI_TheStar_Dropdown_HotbarOnly = "Тільки панель швидкого доступу",
+    UI_TheStar_Dropdown_EquippedItemOnly = "Тільки екіпірований предмет",
+	
+		------------ExtraSauce Instant Consolidation------------
+    
+    UI_mo_InstantConsolidate = "ExtraSauce, Миттєве об'єднання",
+    UI_mo_InstantConsolidate_TT = "Об'єднайте один стак з рідиною, або всі стаки з рідиною. Залиште це поле пустим для сумісності модів",
+    UI_mo_InstantConsolidate_Keep = "Зберігати порожнім:",
+    UI_mo_InstantConsolidate_MERGE_THIS = "Об'єднати цей стак:",
+    UI_ESIC_CONSOLIDATE_THIS_ITEM = "Об'єднати все:",
+    UI_mo_InstantConsolidate_FILL_THIS = "Заповнити цей предмет:",
+	
+		------------ManageContainers------------
+		
+	UI_ConfigureContainer = "  <CENTRE> <SIZE:medium> Це - панель конфігурації контейнера. <LINE> <LINE> <SIZE:small> <LEFT>  Тут ви можете визначити, які категорії предметів буде зберігати контейнер. <LINE> <LINE>  Після того, як ви налаштували свої контейнери, ви можете вибрати який предмет перекласти, після чого клацнути правою кнопкою миші та натиснути «Покласти у відповідний контейнер».  <LINE> <LINE> Натисніть Shift + "Викласти все"  щоб перекласти у сусідні налаштовані контейнери усі предметі в інвентарі, які підходять до цих контейнерів.",
+
+		------------MiniHealthPanel------------
+		
+	UI_MiniHealth_Enable = "Увімкнути Mini Health Panel",
+	
+		------------MoreDescriptionForTrait------------
+		
+	UI_trait_AdrenalineJunkieDesc = "Рухається швидше, коли сильно панікує.<br>(+0.2 чи +0.25 до швидкості руху, при Сильній або Надзвичайній паніці відповідно)",
+	UI_trait_bravedesc = "Менша схильність до паніки.<br>(-30% паніки, крім нічних жахів і фобій)",
+	UI_trait_NightVisionDesc = "Краще бачить в темряві. ( +20% яскравості картинки. Так, він просто робить картинку світлішою)",
+	UI_trait_DexterousDesc = "Переміщує предмети в інвентарі швидше. <br>(-50% часу на переміщення предмета)",
+	UI_trait_eagleeyeddesc = "Помічає речі швидше.<br>Підвищена дальність огляду.<br> (Ширше поле зору)",
+	UI_trait_FastHealerDesc = "Рани та хвороби схильні гоїтися швидше.<br>(Зниження тяжкості травм. Не впливає на фізичну втому)",
+	UI_trait_FastLearnerDesc = "Досвід накопичується швидше, ніж зазвичай.<br>(+30% швидкості накопичення досвіду всіх навичок, окрім Фітнесу та Сили)",
+	UI_trait_FastReaderDesc = "Читає книжки швидше.<br>(Читає на 30% швидше)",
+	UI_trait_gracefuldesc = "Видає менше шуму при русі.<br>(-40% Радіусу звуку під час ходьби<br>-10% шанс спіткнутися при перестрибуванні через паркан під час бігу чи спринту<br>Також -10% шанс впасти під час нападу зомбі)",
+	UI_trait_InconspicuousDesc = "Малий шанс бути поміченим зомбі.<br>(-50% шанс бути поміченим зомбі, але не зменшує радіус зору зомбі!)",
+	UI_trait_IronGutDesc = "Знижений шанс харчового отруєння.<br>(-50% ймовірність харчового отруєння. Харчове отруєння триває коротше)",
+	UI_trait_keenhearingdesc = "Підвищений радіус сприйняття.<br>(+100% радіус сприйняття (коло, оточуюче персонажа, у якому все видно незалежно від напрямку зору).<br>Зомбі, які наближаються ззаду, будуть помітні набагато раніше)",
+	UI_trait_lighteaterdesc = "Треба їсти менш регулярно.<br>(-25% швидкості накопичення голоду)",
+	UI_trait_LowThirstDesc = "Організм вимагає менше води для виживання.<br>(-50% швидкості накопичення спраги)",
+	UI_trait_luckydesc = "Іноді справи просто йдуть так, як треба. <br>+10% шанс знайти рідкісні предмети.",
+	UI_trait_PackmuleDesc = "Підвищена максимальна місткість всіх сумок(+30% усіх контейнерів, тобто і авто також)",
+	UI_trait_outdoorsmandesc = "Не схильний до впливу поганої погоди.<br>Легше орієнтується в просторі.<br>-90% шанс застудитися.<br>-99% шанс отримати подряпини/рвані під час пересування скрізь дерева.<br>Швидше розмалює багаття за допомогою дощок",
+	UI_trait_resilientdesc = "Менша схильність до хвороби.<br>Перетворення йде повільніше.<br>(-25% швидкості перетворення на зомбі<br>-55% шансу застудитися,<br>-20% сили застуди та -50% швидкості її прогресування)",
+	UI_trait_SpeedDemonDesc = "Віддає перевагу високій швидкості.<br>(+100% швидкості перемикання передач,<br>+15% максимальної швидкості для всіх авто,<br>+200% гучності двигуна при задньому ході)",
+	UI_trait_thickskinneddesc = "Шанс пошкодити шкіру знижений.<br>(-30% шанс отримати рани.<br>1/13 ймовірності того, що одяг буде пошкоджено під час просування скрізь дерева)",
+	UI_trait_LessSleepDesc = "Вимагає менше сну.<br>(-30% необхідності сну)",
+
+	UI_trait_FishingDesc = "(Вміє майструвати та лагодити вудку.)",
+	UI_trait_Cook2Desc = "(Буквально нічого не робить. Не дає жодного рецепта чи підвищення навичок)",
+	UI_trait_GardenerDesc = "(Знає, як зробити спрей проти борошнистої роси для лікування хвороб рослин)",
+	UI_trait_handydesc = "Швидше створює барикади.<br>(+100 HP для всіх конструкцій, крім стін, +11% швидкості будівництва)",
+	UI_trait_HerbalistDesc = "Може знаходити лікувальні трави і створювати з них припарки.<br>Розпізнає отруйні ягоди і гриби.",
+	UI_trait_HikerDesc = "Знає, як робити Паличну пастку, Сильце та Клітку-пастку.",
+	UI_trait_HunterDesc = "Знає рецепти усіх пасток.",
+	UI_trait_nutritionistdesc = "Знає харчову цінність будь-якої їжі.<br>(Включаючи незапаковану їжу та готову їжу)",
+
+	UI_trait_agoraphobicdesc = "Панікує зовні приміщень.",
+	UI_trait_AllThumbsDesc = "Переміщує предмети в інвентарі повільніше.<br>(+300% часу переміщення предмета.)",
+	UI_trait_AsthmaticDesc = "Витривалість витрачається швидше.<br> (+40% втрати витривалості під час бігу або спринту.<br>+30% втрати витривалості під час розмаху)",
+	UI_trait_clumsydesc = "Видає більше шуму при русі.<br>(+20% радіуса звуку кроків,<br>+10% шансу спіткнутися під час бігу/спринту через низький паркан або коли схопить зомбі)",
+	UI_trait_ConspicuousDesc = "Високий шанс бути поміченим зомбі.<br>(+100% до шансу бути поміченим зомбі.<br>Не збільшує радіус зору зомбі!)",
+	UI_trait_cowardlydesc = "Велика схильність до паніки.<br>(+100% сили паніки, крім нічних жахів і фобій.)",
+	UI_trait_deafdesc = "Нічого не чує. Дуже малий радіус сприйняття навколо персонажа.<br>(Радіобалачки не з’являються.<br>Телевізор можна дивитися завдяки субтитрам)",
+	UI_trait_DisorganizedDesc = "Знижена максимальна місткість всіх сумок. (-30% об'єму усіх контейнерів, тобто і авто також)",
+	UI_trait_hardheardesc = "Менший радіус сприйняття та слуху.<br>(Деякі звукові ефекти будуть приглушені.<br>Радіус сприйняття навколо персонажа менший)",
+	UI_trait_heartyappetitedesc = "Треба їсти більш регулярно.<br>(+50% швидкості накопичення голоду.)",
+	UI_trait_HighThirstDesc = "Організм вимагає більше води для виживання.<br>(+100% швидкості накопичення спраги.)",
+	UI_trait_PacifistDesc = "Гірше поводиться з усіма видами зброї.<br>(-25% накопичення XP для всіх навичок володіння зброєю, навички міцності та прицілювання)",
+	UI_trait_pronetoillnessdesc = "Велика схильність до хвороби.<br>Перетворення йде швидше.<br>(+25% швидкість перетворення, +70% ймовірність застудитися,<br>+20% сила застуди, +50% швидкість прогресування застуди)",
+	UI_trait_InsomniacDesc = "Сонливість проходить повільніше, навіть під час сну.<br>(Спить менше годин і повільніше втрачає втому під час сну)",
+	UI_trait_shortsighdesc = "Менша дальність огляду.<br>Помічає речі повільніше.",
+	UI_trait_MoreSleepDesc = "Вимагає більше сну.<br>(-30% швидкості втоми.)",
+	UI_trait_SlowHealerDesc = "Рани та хвороби схильні проходити набагато довше<br>(Підвищена тяжкість травм. Не впливає на фізичну втому)",
+	UI_trait_SlowLearnerDesc = "Досвід накопичується довше, ніж зазвичай<br>(-30% швидкості накопичення досвіду всіх навичок, окрім Фітнесу та Сили)",
+	UI_trait_SlowReaderDesc = "Читає книжки повільніше.<br>(-30% швидкості читання.)",
+	UI_trait_SundayDriverDesc = "Віддає перевагу повільній їзді".<br>(-40% прискорення, максимальна швидкість 30 миль на годину,<br>Не змінює гучність двигуна)",
+	UI_trait_ThinSkinnedDesc = "Шанс пошкодити шкіру підвищений.<br>(+27% ймовірності отримання ран.<br>1/3 ймовірності пошкодження одягу деревами)",
+	UI_trait_unluckydesc = "Якщо яка-небудь неприємність може трапитися,<br>то вона трапляється.<br>-10% шанс знайти рідкісну здобич.<br> На 5% збільшено шанс невдалого ремонту предмета."	,
+	UI_trait_WeakStomachDesc = "Підвищений шанс харчового отруєння.(+100% шансу отруїтися)<br>(Харчове отруєння триває довше)",
+
+	UI_trait_veryunderweightdesc = "Дуже слабкий, погана витривалість, схильність до травм.<br>(Починаєте з вагою 60.<br>Замінюється на «Виснажений», якщо вага падає нижче 50.<br>Замінюється на «Худий», якщо вага перевищує 65.<br>-40% нанесення пошкоджень в ближньому бою.<br>+20% шанс спіткнутися під час бігу/спринту, стрибаючи через низький паркан або бувши схопленим зомбі.<br>+25% шанс невдало перелізти високий паркан.<br>+10 пошкоджень від падіння)",
+	UI_trait_underweightdesc = "Низька сила, низька витривалість, схильність до травм.<br>(Починаєте з вагою 70.<br>Замінюється на «Недобір ваги», якщо вага падає нижче 65.<br>Втратите цей статус при вазі понад 75.<br>-20% нанесення пошкоджень в ближньому бою.<br>+10% шанс спіткнутися під час бігу/спринту, стрибаючи через низький паркан або бувши схопленим зомбі.<br>+15%  шанс невдало перелізти високий паркан)",
+	UI_trait_obesedesc = "Зменшена швидкість бігу, дуже низька витривалість, схильність до травм.<br>(Починаєте з вагою 105.<br>Замінюється на «Зайва вага», якщо вага падає нижче 100.<br>+20% шанс спіткнутися під час бігу/спринту, стрибаючи через низький паркан.<br>-10% шанс відштовхнути  зомбі які нападають.<br>+25% шанс невдало перелізти високий паркан.<br>-60% регенерація витривалості.<br>+20 пошкоджень від падіння)",
+	UI_trait_overweightdesc = "Знижена швидкість бігу.<br>Швидше втомлюється від бігу.<br>(Починаєте з вагою 95.<br>Замінюється на «Жирний», якщо вага перевищує 100.<br>Втратите цей статус при вазі менше ніж 85.<br>+10%шанс спіткнутися під час бігу/спринту, стрибаючи через низький паркан.<br>+15% шанс невдало перелізти високий паркан.<br>-30% регенерація витривалості)",
+
+	UI_trait_unfitdesc = "Дуже низька витривалість і її регенерація.<br>(Можна позбутися, якщо натренувати Фітнес до 3 рівня.<br> Отримаєте цю особливість, якщо Фітнес менше 3 рівня)",
+	UI_trait_outofshapedesc = "Низька витривалість, низька регенерація витривалості.<br>(Можна позбутися, якщо натренувати Фітнес до 5.<br>Перетворюється на «Негідний», якщо рівень Фітнесу впаде нижче 3 рівня.<br>Отримаєте цю особливість, якщо Фітнес менш як 5 рівня)",
+	UI_trait_feebledesc = "Знижене відкидання в ближньому бою.<br>Знижена допустима вага.<br>(Можна позбутися, якщо натренувати Силу до 5 рівня.<br> Отримаєте цю особливість, якщо рівень Сили опускається нижче 5 рівня)"	,
+	UI_trait_weakdesc = "Знижене відкидання в ближньому бою.<br>Знижена допустима вага.<br>(-40% нанесення пошкоджень у ближньому бою.<br>Замінюється на «Кволий», якщо рівень сили підійматися вище 2.<br> Отримаєте цю особливість, якщо рівень сили менше 2 рівня)",
+
+	UI_trait_athleticdesc = "Підвищена швидкість бігу.<br>Може бігти довше, не втомлюючись.<br>(-60% втрати витривалості під час бігу.<br>Можете отримати цю особливість на 9 рівні Фітнесу.<br> Втрачаєте, якщо рівень Фітнесу нижче 9)",
+	UI_trait_fitdesc= "В формі.<br>(Можете отримати цю особливість на 6 рівні фітнесу.<br>Замінюється на «Атлет», коли рівень Фітнесу досягає 9.<br>Втрачаєте, якщо рівень Фітнесу нижче 6)",
+	UI_trait_stoutdesc = "Додаткове відкидання в ближньому бою.<br>Підвищена допустима вага.<br>(Можете отримати цю особливість на 6 рівні Сили.<br>Замінюється на «Сильний», коли рівень Сили досягає 9.<br> Втрачаєте, якщо рівень Сили нижче 6)",
+	UI_trait_strongdesc = "Додаткове відкидання в ближньому бою.<br>Підвищена допустима вага.<br>(+40% нанесення пошкоджень у ближньому бою.<br> Можете отримати цю особливість на 9 рівні Сили.<br>Втрачаєте, якщо рівень Сили нижче 9)",
+
+	UI_trait_DesensitizedDesc = "Не піддається паніці.<br>(За винятком нічних жахів.)",
+	UI_trait_axemandesc = "Менше втомлюється при рубці дерев.<br>Швидше замахується сокирою.<br>(На 25% швидше як проти дерев, так і проти зомбі)",
+	UI_trait_nightowldesc = "Спить менш регулярно.<br>Висока пильність під час сну.<br>(Але продовжує спати після того, як рівень стоми опуститься до 0)",
+
+	UI_profdesc_parkranger = "Набагато швидше пересувається через зарості та лісисту місцевість.<br>Знає рецепт усіх пасток.",
+	UI_profdesc_chef = "Знає як робити Тісто для торта, Тісто для пирога та Домашній хліб.",
+	UI_profdesc_farmer = "Знає, як зробити спрей проти борошнистої роси для лікування хвороб рослин.",
+	UI_profdesc_fisherman = "Знає, як зробити та полагодити вудку, як зробити рибальську сітку, та як розпустити рибальську сітку",
+	UI_profdesc_electrician = "Вміє керувати генераторами.<br>Знає, як виготовляти пульти дистанційного керування та таймери.<br>Знає, як виготовляти імпровізовані стаціонарну радіостанцію, радіо та рації.",
+	UI_profdesc_engineer = "Може виготовляти пастки та вибухові речовини.<br>Знає, як виготовляти аерозольні бомби, коктейлі молотова, бомби з труб, димові бомби та генератори шуму.",
+	UI_profdesc_metalworker = "Може зварювати металеві предмети для створення різних речей і барикад.<br>Знає всі рецепти металообробки.",
+
+	UI_ShortSighted_Condition = "Може бути скасовано, якщо одягнути окуляри"
+	
+		------------Draw On Map------------
+	
+	UI_DrawOnMap_Draw = "Малювати",
+	UI_DrawOnMap_Erase = "Стерти",
+	UI_DrawOnMap_Thickness = "Товщина",
+	UI_DrawOnMap_Fill = "Щільність",
+	
+		------------ExtraMapSymbols------------
+	
+	UI_ExtraMapSymbolsUI_Options = "Опції",
+	UI_ExtraMapSymbolsUI_OptionsAlternativeSymbols = "Використовуйте довільні варіанти значків",
+	UI_ExtraMapSymbolsUI_OptionsColumns = "Колонки",
+	UI_ExtraMapSymbolsUI_OptionsScalingStep = "Крок масштабування"
+	UI_ExtraMapSymbolsUI_OptionsScalingTooltip = "Numpad +/- : змінити масштаб символу/тексту<br>Numpad Enter : скинути до замовчування"
+	
+		------------iMed------------
+	
+	UI_Item_EmptyBloodBag_Name = "Порожній пакет для крові",
+    UI_Item_EmptyBloodBag_Description = "Порожній пакет для крові",
+    UI_Item_FullBloodBag_Name = "Повний пакет крові",
+    UI_Item_FullBloodBag_Description = "Повний пакет крові",
+    UI_Item_PeripheralVenousCatheter_Name = "Інфузійний катетер",
+    UI_Item_PeripheralVenousCatheter_Description = "Катетер, який використовується для встановлення венозного доступу до кровоносної системи пацієнта.<br>Потрібен для переливання крові.",
+
+    UI_Item_Alkagin_Name = "Алкагін",
+    UI_Item_Alkagin_Description = "Ненаркотичний анальгетик. Має болезаспокійливу, жарознижувальну та слабку протизапальну дію, є похідним піразоліну.",
+    UI_Item_Alkagin_SideEffects = "Нудота, блювання.",
+
+    UI_Item_BismuthSubsalicylate_Name = "Вісмут Субсаліцилат",
+    UI_Item_BismuthSubsalicylate_Description = "Використовується для лікування деяких шлунково-кишкових захворювань, таких як діарея, запалення шлунка та кишечника, виразки шлунку та інші.",
+    UI_Item_BismuthSubsalicylate_SideEffects = "Нудота, блювання.",
+
+    UI_Item_Morphine_Name = "Морфін",
+    UI_Item_Morphine_Description = "Опіоїдний анальгетик, агоніст опіоїдних рецепторів. Має виражену знеболювальну дію.",
+    UI_Item_Morphine_SideEffects = "Блювота, нудота, сухість у роті, седативний або збудливий ефект, галюцинації, порушення кровообігу головного мозку, запаморочення, непритомність, сонливість.",
+
+    UI_Item_Butamirate_Name = "Бутамірат",
+    UI_Item_Butamirate_Description = "Протикашльовий засіб центральної дії. Бутамірат не належить до алкалоїдів опію. Не формує звикання. Пригнічує кашель, надаючи прямий вплив на кашльовий центр.",
+    UI_Item_Butamirate_SideEffects = "Сонливість, запаморочення, нудота, блювання.",
+
+    UI_Item_Naloxon_Name = "Налоксон",
+    UI_Item_Naloxon_Description = "Опіоїдний антагоніст, який використовується для зупинки ефектів опіоїдів, таких як морфін, фентаніл або героїн. Усуває наслідки передозування опіоїдами та іншими препаратами.",
+    UI_Item_Naloxon_SideEffects = "Нудота, блювання, тахікардія, підвищення або зниження артеріального тиску, зникнення аналгезії.",
+
+    UI_Item_HemoStop_Name = "ГемоСтоп",
+    UI_Item_HemoStop_Description = "Порошковий гемостатичний препарат для зупинення кровотечі з ран та травматичних пошкоджень, який містить мікрокристали целюлози та кальцію. Він прискорює згортання крові та утворення тромбу, допомагаючи зупинити кровотечу.",
+    UI_Item_HemoStop_SideEffects = "-",
+
+    UI_Item_Umifenovir_Name = "Уміфеновір",
+    UI_Item_Umifenovir_Description = "Противірусний препарат, який використовується для лікування вірусів грипу A і B та інших респіраторних вірусних інфекцій. Також має імуномоделювальні та протизапальні властивості.",
+    UI_Item_Umifenovir_SideEffects = "-",
+
+    UI_Item_Nasivion_Name = "Насивіон",
+    UI_Item_Nasivion_Description = "Назальні краплі у вигляді прозорого розчину, зі слабким запахом лаванди. Зменшує набряк та закладеність носа. Допомагає при нежиті.",
+    UI_Item_Nasivion_SideEffects = "-",
+
+    UI_Item_Erythropoietin_Name = "Еритропоетин",
+    UI_Item_Erythropoietin_Description = "Гормон, що виробляється головним чином в нирках, і стимулює утворення еритроцитів (червоних кров'яних клітин) в кістковому мозку. За хімічною структурою це глікопротеїн. У спорті вважається допінгом.",
+    UI_Item_Erythropoietin_SideEffects = "Слабкість, стомлюваність, головний біль, непритомність, задишка, гіпертонія.",
+
+    UI_Item_NaloxonPack_Name = "Коробка Налоксону",
+    UI_Item_NaloxonPack_Description = "Опіоїдний антагоніст, який використовується для зупинки ефектів опіоїдів,<br>таких як морфін, фентаніл або героїн.<br>Усуває наслідки передозування опіоїдами та іншими препаратами.<br>Пакунок містить 10 ампул Налоксону",
+
+    UI_Item_MorphinePack_Name = "Коробка Морфіну",
+    UI_Item_MorphinePack_Description = "Опіоїдний анальгетик, агоніст опіоїдних рецепторів.<br>Має виражену знеболювальну дію.<br>Пакунок містить 10 ампул Морфіну",
+
+    UI_Item_BismuthSubsalicylatePack_Name = "Коробка Вісмут Субсаліцилату",
+    UI_Item_BismuthSubsalicylatePack_Description = "Використовується для лікування деяких шлунково-кишкових захворювань,<br>таких як діарея, запалення шлунка та кишечника, виразки шлунку та інші.<br>Пакунок містить 1 баночку, у якій 20 таблеток",
+
+    UI_Item_AlkaginPack_Name = "Коробка Алкагіну",
+    UI_Item_AlkaginPack_Description = "Ненаркотичний анальгетик. Має болезаспокійливу, жарознижувальну<br>та слабку протизапальну дію, є похідним піразоліну.<br>Пакунок містить 10 ампул Алкагіну",
+
+    UI_Item_ButamiratePack_Name = "Коробка Бутамірату",
+    UI_Item_ButamiratePack_Description = "Протикашльовий засіб центральної дії. Бутамірат не належить до алкалоїдів опію.<br>Не формує звикання. Пригнічує кашель, надаючи прямий вплив на кашльовий центр.<br>Пакунок містить одну баночку сиропу на приблизно 150 застосувань.",
+
+    UI_Item_HemoStopPack_Name = "Коробка ГемоСтоп",
+    UI_Item_HemoStopPack_Description = "Порошковий гемостатичний препарат для зупинення кровотечі з ран та травматичних пошкоджень,<br>який містить мікрокристали целюлози та кальцію.<br>Він прискорює згортання крові та утворення тромбу, допомагаючи зупинити кровотечу.<br>Пакунок містить 2 пакетики, кількість використань залежить від сили кровотечі.",
+
+    UI_Item_UmifenovirPack_Name = "Коробка Уміфеновіру",
+    UI_Item_UmifenovirPack_Description = "Противірусний препарат, який використовується для лікування вірусів грипу A і B<br>та інших респіраторних вірусних інфекцій.<br>Також має імуномоделювальні та протизапальні властивості.<br>Пакунок містить 1 блістер на 5 таблеток",
+
+    UI_Item_NasivionPack_Name = "Коробка Насивіону",
+    UI_Item_NasivionPack_Description = "Назальні краплі у вигляді прозорого розчину, зі слабким запахом лаванди.<br>Зменшує набряк та закладеність носа. Допомагає при нежиті.<br>Пакунок містить 1 пляшку з каплями, якої вистачає на приблизно 100 застосувань.",
+
+    UI_Item_ErythropoietinPack_Name = "Коробка Еритропоетину",
+    UI_Item_ErythropoietinPack_Description = "Гормон, що виробляється головним чином в нирках,<br>і стимулює утворення еритроцитів (червоних кров'яних клітин) в кістковому мозку.<br>За хімічною структурою це глікопротеїн.<br>Пакунок містить 10 ампул.",
+	
+    UI_Item_BloodVolumeIncreaser_Name = "Системний предмет",
+    UI_Item_BloodVolumeIncreaser_Description = "Системний предмет. Ви навіть не повинні його бачити",
+    UI_Item_BloodVolumeReducer_Name = "Системний предмет",
+    UI_Item_BloodVolumeReducer_Description = "Системний предмет. Ви навіть не повинні його бачити",
+    UI_Item_DrugApplier_Name = "Системний предмет",
+    UI_Item_DrugApplier_Description = "Системний предмет. Ви навіть не повинні його бачити",
+    UI_Item_SyringePack_Name = "Коробка 5 мл шприців",
+    UI_Item_SyringePack_Description = "Коробка 5 мл шприців, містить 10 штук",
+    UI_Item_Syringe_Name = "5 мл шприц",
+    UI_Item_Syringe_Description = "Шприц об'ємом 5 мл, без голки",
+    UI_Item_NeedlePack_Name = "Коробка ін'єкційних голок",
+    UI_Item_NeedlePack_Description = "Коробка  голок, які потрібно під'єднати до шприців",
+    UI_Item_Needle_Name = "Ін'єкційна голка",
+    UI_Item_Needle_Description = "Голка для ін'єкції, яку потрібно під'єднати до шприца",
+    UI_Item_SyringeWithNeedle_Name = "Шприц для в/в в/м ін'єкції",
+    UI_Item_SyringeWithNeedle_Description = "Шприц з голкою, використовується для введення ліків<br>внутрішньовенно (і/в) або внутрішньом'язово (і/м).",
+    UI_Item_FullSyringeWithNeedle_Name = "Шприц з препаратом",
+    UI_Item_FullSyringeWithNeedle_Description = "Шприц, у який вже набрано препарат.<br>Готовий до ін'єкції",
+    UI_Item_BloodTestingKit_Name = "Набір для визначення групи крові",
+
+    UI_BloodGroup_ABN_Name = "AB (IV) Rh-",
+    UI_BloodGroup_ABN_Description = "Група крові AB(IV) Rh-",
+    UI_BloodGroup_ABP_Name = "AB (IV) Rh+",
+    UI_BloodGroup_ABP_Description = "Група крові AB(IV) Rh+",
+    UI_BloodGroup_AN_Name = "A (II) Rh-",
+    UI_BloodGroup_AN_Description = "Група крові A(II) Rh-",
+    UI_BloodGroup_AP_Name = "A (II) Rh+",
+    UI_BloodGroup_AP_Description = "Група крові A(II) Rh+",
+    UI_BloodGroup_BN_Name = "B (III) Rh-",
+    UI_BloodGroup_BN_Description = "Група крові B(III) Rh-",
+    UI_BloodGroup_BP_Name = "B (III) Rh+",
+    UI_BloodGroup_BP_Description = "Група крові B(III) Rh+",
+    UI_BloodGroup_ON_Name = "O (I) Rh-",
+    UI_BloodGroup_ON_Description = "Група крові O(I) Rh-",
+    UI_BloodGroup_OP_Name = "O (I) Rh+",
+    UI_BloodGroup_OP_Description = "Група крові O(I) Rh+",
+
+    UI_DosageForm_Oral_Liquid_Name = "Рідина для перорального застосування",
+    UI_DosageForm_Oral_Liquid_Action = "Випити препарат",
+    UI_DosageForm_Oral_Pill_Name = "Пігулки для перорального застосування",
+    UI_DosageForm_Oral_Pill_Action = "Прийняти пігулку",
+    UI_DosageForm_Inhalation_Inhaler_Name = "Інгалятор",
+    UI_DosageForm_Inhalation_Inhaler_Action = "Застосувати інгалятор",
+    UI_DosageForm_Parenteral_Intramuscular_Name = "Внутрішньом'язова ін'єкція",
+    UI_DosageForm_Parenteral_Intramuscular_Action = "Зробити внутрішньом'язову ін'єкцію",
+    UI_DosageForm_Parenteral_Intravenous_Name = "Внутрішньовенна ін'єкція",
+    UI_DosageForm_Parenteral_Intravenous_Action = "Зробити внутрішньовенну ін'єкцію",
+    UI_DosageForm_Topical_Powder_Name = "Порошок для зовнішнього застосування",
+    UI_DosageForm_Topical_Powder_Action = "Застосувати порошок",
+    UI_DosageForm_Intranasal_Drops_Name = "Краплі для носа",
+    UI_DosageForm_Intranasal_Drops_Action = "Застосувати каплі",
+    UI_ContextMenu_CheckPulse = "Перевірити пульс",
+
+    UI_ContextMenu_Ml = "мл",
+    UI_ContextMenu_Take = "Дістати",
+    UI_ContextMenu_FillSyringe = "Наповніть шприц",
+    UI_ContextMenu_AttachNeedleToSyringe = "Приєднати голку",
+    UI_ContextMenu_DonateBlood = "Стати донором крові",
+    UI_ContextMenu_TransferBlood = "Провести переливання крові",
+    UI_ContextMenu_Syringe = "Шприц (%s)",
+    UI_ContextMenu_ExamineDrug = "Прочитати опис препарату",
+    UI_ContextMenu_ExaminePack = "Прочитати опис на коробці",
+    UI_ContextMenu_TestBlood = "Визначити групу крові",
+    UI_ContextMenu_Rename = "Перейменувати",
+    UI_ContextMenu_CheckPulse = "Перевірити пульс",
+    UI_ContextMenu_CheckBloodPressure = "Перевірити тиск ",
+    UI_ContextMenu_CheckBloodVolume = "Перевірити об’єм крові",
+    UI_ContextMenu_RinseWoundTrimEdgesStitch = "Промити, вирівняти край та зашити",
+
+    UI_Window_DrugTitle = "Назва препарату: %s",
+    UI_Window_DrugDescription = "Опис препарату: %s",
+    UI_Window_SideEffectDescription = "Побічні ефекти препарату: %s",
+    UI_Window_DosageDescription = "Максимальна доза: %s (мл/шт)",
+    UI_Window_PulseValue = "Пульс %s ударів за хвилину",
+    UI_Window_BloodVolumeValue = "В організмі приблизно %s мл крові",
+
+    UI_Trait_Pharmacist_Name = "Фармацевт",
+    UI_Trait_Pharmacist_Description = "Може ідентифікувати невідомі препарати.<br>Знає все про склад лікарських засобів та показання до їх застосування,<br>дозування та побічні ефекти",
+    UI_Trait_UniversalDonor_Name = "Універсальний донор",
+    UI_Trait_UniversalDonor_Description = "Може стати донором для всіх інших груп крові",
+    UI_Trait_UniversalRecipient_Name = "Універсальний реципієнт",
+    UI_Trait_UniversalRecipient_Description = "Може приймати кров усіх інших груп крові",
+    UI_Trait_HighPainThreshold_Name = "Високий больовий поріг",
+    UI_Trait_HighPainThreshold_Description = "Здатний терпіти дуже сильний біль",
+    UI_Trait_LowPainThreshold_Name = "Низький больовий поріг",
+    UI_Trait_LowPainThreshold_Description = "Дуже погано переносить біль",
+    UI_Trait_OpioidAddiction_Name = "Опіоїдна залежність",
+    UI_Trait_OpioidAddiction_Description = "Сприйнятливість до опіатів знижується на 40%, підвищується больовий поріг. Без опіатів не проживеш і дня.",
+
+    UI_SideEffect_Bradycardia_Name = "Брадикардія",
+    UI_SideEffect_Bradycardia_Lvl_1_Description = "Слабкий пульс",
+    UI_SideEffect_Bradycardia_Lvl_2_Description = "Пульс значно сповільнився",
+    UI_SideEffect_Bradycardia_Lvl_3_Description = "Передсмертний стан. Якщо, звичайно, ви не кит",
+    UI_SideEffect_OpioidAddiction_Name = "Опіоїдна залежність",
+    UI_SideEffect_OpioidAddiction_Lvl_1_Description = "Ви стаєте тривожним. Бажання отримати дозу",
+    UI_SideEffect_OpioidAddiction_Lvl_2_Description = "Ви пітнієте, серцебиття почастішало. На жаль, ви не закохані",
+    UI_SideEffect_OpioidAddiction_Lvl_3_Description = "У вас лихоманка і нудота. Потрібно терміново знайти дозу",
+    UI_SideEffect_Tachycardia_Name = "Тахікардія",
+    UI_SideEffect_Tachycardia_Lvl_1_Description = "Прискорене серцебиття",
+    UI_SideEffect_Tachycardia_Lvl_2_Description = "Серцебиття значно вище норми",
+    UI_SideEffect_Tachycardia_Lvl_3_Description = "Серце ніби вистрибує з грудей",
+    UI_SideEffect_VisualImpairment_Name = "Порушення зору",
+    UI_SideEffect_VisualImpairment_Lvl_1_Description = "В очах якось мутно",
+    UI_SideEffect_Sweating_Name = "Пітливість",
+	
+		------------(переклав Nyuel)Expanded Helicopter Events------------
+	
+	UI_ConfigMODID_ExpandedHelicopterEvents = "Expanded Helicopter Events"
+    UI_Config_sandBoxMovedText = "Опції конфігурації можна знайти в налаштуваннях пісочниці.",
+    UI_Config_voiceTitle = "Пак Голосів",
+
+    UI_Config_resetEventsToolTip = "Скидання запланованих подій у разі надзвичайної ситуації:",
+    UI_Config_resetEvents = "Скинути Події.",
+    UI_Config_eventMarkersOnToolTip1 = "Увімкніть це, щоб увімкнути маркери подій.",
+    UI_Config_eventMarkersOnToolTip2 = "Примітка: Маркери подій можна перетягувати.",
+    UI_Config_eventMarkersOn = "Маркери Подій",
+	
+		------------(переклав SerjTheLord)Better lockpicking------------
+
+    UI_BobbyPinIgnition = "Зламати замок запалювання",
+    UI_Lockpicking = "Злам",
+    UI_BetLock_VeryEasy = "Дуже просто",
+    UI_BetLock_Easy = "Просто",
+    UI_BetLock_Average = "Середньо",
+    UI_BetLock_Hard = "Складно",
+    UI_BetLock_VeryHard = "Дуже складно",
+    UI_BetLock_TooDifficult = "Занадто складно",
+    UI_BetLock_LockpickDoorBobbyPin = "Зламати дверний замок<br>за допомогою шпильки",
+    UI_BetLock_LockpickDoorCrowBar = "Зламати дверний замок<br>за допомогою лома",
+    UI_BetLock_CheckAlarm = "Перевірити на наявність сигналізації",
+    UI_is_alarm = "Тут є сигналізація",
+    UI_is_no_alarm = "Сигналізації немає",
+    UI_Lockpick = "Зламати",
+    UI_Lockpick_bobbypin = "за допомогою шпильки",
+    UI_Lockpick_crowbar = "за допомогою лома",
+    UI_door_is_unlocked = "Двері вже відімкнуто",
+    UI_trait_nimblefingers = "Слюсар",
+    UI_trait_nimblefingersDesc = "Починає з навичками зламування замків <br> та перевірки автомобілів/будівель на наявність сигналізації",
+    UI_Controls_Crowbar = "Керування: Пробіл",
+    UI_Controls_BobbyPin = "Керування: WASD та миша",
+    UI_Controls_Hotwire = "Знайдіть та з'єднайте 2 дроти запалювання",
+    UI_ForceUnlock = "Зламати силою",
+    UI_window_is_unlocked = "Вікно вже відімкнуто",
+    UI_door_is_locked = "Двері вже замкнено",
+    UI_cant_check_alarm = "Не можу точно визначити",
+    UI_chance_break_lock = "Шанс зламати замок: ",
+    UI_chance_break_window = "Шанс зламати вікно: "
+	
+	///Blacksmith///
+	UI_profdesc_smither = "Може будувати кам'яну піч і наковальню.",
+	
+	///BEFProfessions///
+	UI_prof_maintenanceworker = "Робітник",
+UI_prof_butler = "Дворецький",
+UI_prof_bodyguard = "Тіло охоронець",
+UI_prof_mechanicalengineer = "Інженер механік",
+UI_prof_hermit = "Самітник",
+UI_prof_prisoner = "Осуджений",
+UI_prof_botanist = "Ботанік",
+UI_prof_freelancer = "Фрілансер",
+UI_prof_armsdealer = "Диллер зброї",
+UI_prof_courier = "Кур'єр",
+UI_prof_janitor = "Прибиральник",
+UI_prof_homekeeper = "Домашній господар",
+UI_prof_driver = "Водій",
+UI_prof_baseballplayer = "Бейсболіст",
+UI_prof_plumber = "Сантехнік",
+UI_prof_systemadministrator = "Системний адміністратор",
+UI_prof_taxidermist = "Таксидерміст",
+
+UI_profdesc_maintenanceworker = "Ремонтник",
+UI_profdesc_butler = "Дворецький",
+UI_profdesc_bodyguard = "Тілоохоронець",
+UI_profdesc_mechanicalengineer = "Інжерен-механік",
+UI_profdesc_hermit = "Відлюдник",
+UI_profdesc_prisoner = "В'язень",
+UI_profdesc_botanist = "Ботанік",
+UI_profdesc_freelancer = "Фрілансер",
+UI_profdesc_armsdealer = "Торговець зброєю",
+UI_profdesc_courier = "Кур'єр",
+UI_profdesc_janitor = "Санітар",
+UI_profdesc_homekeeper = "Домогосподар",
+UI_profdesc_driver = "Водій",
+UI_profdesc_baseballplayer = "Бейсболіст",
+UI_profdesc_plumber = "Сантехнік",
+UI_profdesc_systemadministrator = "Системний адміністратор",
+UI_profdesc_taxidermist = "Таксидерміст",
+
+UI_trait_inventive = "Винахідливий",
+UI_trait_homeworkout = "Домашнє тренування",
+UI_trait_infirm = "Немічний",
+UI_trait_survivalist = "Виживальник",
+UI_trait_sitter = "Доглядальниця",
+UI_trait_welder = "Зварювальник",
+UI_trait_breathingtechnique = "Треноване дихання",
+
+UI_traitdesc_inventive = "+1 Електрика<br>+1 Механіка",
+UI_traitdesc_homeworkout = "+1 Сила<br>+1 Фітнес",
+UI_traitdesc_infirm = "-1 Сила<br>-1 Фитнес",
+UI_traitdesc_survivalist = "+1 Рибальство<br>+1 Мисливство<br>+1 Збиральництво",
+UI_traitdesc_sitter = "+1 Кулінарія<br>+1 Шиття",
+UI_traitdesc_welder = "+1 Зварювання",
+UI_traitdesc_breathingtechnique = "Швидше віддихується"
+
+///KillCount///
+ UI_KillCount_weapon = "Вбито",
+    UI_KillCount_fire = "Спалено",
+    UI_KillCount_car = "Переїхано",
+	
+	///PhotographngTime///
+	  UI_prof_Photographer = "Фотограф",
+  UI_profdesc_photographer = "Може проявляти фото з плівки",
+  UI_trait_Photomaniac = "Фотоманьяк",
+  UI_trait_PhotomaniacDesc = "Зйомка покращує настрій.",
+  
+  ///Ladders///
+   UI_Ladders_Climb = "Лізти"
+   
+	------------Gun Suicide (Work in SP/MP 41.71+)------------
+
+	UI_suicide_are_you_sure = "Суїцид? Ви впевнені?",
+	UI_no_Ammo = "Немає патронів або зброя не заряджена",
+	UI_Suicide = "Суїцид"
+}

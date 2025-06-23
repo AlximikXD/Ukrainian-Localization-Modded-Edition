@@ -1,0 +1,297 @@
+Tooltip_UA = {
+
+		------------Game------------
+
+	Tooltip_craft_woodenWallFrameDesc = "Основа для стін і вікон. ",
+	Tooltip_craft_woodenPillarDesc = "Простий дерев'яний стовп. ",
+	Tooltip_craft_wallLogDesc = "Міцна стіна з колод. ",
+	Tooltip_craft_doorFrameDesc = "Дверна рама, необхідна для розміщення дверей, можна штукатурити. ",
+	Tooltip_craft_woodenDoorDesc = "Прості двері, потрібно ставити в дверну раму. ",
+	Tooltip_craft_woodenFloorDesc = "Проста дерев'яна підлога. ",
+	Tooltip_craft_barElementDesc = "Елемент бару, складайте сюди Ваш алкоголь! ",
+	Tooltip_craft_bedDesc = "Спіть міцно! В оточенні зомбі.. ",
+	Tooltip_craft_smallTableDesc = "Малий стіл. ",
+	Tooltip_craft_largeTableDesc = "Великий стіл. ",
+	Tooltip_craft_tableDrawerDesc = "Стіл з ящиком для зберігання Ваших речей. ",
+	Tooltip_craft_woodenChairDesc = "Дерев'яний стілець. ",
+	Tooltip_craft_bookcaseDesc = "Книжкова шафа для Ваших великих книг. ",
+	Tooltip_craft_smallBookcaseDesc = "Маленька книжкова шафа для Ваших великих книг. ",
+	Tooltip_craft_shelvesDesc = "Звичайна полиця. ",
+	Tooltip_craft_doubleShelvesDesc = "Що може бути краще однієї полиці? Тільки дві полиці! ",
+	Tooltip_craft_woodenCrateDesc = "Дерев'яний ящик, може зберігати Ваші речі. ",
+	Tooltip_craft_woodenStakeDesc = "Дерев'яний кілок для насадки колючого дроту. ",
+	Tooltip_craft_barbedFenceDesc = "Паркан з колючого дроту уповільнює і може подряпати Вас. ",
+	Tooltip_craft_woodenFenceDesc = "Дерев'яний паркан. ",
+	Tooltip_craft_sandBagDesc = "Захисна стіна з мішків з піском. ",
+	Tooltip_craft_gravelBagDesc = "Захисна стіна з мішків з гравієм. ",
+	Tooltip_craft_compostDesc = "Перетворює зіпсовану і гнилу їжу в компост. Зберіть компост в мішок і використовуйте в городі як добриво. ",
+	Tooltip_item_RainFromGround = "Залиште на вулиці під час дощу, щоб набрати води. ",
+	Tooltip_craft_signDesc = "Намалюйте що-небудь на ній. ",
+	Tooltip_craft_woodenPicketDesc = "Дерев'яний стовпчик з ганчіркою. ",
+	Tooltip_craft_woodenFenceDesc = "Забезпечує деякий захист від орди. ",
+	Tooltip_craft_doorFrameDesc = "Дверна рама, необхідна для розміщення дверей, можна штукатурити. ",
+	Tooltip_craft_woodenFrameDesc = "Проста віконна рама, можна барикадувати, штукатурити та фарбувати. ",
+	Tooltip_craft_doubleWoodenDoorDesc = "Подвійні ворота доволі великі, щоб проїхав автомобіль. ",
+	Tooltip_craft_stairsDesc = "Ідете вгору. Потім вниз. І зомбі за вами. ",
+	Tooltip_craft_rainBarrelDesc = "Бочка для збору дощової води. ",
+	Tooltip_craft_woodenWallDesc = "Проста дерев'яна стіна, можна барикадувати, штукатурити та фарбувати. ",
+	
+		------------TheWorkshop------------
+		
+--workshop
+	Tooltip_HugePropaneTank 	= "Можна переміщати лише з причепом",
+	Tooltip_MetalWorkbench 		= "Використовується для багатьох рецептів у вкладці «Майстрування».",
+	Tooltip_MetalParts 			= "Металобрухт, але трошки менший",
+	Tooltip_LargeBolt 			= "Це як гвинт, але набагато більший",
+	Tooltip_File				= "Для заточування лез і тому подібного",
+	Tooltip_Pliers 				= "Можна використовувати для розбирання дрібних предметів",
+	Tooltip_MetalCutter			= "Використовується для різання металевих листів",
+	Tooltip_Motor				= "Маленький двигун",
+--equipment
+	Tooltip_Toolbelt			= "Дозволяє зберігати різні інструменти",
+--smelting
+
+--magazines
+	Tooltip_WorkshopMag1 		= "Навчає як розбирати на брухт різні маленькі металеві предмети",
+	Tooltip_WorkshopMag2 		= "Навчає розбирати Зброю та Інструменти",
+	Tooltip_WorkshopMag3 		= "Навчає як зробити газову піч на пропані та як нею користуватися",
+	Tooltip_WorkshopMag4 		= "Навчає розбирати автозапчастини на брухт",
+	Tooltip_WorkshopMag5 		= "Навчає розбирати складні предмети",
+	
+		------------ScrapWeapons------------
+	
+--magazines
+	Tooltip_WeaponMag1 				= "Створюйте зброю, яка буде трощити черепа",
+	Tooltip_WeaponMag2 				= "Навчає виготовляти імпровізовані заточки",
+	Tooltip_WeaponMag3 				= "Навчає виготовляти дроблячу зброю",
+	Tooltip_WeaponMag4 				= "Навчає виготовляти усе, що схоже на сокиру",
+	Tooltip_WeaponMag5 				= "Навчає виготовляти різноманітні списи",
+	Tooltip_WeaponMag6 				= "Навчає як за допомогою напилока зробити собі декілька мечів",
+--2x4
+	Tooltip_2x4UpgradedAxe 			= "Шматок дерева з деякими покращеннями (Сокира)",
+	Tooltip_2x4UpgradedShortBlunt 	= "Шматок дерева з деякими покращеннями (Коротке дробляче)",
+--shortblade
+	Tooltip_SharpenedScrewdriver 	= "Щось на зразок шипа з ручкою (Коротке ріжуче)",
+	Tooltip_GlassShiv 				= "Дуже крихка, але працює як треба (Коротке ріжуче)",
+	Tooltip_ScrapShiv 				= "Доволі грубо зроблено, але працює (Коротке ріжуче)",
+	Tooltip_SalvagedShiv 			= "А вона гостра! (Коротке ріжуче)",
+--spears
+	Tooltip_SpearUpgraded 			= "Покращений спис (Спис)",
+	Tooltip_SpearSalvaged 			= "Надзвичайно міцний спис з гострим лезом (Спис)",
+	Tooltip_ScrapSpear 				= "Дерев'яний спис з лезом (Спис)",
+--axe
+	Tooltip_ScrapPickaxe 			= "Ніжка стільця з великим шипом на ній (Сокира)",
+	Tooltip_PipewithScissors 		= "Труба з примотаними на неї ножицями (Сокира)",
+	Tooltip_ScrapAxe 				= "Здатний рубати не тільки дерева, а ще й ворогів (Сокира)",
+	Tooltip_SalvagedClimbingAxe 	= "Може трощити черепа (Добре ламає двері) (Сокира)",
+	Tooltip_SharpenedStopSign 		= "Не зупиняйся... ПЕРЕБИЙ ЇХ УСІХ! (Сокира)",
+	Tooltip_HugeScrapPickaxe		= "Велика труба з великими шипами! (Сокира)",
+--shortblunt
+	Tooltip_ScrapClub				= "Булава, зроблена з брухту (Коротке дробляче)",
+	Tooltip_SalvagedClub			= "Покращена булава з ланцюгами (Коротке дробляче)",
+--blunt
+	Tooltip_SalvagedCrowbar 		= "Оновлений та покращений лом (Добре ламає двері) (Довге дробляче)",
+	Tooltip_BoltBat 				= "Бейсбольна бита з гвинтами у ній (Довге дробляче)",
+	Tooltip_ChainBat 				= "Бейсбольна бита з ланцюгами (Довге дробляче)",
+	Tooltip_SalvagedPipe 			= "Подовжена та міцна труба (Довге дробляче)",
+	Tooltip_TinCanClub				= "Саморобна булава? (Довге дробляче)",
+	Tooltip_SalvagedSledgehammer 	= "Надзвичайно важкий руйнівник кісток! (Довге дробляче)",
+	Tooltip_GearMace 				= "Надзвичайно важкий руйнівник черепів!(Довге дробляче)",
+	Tooltip_WireBat 				= "Бейсбольна бита обмотана проволокою (Довге дробляче)",
+	Tooltip_Micromaul 				= "Це мікрохвильовка па палиці! (Довге дробляче)",
+--longblade
+	Tooltip_ScrapSword 				= "Важкий меч (Довге ріжуче)",
+	Tooltip_ScrapMachete 			= "Тесак, зроблений зі всього що було під рукою (Довге ріжуче)",
+	Tooltip_SalvagedNightstick 		= "Неможливо прикріпити до поясу (Довге ріжуче)",
+	Tooltip_SalvagedMachete 		= "Добре зроблений різак для Зомбі (Довге ріжуче)",
+	Tooltip_ScrapBlade 				= "Грубо зроблений, але гострий (Довге ріжуче)",
+	Tooltip_SalvagedBlade 			= "Катана, зроблена у домашніх умовах (Довге ріжуче)",
+	Tooltip_SalvagedCleaver 		= "Надзвичайно важкий тесак (Довге ріжуче)",
+	
+		------------Scrap Guns------------
+	
+--magazines
+	Tooltip_ScrapGunMag1 			= "Навчає, як використовувати тиск повітря для виготовлення зброї",
+	Tooltip_ScrapGunMag2 			= "Навчає, як виготовляти саморобну вибухівку",
+	Tooltip_ScrapGunMag3 			= "Навчає, як виготовляти вдосконалену зброю",
+	Tooltip_ScrapGunMag4 			= "Навчає, як виготовляти базову зброю",
+--ammo
+	Tooltip_UsesMetalScraps 		= "Заряджається Металевими частинками",
+	Tooltip_UsesShrapnelShells 		= "Заряджається Шрапнельними набоями",
+	Tooltip_UsesSRMag				= "Стріляє металевими частинками, використовує 'Магазин пневм. гвинт.'",
+	Tooltip_Uses308Bullets			= "Стріляє набоями 308. калібру",
+	Tooltip_UsesShotgunShells 		= "Стріляє патронами з картеччю",
+	Tooltip_UsesSalvagedMag 		= "Стріляє Саморобними набоями, Використовує Саморобний магазин",
+	Tooltip_UsesSalvagedBullets		= "Заряджається Саморобними набоями",
+	Tooltip_UsesScrapPistolMag 		= "Стріляє Набоями з брухту і використовує 'Магазин пістолета з брухту'",
+	Tooltip_UsesScrapSMGMag 		= "Стріляє Набоями з брухту і використовує 'Магазин SMG з брухту'",
+	Tooltip_UsesScrapGatlingBoxMag 	= "Величезний кулемет Гатлінга. Стріляє набоями з брухту.",
+	Tooltip_UsesScrapBullets		= "Заряджається набоями з брухту",
+
+		------------ScrapArmor------------
+
+--armor
+	Tooltip_ScrapShield 		= "Захищає ваші руки й торс",
+	Tooltip_ScrapHandPlate 		= "Захищає ваші кисті",
+	Tooltip_ScrapHelmet 		= "Захищає вашу голову",
+	Tooltip_ScrapKilt 			= "Захищає ваш живіт",
+	Tooltip_ScrapLegPad 		= "Захищає ваші ноги",
+	Tooltip_ScrapPauldrons 		= "Захищає вашу шию",
+	Tooltip_ScrapShinPlate		= "Захищає ваші гомілки",
+	Tooltip_ScrapShoulderPad 	= "Захищає ваші плечі",
+	Tooltip_ScrapVest 			= "Захищає ваш тулуб",
+--equipment
+	Tooltip_CanBeWornOverTheWeldingMask = "Можна одягти разом зі зварювальною маскою",
+	Tooltip_SwordSheath 	= "Holsters a Sword",
+	Tooltip_ScrapLegPouch 	= "Дозволяє зберігати додаткове обладнання або речі",
+--magazines	
+	Tooltip_ArmorMag1 	= "Навчає як виготовляти базову броню",
+	Tooltip_ArmorMag2 	= "Зробіть щит з підручних засобів",
+	Tooltip_ArmorMag3 	= "Покращуйте ваші обладунки з брухту за допомогою дорожніх знаків!",
+	Tooltip_ArmorMag4 	= "Удосконалюйте обладунки за допомогою болтів і гвинтів",
+	Tooltip_ArmorMag5 	= "Деякі сторінки відсутні або їх неможливо прочитати",
+	
+		------------Weapon Condition Indicator------------
+		
+    Tooltip_TheStar_AmmoCount = "Набої в інвентарі",
+    Tooltip_TheStar_AmmoCount_Total = "ВСЬОГО: %1",
+    Tooltip_TheStar_BatteryCharge = "Залишок заряду: ~ %1 г %2 хв",
+	
+		------------ImprovedBuildMenu------------
+	
+-- Carpentry
+	Tooltip_craft_woodenBrownFloorDesc = "Звичайна підлога з коричневого дерева. ",
+	Tooltip_craft_woodenLightBrownFloorDesc = "Звичайна підлога зі світло-коричневого дерева. ",
+	Tooltip_craft_pillarLogDesc = "Стовп з колод, який використовується як опора або зв’язується разом з іншими колодами для створення стіни. ",
+	Tooltip_craft_WoodenGateDesc = "Проста конструкція воріт з дерева. ",
+	Tooltip_craft_WoodenBigGateDesc = "Висока дерев'яна конструкція воріт з отвором для підглядання. ",
+	Tooltip_concreteFloorDesc = "Бетонна підлога, щоб не дати зомбі вилазити з землі. ",
+----IBM-ExtraBuildings
+-- Carpentry
+	Tooltip_craft_Barricade = "Барикада з кількох дерев’яних предметів, щоб утримувати зомбі. ",
+	
+		------------ExtraMapSymbols------------
+		
+	Tooltip_Map_CantWrite = "Потрібна ручка, олівець або кольорові олівці.",
+	Tooltip_Map_CantEdit = "Потрібна гумка, ручка, олівець або кольорові олівці.",
+
+	Tooltip_ExtraMapSymbolsUI_NeedCrayons = "Потрібна пачка кольорових олівців."
+	
+		------------(переклав Nyuel)Expanded Helicopter Events------------
+		
+	Tooltip_dismantle_helicopterpart = "Використання газової горілки та маски зварника дозволить отримати метал.",
+    Tooltip_open_boxes_barehanded = "Це буде швидше відкрити за допомогою чогось гострого.",
+    Tooltip_Parachute = "Його можна розірвати на шматки, щоб отримати порвану тканину.",
+    Tooltip_EnergyBar = "Енергетичний батончик, запакований для наборів для виживання. Виробляється компанією PT&D.",
+    Tooltip_SurvivalVest = "Стандартний жилет для виживання пілотів військової авіації.",
+    Tooltip_SurvivalVestBlack = "Стандартний жилет виживання для поліцейських пошуково-рятувальних операцій.",
+    Tooltip_SPHMilitary = "Стандартний шолом пілота військового гелікоптера."
+    Tooltip_SPHBlack = "Стандартний шолом чорного кольору пілота військового гелікоптера.",
+    Tooltip_SPHPolice = "Шолом для поліцейських авіаційних загонів.",
+    Tooltip_SPHCivilian = "Шолом пілота гелікоптера для цивільних",
+
+    Tooltip_FlyerCDC = "Здається, це листівка з оголошенням щодо здоров'я.",
+    Tooltip_FlyerMilitary = "Здається, це оголошення військових.",
+    Tooltip_CivilDefense = "Це виглядає як листівка міської оборони.",
+
+    Tooltip_WaterSealed = "Запечатаний водний раціон, розповсюджуваний урядом США."
+    Tooltip_WaterUnsealed = "Незапакований водний раціон, розповсюджуваний урядом США." 
+
+    Tooltip_SupplyBox = "Коробка з Запасами від уряду США."
+    Tooltip_SamaritanBox = "Коробка з Запасами від групи загадкових благодійників",
+    Tooltip_BanditBox = "Особиста коробка. На ній написано «МОЄ ДОБРО, НЕ ЧІПАТИ!»",
+
+    Tooltip_SignalFlare = "Сигнальний піротехнічний засіб. Не використовуйте в приміщеннях!",
+    Tooltip_HandFlare = "Сигнальний прожектор. Не використовувати в приміщенні!"
+	
+		------------(переклав Nyuel)83 AM General M923------------
+		
+	Tooltip_item_runflats = "Універсальні військові шини, які ніколи не проколюються, але втрачають зчеплення, коли їх стан погіршуються.",
+	Tooltip_item_M923Axleflats = "Задній міст M923 складається з двох військових шин, які ніколи не проколюються, але втрачають зчеплення, коли їх стан погіршуються",
+	Tooltip_item_M923Muffler1 = "Дещо зменшує шум двигуна.",
+	Tooltip_item_M923Stakes1 = "Косметичний елемент, конструкція для M923 з плоскою платформою.",
+	Tooltip_item_M923Bumper1 = "Прикріплюється до передньої частини M923, щоб трохи захистити капот і двигун.",
+	Tooltip_item_M923Bumper2 = "Прикріплюється до передньої частини M923, щоб повністю захистити капот і двигун.",
+	Tooltip_item_M923HardCover1 = "Косметичний елемент, жорсткий кришталь для кабіни M923.",
+	Tooltip_item_M923SoftCover2 = "Косметичний елемент, м'який трамплін для кабіни M923.",
+	Tooltip_item_M923Windshield2 = "Ви можете використовувати скальпель для різання звичайних важких лобових склів, щоб зробити заміну лобового скла M923.",
+	Tooltip_item_M923SideWindow2 = "Ви можете використовувати скальпель для різання звичайних важких вікон, щоб зробити заміну вікон M923.",
+	Tooltip_item_M923Gunport2 = "Металеві вікна для збройних отворів, використовуються ззаду M923.",
+	Tooltip_item_M923WindshieldArmor1 = "Прикріплюється до передньої частини M923, щоб захистити лобове скло.",
+	Tooltip_item_M923DoorArmor1 = "Прикріплюється до дверей M923, щоб захистити двері та вікна.",
+	Tooltip_item_M923GuntruckArmor1 = "Використовується як основа для збройних отворів та сидінь, встановлюється на платформі M923.",
+	Tooltip_item_M923SpareMount1 = "Використовується для кріплення запасного колеса на задній частині кабіни M923.",
+	Tooltip_item_M923Mudflaps1 = "Це косметичний елемент, що захищає людину за вами від пилу та бруду.",
+
+		------------(переклав Nyuel)92 AM General M998 + M101A3 Cargo trailer------------
+	
+	Tooltip_item_runflats = "Універсальні військові шини, які ніколи не проколюються, але втрачають зчеплення при низькому стані.",
+	Tooltip_item_M998runflats = "Військові шини M998, які ніколи не проколюються, але втрачають зчеплення при низькому стані.",
+	Tooltip_item_M998Roofrack1 = "Додатковий простір для зберігання на даху, досяжний з усіх сторін M998.",
+	Tooltip_item_M998TrunkBarrier1 = "Металева бар'єрна сітка для багажника M998",
+	Tooltip_item_M998TrunkBarrier2 = "Легка сітчаста бар'єрна сітка для багажника M998",
+	Tooltip_item_M998SpareMount = "Кріплення запасного колеса, яке використовується для кріплення запасної шини Run Flat на M998 або його причепі",
+	Tooltip_item_M998SpareTireMount = "Кріплення запасної шини на M998 або розбірне, щоб взяти шину Run Flat та кріплення",
+	Tooltip_item_M998FrontDoorArmor1 = "Кріплення на передні двері M998 для захисту передніх дверей та вікон",
+	Tooltip_item_M998RearDoorArmor1 = "Кріплення на задні двері M998 для захисту задніх дверей та вікон",
+	Tooltip_item_M998SideWindow2 = "Ви можете використовувати скальпель, щоб вирізати звичайні вікна зі скла та виготовити замінні вікна для M998",
+	Tooltip_item_M998Windshield2 = "Ви можете використовувати скальпель, щоб вирізати звичайні лобові скла та виготовити замінне лобове скло для M998",
+	Tooltip_item_M998WindshieldArmor1 = "Кріплення на передню частину M998 для захисту лобового скла",
+	Tooltip_item_M998WindshieldArmor2 = "Кріплення на передню частину M998 для захисту лобового скла",
+	Tooltip_item_M998TrunkDoor = "Вам потрібно встановити задню кришку на M998, щоб додати кришку багажника",
+	Tooltip_item_M998BackCover1 = "Прикриває задню частину та дозволяє встановити кришку багажника",
+	Tooltip_item_M998Muffler1 = "Дещо зменшує рівень шуму двигуна",
+	Tooltip_item_M998Muffler2 = "Значно зменшує рівень шуму двигуна",
+	Tooltip_item_M998Bullbar1 = "Кріпиться на передню частину М998, щоб захистити капот та двигун",
+	Tooltip_item_M998Bullbar2 = "Кріпиться на передню частину М998, щоб захистити капот та двигун",
+	Tooltip_item_M998Mudflaps1 = "Косметичний елемент, захищає людину, яка йде за вами, від пилу та бруду",
+	Tooltip_item_M101A3TrunkDoor = "Це... двері багажника для... причепа",
+	Tooltip_item_M101A3Cover1 = "Косметичний елемент, прямокутне покриття для причіпа",
+	Tooltip_item_M101A3Tarp1 = "Косметичний елемент, низькопрофільний тент для причіпа",
+	
+		------------(переклав SerjTheLord)Better lockpicking------------
+
+    Tooltip_BetLock_BobbyPin = "Предмет для зламування замків. Використовується з викруткою. Навичка повинна бути отримана з журналу про зламування замків",
+    Tooltip_BetLock_LockpickingMag = "Цей журнал навчить вас зламувати двері, вікна та транспортні засоби за допомогою шпильки або лома.",
+    Tooltip_BetLock_AlarmMag = "Цей журнал навчить вас перевіряти автомобілі та будинки на наявність сигналізації."
+	
+	///vanilla food fixed///
+	Tooltip_CommonMallowDried = "Полегшує симптоми застуди. Діє гірше ніж свіжа трава. <br>Краще зварити чай.",
+Tooltip_LemonGrassDried = "Полегшує харчове отруєння. Діє гірше ніж свіжа трава. <br>Краще зварити чай.",
+Tooltip_BlackSageDried = "Зменшує біль. Діє гірше ніж свіжа трава. <br>Краще зварити чай.",
+Tooltip_GinsengDried = "Відновлює сили. Діє гірше ніж свіжа трава. <br>Сварите его как чай, чтоб восстановить эффективность.",
+Tooltip_Tea_CommonMallow = "Полегшує симптоми застуди.",
+Tooltip_Tea_LemonGrass = "Полегшує харчове отруєння",
+Tooltip_Tea_BlackSage = "Зменшує біль",
+Tooltip_Tea_Ginseng = "Відновлює сили",
+Tooltip_Tea_Medicinal = "Полегшує симптоми застуди..<br>Трохи полегшує біль.",
+Tooltip_Tea_Energizing = "Зменшує втому і сонливість",
+Tooltip_Teabag_Medicinal = "Можна зробити цілющий чай",
+Tooltip_Teabag_Energizing = "Можна зробити бадьорячий чай",
+	
+	///Blacksmith///
+	Tooltip_smith_AddLogs = "Додайте 5 колод, щоб створити вугілля, розпаліть і чекайте.",
+	Tooltip_smith_CharcoalProgression = "Утворення вугілля: ",
+	
+	///VehicleRecycling///
+	Tooltip_VehicleRecycling = "Розбирання автомобіля або причіпа пропановим пальником утворить металеві та електричні матеріали. <LINE> Вищий навик металеобробки дасть більшу кількість матеріалів.",
+	
+	///Take A Bath///
+	  Tooltip_item_There_is_no_Water= "Бракує води....",
+	  
+	  ///Ladder///
+	  Tooltip_QNW_Ladder_LadderDesc = "можна вилізти",
+	  
+	  ///ImprovisedGlass///
+	    Tooltip_IGMagazineGlass = "Вини повинні бути у вас під рукою",
+		
+		///Active_Charcoal///
+		Tooltip_item_act = "Використовуйте коли відчуваєте проблеми зі шлунком",
+		
+		///PhotographngTime///
+		Tooltip_BookTitle_Photography = "Фотографія",
+		
+		///Immersive Solar Arrays///
+		Tooltip_ISA_NoPanels = "Відсутнє живлення"
+} 
+	

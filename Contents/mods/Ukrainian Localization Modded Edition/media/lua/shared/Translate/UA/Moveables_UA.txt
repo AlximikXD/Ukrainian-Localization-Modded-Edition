@@ -1,0 +1,17 @@
+Moveables_UA = {
+
+		------------(переклав Nyuel)Water Dispenser------------
+	
+    Full_Water_Dispenser = "Диспенсер для води",
+    Empty_Water_Dispenser = "Диспенсер для води",
+	
+	///Ladder///
+	 QNW_Ladder = "?рабина",
+
+///Immersive Solar Arrays///
+	Battery_Bank = "–ештуванн¤ дл¤ акумул¤тор?в",
+	Solar_Roof_Tile = "—он¤чна панель (?ах)",
+	Wall_Mounted_Solar_Panel = "—он¤чна панель (наст?нна)",
+	Floor_Mounted_Solar_Panel = "—он¤чна панель (ѕ?длога)",
+	Failsafe_Trigger = "Ѕлок ј¬–",
+}

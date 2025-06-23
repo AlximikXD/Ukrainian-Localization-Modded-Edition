@@ -1,0 +1,8 @@
+Stash_UA = {
+
+		------------LitSortOGSN------------
+		
+    Stash_AnnotedMap = "Мапа - З позначками",
+    Stash_AnnotatedMap_Prefix = "Мапа",
+    Stash_AnnotedMap_Suffix = "- З позначками",
+}

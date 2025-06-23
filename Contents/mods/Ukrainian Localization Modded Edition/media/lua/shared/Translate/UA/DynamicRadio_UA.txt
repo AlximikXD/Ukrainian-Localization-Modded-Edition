@@ -1,0 +1,101 @@
+DynamicRadio_UA = {
+
+		------------(переклав Nyuel)Expanded Helicopter Events------------
+	
+	AEBS_SupplyDrop = "Гуманітарна допомога на підході."
+	AEBS_Raiders = "Якщо хтось чує це, ЗАБИРАЙТЕСЬ НА..."
+    AEBS_SurvivorHeli = "Вцілілий тікає."
+    AEBS_SamaritanDrop = "Для всіх, хто ще живий, ми привозимо запаси."
+    AEBS_UnauthorizedEntryPolice = "Несанкціонована повітряна активність, злочинне поводження правоохоронців."
+    AEBS_UnauthorizedEntryNews = "Несанкціонована повітряна діяльність, журналіст-порушник."
+    AEBS_JetBombing = "Цільове навантаження для очищення на підході."
+    AEBS_JetPass = "Наближається переліт реактивного літака."
+    AEBS_AirRaid = "ЗАЛИШАЙТЕСЬ У ПРИМІЩЕННІ ТА ШУКАЙТЕ УКРИТТЯ"
+    AEBS_HostileMilitary = "Виявлена повітряна активність. Військові спецоперації в процесі. Бажаємо успіху."
+    AEBS_PurgeMilitary = "Виявлено повітряну активність. Проводяться заходи контролю за зараженими."
+    AEBS_Military = "Виявлено діяльність у повітрі. Розпочато евакуаційні заходи."
+	
+	AEBS_Intro = "<bzzt> П'ять, нуль, два. <wzzt> Автономна система оповіщення. <bzzt>",
+	AEBS_Choppah = "Виявлено повітряню активність.",
+	AEBS_Power_1 = "Енергосистема Ноксу: Зареєстровані коливання потужності",
+	AEBS_Power_2 = "Енергосистема Ноксу: Збій системи. Мережа пошкоджена.",
+	AEBS_Power_3 = "Енергосистема Ноксу: системна аварія",
+	AEBS_Pre_today = "Сьогодні,",
+	AEBS_Pre_tomorrow = "Завтра,",
+	AEBS_Pre_dayafter = "Післязавтра,",
+	--примітка: подвійне '%%' в кінці необхідне:
+	AEBS_temperature = "середня температура %s; мінімальна: %s, максимальна: %s, вологість: %s%% ...",
+	AEBS_wind_0 = "%s вітер з %s, швидкість вітру %s . %s",
+	AEBS_wind_1 = "Невеликий",
+	AEBS_wind_2 = "Помірний",
+	AEBS_wind_3 = "Сильний",
+	AEBS_wind_4 = "Штормовий",
+	AEBS_clouds_0 = "Небо ясне.",
+	AEBS_clouds_1 = "Невелика хмарність.",
+	AEBS_clouds_2 = "Сильна хмарність.",
+	AEBS_clouds_3 = "Періодична хмарність.",
+	AEBS_clouds_4 = "Періодична сильна хмарність.",
+	AEBS_fog_0 = "Невеликий туман.",
+	AEBS_fog_1 = "Густий туман.",
+	AEBS_fog_2 = "Дуже густий туман.",
+	AEBS_weather_0_a = "УВАГА: Прогнозується, що період погоди почнеться %s...",
+	AEBS_weather_0_b = "Погода продовжиться протягом дня... ",
+	AEBS_weather_0_c = "Передбачений період погоди закінчиться %s... ",
+	AEBS_weather_predicted = "очікується ",
+	AEBS_weather_and_a = " і ",
+	AEBS_weather_light_moderate = "очікується легкий/помірний дощ...",
+	AEBS_weather_heavy_rain = "зливи, або/та сильні дощі",
+	AEBS_weather_storm = "гроза",
+	AEBS_weather_tropical = "тропічний шторм",
+	AEBS_weather_blizzard = "снігова буря",
+	AEBS_weather_snowfall = " ймовірно снігопад.",
+	AEBS_weather_storm_C = "Гроза",
+	AEBS_weather_tropical_C = "Тропічний шторм",
+	AEBS_weather_blizzard_C = "Снігова буря",
+	AEBS_weather_warning = "Попередження про небезпечну погоду. %s неминучий. Очікується %s днів...",
+	
+	AEBS_rand_pre_0 = "аномальний",
+	AEBS_rand_pre_1 = "підозрілий",
+	AEBS_rand_pre_2 = "ворожий",
+	--AEBS_rand_pre_3 = "немертвий",
+	AEBS_rand_pre_4 = "клас 5",
+	AEBS_rand_pre_5 = "клас 4",
+	AEBS_rand_pre_6 = "клас 3",
+	AEBS_rand_pre_7 = "уцілілий",
+	AEBS_rand_pre_8 = "автомобіль",
+	AEBS_rand_pre_9 = "в повітрі",
+	AEBS_rand_pre_10 = "дружній",
+	AEBS_rand_pre_11 = "невідомий",
+	AEBS_rand_pre_12 = "нейтральний",
+	
+	AEBS_zone_name_s = "півдня",
+	AEBS_zone_name_sw = "південного заходу",
+	AEBS_zone_name_nw = "північного заходу",
+	AEBS_zone_name_c = "центральний",
+	AEBS_zone_name_n = "півночі",
+	AEBS_zone_name_ne = "північного сходу",
+	AEBS_zone_name_w = "заходу",
+	AEBS_zone_name_e = "сходу",
+	AEBS_zone_name_se = "південного сходу",
+	
+	AEBS_random_0 = "Всьому персоналу. Тимчасове радіомовчання для %s забороненої зони... сектора %i, %i, %i і %i",
+	AEBS_random_1 = "чарлі <fzzt> індіа - альфа, <bzzt> визначена зона <bzzt> сектор %i <wzzt>",
+	AEBS_random_2 = "всьому персоналу <bzzt> наказ <fzzt> %i був схвалений <wzzt>",
+	AEBS_random_3 = "...%s <bzzt> активність в секторі %i <Wzzt>",
+	--AEBS_random_4 = "<fzzt>",
+	AEBS_random_5 = "<bzzt>..ожіть мені! <wzzt> з повагою до <szzt> , БУДЬ ЛАСКА, НІ!! <bzzt> допоможіть... <wzzt>",
+	AEBS_random_6 = "<bzzt>..вони намагаються витягнути його... <bzzt> роби оскільки... <wzzt>",
+	AEBS_random_7 = "<bzzt>..ЦЕ ПРОРИВ!... <bzzt> ЧОРТ, УТРИМУЙТЕ ЇХ! НАМ ПОТРІБНА ПІДТРИ...<wzzt>",
+	AEBS_random_8 = "<bzzt>... їм потрібно більше даних...<wzzt>",
+	AEBS_random_9 = "<bzzt>... втікші... <bzzt> рухаються ...<wzzt>",
+	AEBS_random_10 = "<bzzt>... Операція Артеміда <bzzt> високий пріоритет ...<wzzt>",
+	AEBS_random_11 = "<bzzt>... хто відправляє їх? <bzzt> Я розумію, що ми отримали накази, але ...<wzzt>",
+	AEBS_random_12 = "<bzzt>... я не довіряю йому <bzzt> хто говорить... не правий <wzzt>",
+	AEBS_random_13 = "<bzzt>... говорили, що вони прибули зі Сходу <bzzt> повторюю: зі Сходу...<wzzt>",
+	
+	AEBS_segment_night = "вночі",
+	AEBS_segment_early_morning = "рано вранці",
+	AEBS_segment_morning = "вранці",
+	AEBS_segment_afternoon = "днем",
+	AEBS_segment_evening = "ввечері",
+}

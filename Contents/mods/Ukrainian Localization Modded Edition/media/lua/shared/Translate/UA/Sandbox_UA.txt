@@ -1,0 +1,104 @@
+Sandbox_UA = {
+
+		------------BecomeDesensitized------------
+		
+    Sandbox_BecomeDesensitized = "Become Desensitized",
+    
+    Sandbox_MinimumZombieKills = "Мінімальна кількість вбивств зомбі (МАЄ БУТИ МЕНША ЗА МАКСИМАЛЬНУ КІЛЬКІСТЬ ВБИВ ЗОМБІ)",
+    Sandbox_MinimumZombieKills_tooltip = "Мінімальна кількість вбивств зомбі необхідна, щоб мати шанс отримати залізні нерви.",
+
+    Sandbox_MaximumZombieKills = "Максимальна кількість вбивств зомбі (ПОВИННА БУТИ БІЛЬШОЮ ЗА МІНІМАЛЬНУ КІЛЬКІСТЬ ВБИВ ЗОМБІ)",
+    Sandbox_MaximumZombieKills_tooltip = "Максимальна кількість вбивств зомбі необхідна щоб отримати залізні нерви",
+
+    Sandbox_ConsiderTraits = "Враховувати риси персонажа",
+    Sandbox_ConsiderTraits_tooltip = "Враховувати риси персонажа, які можуть збільшити, або зменшити ймовірність отримати залізні нерви.<br>(більше інформації на сторінці моду)",
+
+    Sandbox_ConsiderOccupations = "Враховувати професії персонажа",
+    Sandbox_ConsiderOccupations_tooltip = "Враховувати професії Офіцера поліції, Пожежника, Рейнджера, Охоронця, Лікаря та Медперсонала, які можуть збільшити ймовірність стати не підверженим паніці",
+
+    Sandbox_Logging = "Увімкнути журнал консолі",
+    Sandbox_Logging_tooltip = "Ідеально підходить для серверів для усунення проблем, які можуть виникнути, або просто для тестування.",
+	
+		------------iMed------------
+	
+    Sandbox_ImmersiveMedicine = "Immersive Medicine",
+    Sandbox_IsBloodSystemActive = "Увімкнути систему втрати та переливання крові",
+    Sandbox_IsBloodTypeSystemActive = "Увімкнути групи крові",
+    Sandbox_IsHeartbeatEnabled = "Увімкнути звук серцебиття",
+    Sandbox_BloodVolumeReduceModifier = "Модифікатор швидкості втрати крові",
+    Sandbox_BloodVolumeIncreaseModifier = "Модифікатор швидкості відновлення крові",
+	
+		------------(переклав Nyuel)MoarCanOpeners------------
+		
+	Sandbox_MoarCanOpeners = "Moar Can Openers",
+	Sandbox_MoarCanOpeners_InjurePlayer = "Пошкодження Тіла",
+	Sandbox_MoarCanOpeners_InjurePlayer_tooltip = "Шанс отримати травму(лівої чи правої руки) при використанні зброї чи каменю як відкривачки",
+	Sandbox_MoarCanOpeners_PoisonResult = "Отруєння Їжі",
+	Sandbox_MoarCanOpeners_PoisonResult_tooltip = "Якщо зброя або руки(якщо відкриваєте каменем) закривавлені, то відкрита банка буде містити отруєну їжу (персонаж не помре, якщо він здоровий).",
+	Sandbox_MoarCanOpeners_SpillResult = "Проливання Їжі",
+	Sandbox_MoarCanOpeners_SpillResult_tooltip = "Відкрита банка містить менше їжі. Шанс залежить від використовуваного інструменту та настрою персонажа.",
+	Sandbox_MoarCanOpeners_LongBladeStrengthLevel = "Вимоги до Міцності Довгого Леза",
+	Sandbox_MoarCanOpeners_LongBladeStrengthLevel_tooltip = "Зброя з довгим лезом (наприклад, мачете) буде доступна як відкривачка для банок<br>після того, як персонаж досягне цього рівня сили.<br>Для серверів: Гравці повинні знову приєднатися, щоб зміни набули чинності.",
+	Sandbox_MoarCanOpeners_SmallBladeStrengthLevel = "Вимоги до Міцності Короткого Леза",
+	Sandbox_MoarCanOpeners_SmallBladeStrengthLevel_tooltip = "Зброя з коротким лезом (наприклад, ножі) буде доступна як відкривачка для банок<br>після того, як персонаж досягне цього рівня сили.<br>Для серверів: Гравці повинні знову приєднатися, щоб зміни набрали чинності.",
+	
+	Sandbox_MoarCanOpeners_Strength_option1 = "1"
+	Sandbox_MoarCanOpeners_Strength_option2 = "2",
+	Sandbox_MoarCanOpeners_Strength_option3 = "3",
+	Sandbox_MoarCanOpeners_Strength_option4 = "4",
+	Sandbox_MoarCanOpeners_Strength_option5 = "5",
+	Sandbox_MoarCanOpeners_Strength_option6 = "6",
+	Sandbox_MoarCanOpeners_Strength_option7 = "7",
+	Sandbox_MoarCanOpeners_Strength_option8 = "8",
+	Sandbox_MoarCanOpeners_Strength_option9 = "9",
+	Sandbox_MoarCanOpeners_Strength_option10 = "10",
+	
+		------------(переклав Nyuel)Expanded Helicopter Events------------
+	
+	Sandbox_ExpandedHeli = "Expanded Helicopter Events",
+
+	Sandbox_ExpandedHeli_Frequency_option1 = "Ніколи"
+	Sandbox_ExpandedHeli_Frequency_option2 = "Рідко",
+	Sandbox_ExpandedHeli_Frequency_option3 = "Нечасто",
+	Sandbox_ExpandedHeli_Frequency_option4 = "Звичайно",
+	Sandbox_ExpandedHeli_Frequency_option5 = "Часто",
+	Sandbox_ExpandedHeli_Frequency_option6 = "Надзвичайно рідко",
+
+    Sandbox_ExpandedHeli_EventJet = "Реактивні Літаки",
+    Sandbox_ExpandedHeli_EventJet_tooltip = "Як часто відбуваються події з реактивними літаками.<br>Реактивні літаки пролітають поруч з гравцями, спричинюючи рух орди.",
+
+    Sandbox_ExpandedHeli_EventNews = "Новинні Гелікоптери",
+    Sandbox_ExpandedHeli_EventNews_tooltip = "Як часто відбуваються події з новинними гелікоптерами.<br>Новинні гелікоптери будуть фокусуватися на будь-якому громадянині, якого вони знайдуть, і слідуватимуть за ним протягом короткого часу.",
+
+    Sandbox_ExpandedHeli_EventPolice = "Поліцейські Гелікоптери",
+    Sandbox_ExpandedHeli_EventPolice_tooltip = "Як часто відбуваються події з поліцейськими.<br>Поліція бере справи у свої руки й супроводжує громадян під час стрілянин на зомбі.",
+
+    Sandbox_ExpandedHeli_EventMilitary = "Військові Гелікоптери",
+    Sandbox_ExpandedHeli_EventMilitary_tooltip = "Як часто відбуваються події з військовими гелікоптерами.<br>Військові просунуться через етапи: попередження громадян, очищення від живих мерців, а потім остаточно очистять все, що рухається",
+
+    Sandbox_ExpandedHeli_EventFEMA = "Гуманітарна домомога",
+    Sandbox_ExpandedHeli_EventFEMA_tooltip = "Як часто відбуваються події з постачанням гуманітарної допомоги від Федерального управління з управління надзвичайними ситуаціями.<br>Федеральне управління з управління надзвичайними ситуаціями проводитиме постачання гуманітарної допомоги на ранніх етапах апокаліпсиса.",
+
+    Sandbox_ExpandedHeli_EventSurvivor = "Гелікоптери Вцілілих",
+    Sandbox_ExpandedHeli_EventSurvivor_tooltip = "Як часто відбуваються події з гелікоптерами вцілілих.<br>Вцілілі будуть здійснювати польоти на розвідувальних місіях, що призведе до переміщення зграї.",
+
+    Sandbox_ExpandedHeli_EventRaider = "Гелікоптери рейдерів",
+    Sandbox_ExpandedHeli_EventRaider_tooltip = "Як часто відбуваються події з гелікоптерами рейдерів.<br>Рейдери будуть націлюватися на вцілілих людей, щоб докучати їм для розваги.",
+
+    Sandbox_ExpandedHeli_EventSamaritan = "Гелікоптери Благодійників",
+    Sandbox_ExpandedHeli_EventSamaritan_tooltip = "Як часто відбуваються події з гелікоптерами благодійників.<br>Благодійники будуть здійснювати постачання гуманітарної допомоги, щоб допомогти вцілілим.",
+
+	Sandbox_ExpandedHeli_StartDay = "Перший День",
+	Sandbox_ExpandedHeli_StartDay_tooltip = "День, з якого планувальник почне надавати події.",
+	Sandbox_ExpandedHeli_StartDay_help = "Це день в грі, коли відбуваються події. Вам потрібно врахувати налаштування «місяців після початку апокаліпсиса»."
+
+	Sandbox_ExpandedHeli_SchedulerDuration = "Тривалість Планувальника",
+	Sandbox_ExpandedHeli_SchedulerDuration_tooltip = "Як довго триватиме робота планувальника від стартового дня.<br>Планувальник буде налаштовувати прогресію подій для відповідності цій тривалості.",
+    Sandbox_ExpandedHeli_SchedulerDuration_help = "Це кількість днів, протягом яких буде працювати планувальник подій."
+
+	Sandbox_ExpandedHeli_ContinueScheduling = "Продовжити Планувальника Назавжди",
+	Sandbox_ExpandedHeli_ContinueScheduling_tooltip = "Увімкніть це, щоб планувальник генерував події після завершення обмеження тривалості.<br>Події все ще будуть прогресувати через етапи згідно з тривалістю, але планувальник ніколи не припинить планувати нові події.",
+
+    Sandbox_ExpandedHeli_ContinueSchedulingLateGameOnly = "Продовжити Планувальника: Тільки Пізні Події",
+    Sandbox_ExpandedHeli_ContinueSchedulingLateGameOnly_tooltip = "Коли увімкнено «Продовжити Планувальника Назавжди», ця функція змушує планувальник використовував лише події пізньої гри.",
+}
