@@ -34,4 +34,63 @@ Moodles_UA = {
 	Moodles_DTBloodlust4_lvl4 = "Сильна жага крові",
 	Moodles_Desc_DTBloodlust4_lvl4 = "Занадто довго, нікого не вбивали. Ви починаєте чути різні звуки...",
 
+		------------Even More Traits------------
+
+	Moodles_Addict_Good_lvl1 = "Під кайфом і почуваюся добре",
+    Moodles_Addict_Good_desc_lvl1 = "Значно менша схильність до стресу",
+    Moodles_Addict_Bad_lvl1 = "Потяг", 
+    Moodles_Addict_Bad_desc_lvl1 = "Помірний стрес",
+    Moodles_Addict_Bad_lvl2 = "Залежність",
+    Moodles_Addict_Bad_desc_lvl2 = "Стрес і незначні болі",
+    Moodles_Addict_Bad_lvl3 = "Абстиненція",
+    Moodles_Addict_Bad_desc_lvl3 = "М'язові болі та сильний стрес",
+    Moodles_Addict_Bad_lvl4 = "Сильна абстиненція",
+    Moodles_Addict_Bad_desc_lvl4 = "Інтенсивні м'язові спазми та сильний психічний дистрес",
+	
+	Moodles_VitaminJunkie_Good_lvl1 = "Наповнений енергією",
+    Moodles_VitaminJunkie_Good_desc_lvl1 = "Легкий подих вітру в моєму житті",
+    Moodles_VitaminJunkie_Good_lvl2 = "Енергійний",
+    Moodles_VitaminJunkie_Good_desc_lvl2 = "Можу так цілий день",
+    Moodles_VitaminJunkie_Good_lvl3 = "Невтомний",
+    Moodles_VitaminJunkie_Good_desc_lvl3 = "Готовий до бою",
+    Moodles_VitaminJunkie_Good_lvl4 = "Сексуальний тиранозавр",
+    Moodles_VitaminJunkie_Good_desc_lvl4 = "Можe підняти машину! ДВІЧІ!!",
+	
+	Moodles_Berserk_Good_lvl1 = "Розминка",
+    Moodles_Berserk_Good_desc_lvl1 = "Я тільки починаю",
+    Moodles_Berserk_Good_lvl2 = "Безстрашний",
+    Moodles_Berserk_Good_desc_lvl2 = "Страх і паніка покинули тебе",
+    Moodles_Berserk_Good_lvl3 = "Берсерк",
+    Moodles_Berserk_Good_desc_lvl3 = "Вони впадуть, ВСІ ВОНИ ВПАДУТЬ!",
+	Moodles_Berserk_Good_lvl4 = "РААААААААААААААААААААААААААААААААААААААААА",
+    Moodles_Berserk_Good_desc_lvl4 = "НІЧОГО НЕ ЗАЛИШИТЬСЯ, КОЛИ Я ЗАКІНЧУ!",
+
+	Moodles_SecondWind_Good_lvl1 = "Спасительна благодать",
+    Moodles_SecondWind_Good_desc_lvl1 = "Ви набрали другий подих. Витрачаєте значно менше витривалості, також зменшуються втомлюваність і паніка",
+    Moodles_SecondWind_Bad_lvl1 = "Задихаєтеся",
+    Moodles_SecondWind_Bad_desc_lvl1 = "Ви не отримаєте третю хвилю енергії",
+	
+	Moodles_Wanderer_Good_lvl1 = "Приємна прогулянка",
+    Moodles_Wanderer_Good_desc_lvl1 = "Прогулянка заспокоює розум, хоч і не надовго.",
+	
+	Moodles_Homebody_Good_lvl1 = "Захищений",
+    Moodles_Homebody_Good_desc_lvl1 = "Миттєвий комфорт чотирьох стін і даху повільно заспокоює розум",
+	
+	Moodles_Codependant_Bad_lvl1 = "Сам",
+    Moodles_Codependant_Bad_desc_lvl1 = "Куди всі поділися?",
+    Moodles_Codependant_Bad_lvl2 = "Ізольований",
+    Moodles_Codependant_Bad_desc_lvl2 = "Потребує людей",
+    Moodles_Codependant_Bad_lvl3 = "Самотній",
+    Moodles_Codependant_Bad_desc_lvl3 = "Помірне зростання нещастя",
+    Moodles_Codependant_Bad_lvl4 = "Покинутий",
+    Moodles_Codependant_Bad_desc_lvl4 = "Сильне зростання нещастя",
+	
+	Moodles_Betrayed_Bad_lvl1 = "Обережний",
+    Moodles_Betrayed_Bad_desc_lvl1 = "Потребує простору або зброї",
+    Moodles_Betrayed_Bad_lvl2 = "Неспокійний",
+    Moodles_Betrayed_Bad_desc_lvl2 = "Не довіряє людям",
+    Moodles_Betrayed_Bad_lvl3 = "Підозрілий",
+    Moodles_Betrayed_Bad_desc_lvl3 = "Що вони планують?",
+    Moodles_Betrayed_Bad_lvl4 = "Побоювання",
+    Moodles_Betrayed_Bad_desc_lvl4 = "Тримайся від них подалі",
 }

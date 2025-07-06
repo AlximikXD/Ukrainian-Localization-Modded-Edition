@@ -2272,4 +2272,803 @@ IGUI_UA = {
 	IGUI_SearchMode_Tip_SearchFocus_Title = "Фокус пошуку",
 	IGUI_SearchMode_Tip_SearchFocus_Text = "Шукаєте якусь конкретну річ? Використовуйте фокус для пошуку щоб підвищити ваші шанси знайти щось з обраної категорії!",
 	
+		------------Bandits NPC------------
+	
+	IGUI_Bandits_Bandits_Killed = "Бандитів убито",
+	IGUI_Bandits_Speech_ZSSpotted_Male_1_1 = "Я їх бачу!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_1_2 = "Вони прямо там!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_1_3 = "Попався, виродку!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_1_4 = "О, чорт! Вони тут!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_1_5 = "Вони тут!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_1_6 = "Там! Прямо там!",
+	IGUI_Bandits_Male_1_7 = "Там!",
+	IGUI_Bandits_Speech_ZSReloading_Male_1_1 = "Перезарядка!",
+	IGUI_Bandits_Speech_ZSReloading_Male_1_2 = "Я перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Male_1_3 = "Прикрий мене, поки я
+	перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Male_1_4 = "А... Треба
+	завантажитися!",
+	IGUI_Bandits_Speech_ZSReloading_Male_1_5 = "А, чорт! Ну ж бо!
+	Залазь!!!",
+	IGUI_Bandits_Speech_ZSReloading_Male_1_6 = "Мені треба
+	завантажитися!",
+	IGUI_Bandits_Speech_ZSBreach_Male_1_1 = "Відчини двері!",
+	IGUI_Bandits_Speech_ZSBreach_Male_1_2 = "Виламай ці двері!",
+	IGUI_Bandits_Speech_ZSBreach_Male_1_3 = "Відчини!",
+	IGUI_Bandits_Speech_ZSBreach_Male_1_4 = "Вломимося всередину!",
+	IGUI_Bandits_Speech_ZSBreach_Male_1_5 = "Стукай! Стукайте!",
+	IGUI_Bandits_Male_1_6 = "Стукайте!",
+	IGUI_Bandits_Speech_ZSBreach_Male_1_6 = "Пройди крізь ці двері!",
+	IGUI_Bandits_Speech_ZSCar_Male_1_1 = "Вийдіть з машини!",
+	IGUI_Bandits_Speech_ZSCar_Male_1_2 = "Зупиніть цей транспортний
+	засіб!",
+	IGUI_Bandits_Speech_ZSCar_Male_1_3 = "Вийдіть з автомобіля!",
+	IGUI_Bandits_Speech_ZSCar_Male_1_4 = "Вийдіть з автомобіля!",
+	IGUI_Bandits_Speech_ZSCar_Male_1_5 = "Вийдіть з автомобіля!",
+	IGUI_Bandits_Speech_ZSCar_Male_1_6 = "Зупиніть цей транспортний
+	засіб негайно!",
+	IGUI_Bandits_Speech_ZSDeath_Male_1_1 = "Ahahahahaha!",
+	IGUI_Bandits_Speech_ZSDeath_Male_1_2 = "Ахахахахаха! Ну і жарт!",
+	IGUI_Bandits_Speech_ZSDeath_Male_1_3 = "Лузер!",
+	IGUI_Bandits_Speech_ZSDeath_Male_1_4 = "Ще один!",
+	IGUI_Bandits_Speech_ZSDeath_Male_1_5 = "Наступного разу, друже!",
+	IGUI_Bandits_Speech_ZSDeath_Male_1_6 = "О, мені так шкода.. ні!",
+	IGUI_Bandits_Speech_ZSDeath_Male_1_7 = "І ось як ти помер.",
+	Subscribe to DeepL Pro to edit this document.
+	Visit www.DeepL.com/pro for more information.
+	IGUI_Bandits_Speech_ZSDeath_Male_1_8 = "Ой, мені так шкода ;)",
+	IGUI_Bandits_Speech_ZSDead_Male_1_1 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_1_2 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_1_3 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_1_4 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_1_5 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_1_6 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSBurn_Male_1_1 = "Aaargh! Випустіть мене!
+	Погасіть мене! Погасіть мене!", IGUI_Bandits_Male_1_1 = "Aaargh!
+	IGUI_Bandits_Speech_ZSBurn_Male_1_2 = "Aaargh! Put me out! Put me
+	out! Погасіть мене!", IGUI_Bandits_Male_1_2 = "Aaargh!
+	IGUI_Bandits_Speech_ZSBurn_Male_1_3 = "Aaargh! Put me out! Put me
+	out! Погасіть мене!", IGUI_Bandits_Male_1 = "Aaargh!
+	IGUI_Bandits_Speech_ZSDragdown_Male_1_1 = "Aaargh! Аааааааа!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_1_2 = "Aaargh! Ааааааааргх!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_1_3 = "Aaargh! Ааааааааргх!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSInside_Male_1_1 = "Вони зайшли всередину!
+	Туди!",
+	IGUI_Bandits_Speech_ZSInside_Male_1_2 = "Я бачив, як ти зайшов
+	всередину, маленький засранцю.",
+	IGUI_Bandits_Speech_ZSInside_Male_1_3 = "Ходімо перевіримо тут.",
+	IGUI_Bandits_Speech_ZSUpstairs_Male_1_1 = "Перевірте нагорі!",
+	IGUI_Bandits_Speech_ZSOutside_Male_1_1 = "Надворі! Я помітив їх на
+	вулиці!",
+	IGUI_Bandits_Speech_ZSOutside_Male_1_2 = "Вони зовні! Он там!",
+	IGUI_Bandits_Speech_ZSOutside_Male_1_3 = "Вони тікають назовні!",
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Male_1_1 = "Давайте перевіримо
+	кухню.",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Male_1_1 = "О, б'юся об заклад,
+	вони у ванній кімнаті.",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_1_1 = "Гей! Що ти тут
+	робиш?",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_1_2 = "Я хочу, щоб ти пішов
+	звідси! Негайно!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_1_3 = "Я тебе сюди не
+	запрошував! Забирайтеся геть!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_1_4 = "Якого біса ти тут
+	робиш?",
+	IGUI_Bandits_Speech_ZSHit_Male_1_1 = "Aaargh! Мене підстрелили!",
+	IGUI_Bandits_ZSHit_Male_1_1 = "Ааааа!
+	IGUI_Bandits_Speech_ZSHit_Male_1_2 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_3 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_4 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_5 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_6 = "Aaargh! Твою мать, б***ь!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_7 = "Aaargh! Мене підстрелили!",
+	IGUI_Bankers_ZSHit_Male_1_8 = "Аааааа!
+	IGUI_Bandits_Speech_ZSHit_Male_1_8 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_9 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_10 = "Aaargh! Бляха!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_11 = "Aaargh! Бляха!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_12 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_13 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_1_14 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_1_1 = "Ти там! Стій! Кидай
+	своє лайно і ніхто не постраждає!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_1_2 = "Краще віддай нам усе,
+	що маєш! Негайно!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_1_3 = "Віддай нам усе, що
+	маєш, і ми обіцяємо, що не завдамо тобі шкоди!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_1_4 = "Віддай нам усе, що в
+	тебе є, мудак!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_1_5 = "Стій! Нам потрібне лише
+	твоє лайно, а не ти! Не ускладнюй нам завдання!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_1_6 = "Стій! Кидайте все на
+	підлогу!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_2_1 = "Вони тут! Взяти їх!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_2_2 = "Ось вони! Нападай на
+	них!!!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_2_3 = "Попалися!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_2_4 = "...!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_2_5 = "Привіт! Ось ти де!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_2_6 = "Переламайте їм ноги!",
+	IGUI_Bandits_Speech_ZSReloading_Male_2_1 = "Прикрий мене, поки я
+	перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Male_2_2 = "Перезаряджаю! Прикрий
+	мене!",
+	IGUI_Bandits_Speech_ZSReloading_Male_2_3 = "Я тут перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Male_2_4 = "Чорт! Ця штука
+	вимкнулася!",
+	IGUI_Bandits_Speech_ZSReloading_Male_2_5 = "Перезавантаження!",
+	IGUI_Bandits_Speech_ZSReloading_Male_2_6 = "Чорт! Треба
+	перезавантажитись!",
+	IGUI_Bandits_Speech_ZSBreach_Male_2_1 = "Ми зараз зайдемо, панку!",
+	IGUI_Bandits_Speech_ZSBreach_Male_2_2 = "Ми йдемо!",
+	IGUI_Bandits_Speech_ZSBreach_Male_2_3 = "Я тебе дістану! Обіцяю!",
+	IGUI_Bandits_Speech_ZSBreach_Male_2_4 = "Ходімо та розгромимо цей
+	смітник!",
+	IGUI_Bandits_Speech_ZSBreach_Male_2_5 = "Відкрий цей відстійник!",
+	IGUI_Bandits_Speech_ZSBreach_Male_2_6 = "Відчини ці двері негайно!",
+	IGUI_Bandits_Speech_ZSCar_Male_2_1 = "Забирайся геть!",
+	IGUI_Bandits_Speech_ZSCar_Male_2_2 = "Негайно вийдіть з машини!",
+	IGUI_Bandits_Speech_ZSCar_Male_2_3 = "Вилазь звідти, тупий
+	боягузе!",
+	IGUI_Bandits_Speech_ZSCar_Male_2_4 = "Вийдіть з транспортного засобу
+	негайно!",
+	IGUI_Bandits_Speech_ZSCar_Male_2_5 = "",
+	IGUI_Bandits_Speech_ZSCar_Male_2_6 = "",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_1 = "З бандитами не жартують!",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_2 = "Будь я проклятий! Я думав,
+	що ви здатні на більше!",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_3 = "Відстій, щоб відстій, так,
+	друже?",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_4 = "Тепер ти не такий крутий, як
+	раніше!",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_5 = "Ще хочеш зі мною
+	погратися?",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_6 = "Ахахаха! Ти це бачив?",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_7 = "",
+	IGUI_Bandits_Speech_ZSDeath_Male_2_8 = "",
+	IGUI_Bandits_Speech_ZSDead_Male_2_1 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_2_2 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_2_3 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_2_4 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_2_5 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_2_6 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSBurn_Male_2_1 = "Aaargh! Випустіть мене!
+	Погасіть мене! Погасіть мене!", IGUI_Bandits_Male_2_1 = "Aaargh!
+	IGUI_Bandits_Speech_ZSBurn_Male_2_2 = "Aaargh! Put me out! Погасіть
+	мене! Випустіть мене!",
+	IGUI_Bandits_Speech_ZSBurn_Male_2_3 = "Aaargh! Put me out! Погасіть
+	мене! Випустіть мене!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_2_1 = "Aaargh! Aaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_2_2 = "Aaargh! Aaaaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_2_3 = "Aaargh! Aaaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSInside_Male_2_1 = "Давайте перевіримо
+	всередині!",
+	IGUI_Bandits_Speech_ZSInside_Male_2_2 = "Я бачив, що вони робили
+	всередині! Он там!",
+	IGUI_Bandits_Speech_ZSInside_Male_2_3 = "Я бачу тебе там, виродку!",
+	IGUI_Bandits_Speech_ZSUpstairs_Male_2_1 = "Перевірте нагорі!",
+	IGUI_Bandits_Speech_ZSOutside_Male_2_1 = "Там! Зовні! Там!",
+	IGUI_Bandits_Male_2_1 = "Там!
+	IGUI_Bandits_Speech_ZSOutside_Male_2_2 = "Вони, мабуть,
+	вислизнули.",
+	IGUI_Bandits_Speech_ZSOutside_Male_2_3 = "Будинок порожній.",
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Male_2_1 = "Перевірте кухню!",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Male_2_1 = "Перевірте ванну!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_2_1 = "Гей! Це моя
+	територія, друже!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_2_2 = "Якого біса ти тут
+	робиш!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_2_3 = "Було б розумно піти
+	звідси, друже!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_2_4 = "Ти повернув не туди,
+	друже! Забирайся звідси!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_1 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_2 = "Aaargh! Бляха!",
+	IGUI_Bandits_Male_2_2 = "Aaargh!
+	IGUI_Bandits_Speech_ZSHit_Male_2_3 = "F**k!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_4 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_5 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_6 = "Aaargh! Твою мать, б***ь!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_7 = "Aaargh! Мене підстрелили!",
+	IGUI_Bankers_ZSHit_Male_2_7 = "Аааааа!
+	IGUI_Bandits_Speech_ZSHit_Male_2_8 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_9 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_10 = "Aaargh! Бляха!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_11 = "Aaargh! Бляха!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_12 = "F**k!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_13 = "Чорт!",
+	IGUI_Bandits_Speech_ZSHit_Male_2_14 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_2_1 = "Кидай усе, що маєш на
+	собі, друже!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_2_2 = "Віддай нам усе, що
+	маєш, сучий сину!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_2_3 = "Кидай усе, що маєш!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_2_4 = "Віддай нам все, що маєш
+	при собі, сука",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_2_5 = "Кидай на підлогу все,
+	що маєш, негайно!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_2_6 = "Стій на місці, клята
+	тварюко! Віддай нам усе, що маєш!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_3_1 = "Я бачу їх!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_3_2 = "Вони прямо там!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_3_3 = "Дивіться, хто вирішив
+	з'явитися!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_3_4 = "У мене є для тебе маленьке
+	блювотиння",
+	IGUI_Bandits_Speech_ZSSpotted_Male_3_5 = "Вони тут!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_3_6 = "Там! Вони прямо там!",
+	IGUI_Bandits_ZSSpotted_Male_3_6 = "Там!
+	IGUI_Bandits_Speech_ZSReloading_Male_3_1 = "Перезарядка!",
+	IGUI_Bandits_Speech_ZSReloading_Male_3_2 = "Я перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Male_3_3 = "Прикрий мене, поки я
+	перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Male_3_4 = "Чорт! Треба
+	перезарядитися!",
+	IGUI_Bandits_Speech_ZSReloading_Male_3_5 = "О, чорт! Ну ж бо!
+	Залазь!",
+	IGUI_Bandits_Speech_ZSReloading_Male_3_6 = "Треба завантажуватися!",
+	IGUI_Bandits_Speech_ZSBreach_Male_3_1 = "Виламай ці двері!",
+	IGUI_Bandits_Speech_ZSBreach_Male_3_2 = "Виламай ці двері!",
+	IGUI_Bandits_Speech_ZSBreach_Male_3_3 = "Стукайте! Стукайте!",
+	IGUI_Bandits_Male_3_3 = "Стукайте!",
+	IGUI_Bandits_Speech_ZSBreach_Male_3_4 = "Давайте вломимося!",
+	IGUI_Bandits_Speech_ZSBreach_Male_3_5 = "Відкривай!",
+	IGUI_Bandits_Speech_ZSBreach_Male_3_6 = "Відкрий ці двері!",
+	IGUI_Bandits_Speech_ZSCar_Male_3_1 = "Вийдіть з автомобіля!",
+	IGUI_Bandits_Speech_ZSCar_Male_3_2 = "Вийдіть з автомобіля!",
+	IGUI_Bandits_Speech_ZSCar_Male_3_3 = "Вийдіть з автомобіля!",
+	IGUI_Bandits_Speech_ZSCar_Male_3_4 = "Вийдіть з автомобіля!",
+	IGUI_Bandits_Speech_ZSCar_Male_3_5 = "Зупиніть цей транспортний
+	засіб негайно!",
+	IGUI_Bandits_Speech_ZSCar_Male_3_6 = "Зупиніть цей транспортний
+	засіб!",
+	IGUI_Bandits_Speech_ZSDeath_Male_3_1 = "Хахахахахахаха!",
+	IGUI_Bandits_Speech_ZSDeath_Male_3_2 = "Хахахахахахаха! Ну і жарт!",
+	IGUI_Bandits_Speech_ZSDeath_Male_3_3 = "Лузер!",
+	IGUI_Bandits_Speech_ZSDeath_Male_3_4 = "Ще один!",
+	IGUI_Bandits_Speech_ZSDeath_Male_3_5 = "Наступного разу пощастить,
+	друже!",
+	IGUI_Bandits_Speech_ZSDeath_Male_3_6 = "О, мені так шкода! Ха-ха-
+	ха.. Ні!", IGUI_Bandits_3_6 = "Oh I'm so sorry!
+	IGUI_Bandits_Speech_ZSDeath_Male_3_7 = "І ось як ти помер.",
+	IGUI_Bandits_Speech_ZSDeath_Male_3_8 = "Хахахахахахаха! Ну і жарт.",
+	IGUI_Bandits_3_8 = "Ха-ха-ха-ха-ха-ха!
+	IGUI_Bandits_Speech_ZSDead_Male_3_1 = "А-а-а-а!",
+	IGUI_Bandits_Speech_ZSDead_Male_3_2 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_3_3 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_3_4 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_3_5 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_3_6 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSBurn_Male_3_1 = "Aaargh! Погасіть мене!
+	Погасіть мене! Погасіть мене!", IGUI_Bandits_Male_3_1 = "Aaargh!
+	IGUI_Bandits_Speech_ZSBurn_Male_3_2 = "Aaargh! Put me out! Погасіть
+	мене! Випустіть мене!",
+	IGUI_Bandits_Speech_ZSBurn_Male_3_3 = "Aaargh! Put me out! Погасіть
+	мене! Випустіть мене!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_3_1 = "Aaargh! Aaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_3_2 = "Aaargh! Aaaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_3_3 = "Aaargh! Aaaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSInside_Male_3_1 = "Вони зайшли всередину!
+	Туди!",
+	IGUI_Bandits_Speech_ZSInside_Male_3_2 = "Я бачив, як ти зайшов
+	всередину, маленький засранцю!",
+	IGUI_Bandits_Speech_ZSInside_Male_3_3 = "Ходімо перевіримо тут!",
+	IGUI_Bandits_Speech_ZSUpstairs_Male_3_1 = "Перевірте нагорі!",
+	IGUI_Bandits_Speech_ZSOutside_Male_3_1 = "Надворі! Я помітив їх на
+	вулиці!",
+	IGUI_Bandits_Speech_ZSOutside_Male_3_2 = "Вони надворі! Он там!",
+	IGUI_Bandits_Speech_ZSOutside_Male_3_3 = "Вони тікають назовні!",
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Male_3_1 = "Ходімо подивимося на
+	кухню.",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Male_3_1 = "Хто хоче
+	посперечатися, що вони у ванній?",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_3_1 = "Гей! Що ти тут
+	робиш?",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_3_2 = "!!!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_3_3 = "Я хочу, щоб ти пішов
+	звідси! Негайно!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_3_4 = "Якого біса ви тут
+	робите!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_1 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_2 = "Aaargh! Я поранений!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_3 = "Aaargh! I'm hit!",
+	IGUI_Bandits_ZSHit_Male_3_3 = "Aaargh!
+	IGUI_Bandits_Speech_ZSHit_Male_3_4 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_5 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_6 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_7 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_8 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_9 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_10 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_11 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_12 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_13 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_3_14 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_3_1 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_3_2 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_3_3 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_3_4 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_3_5 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_3_6 = "",
+	IGUI_Bandits_Speech_ZSSpotted_Male_4_1 = "Я бачу його!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_4_2 = "Он вони!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_4_3 = "Он там!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_4_4 = "Он там!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_4_5 = "Туди!",
+	IGUI_Bandits_Speech_ZSSpotted_Male_4_6 = "Дванадцята година!",
+	IGUI_Bandits_Speech_ZSReloading_Male_4_1 = "Перезавантаження!",
+	IGUI_Bandits_Speech_ZSReloading_Male_4_2 = "Перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Male_4_3 = "Я перезаряджаю.",
+	IGUI_Bandits_Speech_ZSReloading_Male_4_4 = "Прикрий мене, треба
+	перезарядитися!",
+	IGUI_Bandits_Speech_ZSReloading_Male_4_5 = "Треба перезарядити!",
+	IGUI_Bandits_Speech_ZSReloading_Male_4_6 = "Перезавантажити це!",
+	IGUI_Bandits_Speech_ZSBreach_Male_4_1 = "Відкрийте це!",
+	IGUI_Bandits_Speech_ZSBreach_Male_4_2 = "Відкрийте його!",
+	IGUI_Bandits_Speech_ZSBreach_Male_4_3 = "Відкривай!",
+	IGUI_Bandits_Speech_ZSBreach_Male_4_4 = "Заходьте всередину!",
+	IGUI_Bandits_Speech_ZSBreach_Male_4_5 = "Треба потрапити
+	всередину!",
+	IGUI_Bandits_Speech_ZSBreach_Male_4_6 = "Відчинити!",
+	IGUI_Bandits_Speech_ZSCar_Male_4_1 = "Вийдіть з машини!",
+	IGUI_Bandits_Speech_ZSCar_Male_4_2 = "Забирайтеся геть!",
+	IGUI_Bandits_Speech_ZSCar_Male_4_3 = "Вийдіть з машини!",
+	IGUI_Bandits_Speech_ZSCar_Male_4_4 = "Негайно вийти з машини!",
+	IGUI_Bandits_Speech_ZSCar_Male_4_5 = "Зупиніть транспортний засіб і
+	вийдіть!",
+	IGUI_Bandits_Speech_ZSCar_Male_4_6 = "Виходьте з довбаної машини!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_1 = "Дістав виродка!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_2 = "Попався!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_3 = "Взяли сучого сина!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_4 = "Я знайшов ще одного!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_5 = "Дістав виродка!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_6 = "Ага, здох, бляха-муха!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_7 = "Так, вони мертві!",
+	IGUI_Bandits_Speech_ZSDeath_Male_4_8 = "Так, вони підсмажені!",
+	IGUI_Bandits_Speech_ZSDead_Male_4_1 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_4_2 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_4_3 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_4_4 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_4_5 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSDead_Male_4_6 = "Aaaaaargh!",
+	IGUI_Bandits_Speech_ZSBurn_Male_4_1 = "Aaargh! Випустіть мене! Put
+	me out! Погасіть мене!", IGUI_Bandits_Male_4_1 = "Aaargh!
+	IGUI_Bandits_Speech_ZSBurn_Male_4_2 = "Aaargh! Put me out! Погасіть
+	мене! Випустіть мене!",
+	IGUI_Bandits_Speech_ZSBurn_Male_4_3 = "Aaargh! Put me out! Погасіть
+	мене! Випустіть мене!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_4_1 = "Aaargh! Aaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_4_2 = "Aaargh! Aaaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSDragdown_Male_4_3 = "Aaargh! Aaaaaaargh!
+	Ааааааааааааааааааа!",
+	IGUI_Bandits_Speech_ZSInside_Male_4_1 = "Вони там! Всередині!",
+	IGUI_Bandits_Speech_ZSInside_Male_4_2 = "Вони всередині! Там!",
+	IGUI_Bandits_ZSInside Чоловік_4_2 = "Вони всередині!
+	IGUI_Bandits_Speech_ZSInside_Male_4_3 = "Я знаю, що ви там!",
+	IGUI_Bandits_Speech_ZSUpstairs_Male_4_1 = "Нагорі!",
+	IGUI_Bandits_Speech_ZSOutside_Male_4_1 = "Надворі!",
+	IGUI_Bandits_Speech_ZSOutside_Male_4_2 = "Там! Назовні!",
+	IGUI_Bandits_ZSOutside_Male_4_2 = "Там!
+	IGUI_Bandits_Speech_ZSOutside_Male_4_3 = "Назовні! Он там!",
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Male_4_1 = "Ти перевірив кухню?",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Male_4_1 = "Подивіться у
+	ванній!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_4_1 = "Що? Забирайся
+	звідси!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_4_2 = "Що? Забирайся
+	звідси!", IGUI_Bandits_Male_4_2 = "Що?
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_4_3 = "Гей! Забирайся
+	звідси!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Male_4_4 = "Забирайся геть!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_1 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_2 = "Aaargh! Я поранений!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_3 = "Aaargh! I'm hit!",
+	IGUI_Bankers_ZSHit_Male_4_3 = "Aaargh!
+	IGUI_Bandits_Speech_ZSHit_Male_4_4 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_5 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_6 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_7 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_8 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_9 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_10 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_11 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_12 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_13 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSHit_Male_4_14 = "Aaargh!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_4_1 = "Ти! Віддай мені все, що
+	маєш!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_4_2 = "Вивертай кишені!
+	Викладайте все!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_4_3 = "Віддавай! Все, що
+	маєш!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_4_4 = "Ти краще віддай мені
+	свої речі! Віддавай, все!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_4_5 = "Я хочу все, що у тебе
+	є!",
+	IGUI_Bandits_Speech_ZSThief_Spot_Male_4_6 = "Один довбаний шанс!
+	Дайте мені все, що у вас є!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_1_1 = "Дванадцята година!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_1_2 = "Я бачу його!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_1_3 = "Я бачу його!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_1_4 = "Ми його знайшли!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_1_5 = "У нас компанія!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_1_6 = "Подивіться туди!",
+	IGUI_Bandits_Speech_ZSReloading_Female_1_1 = "Перезарядка!",
+	IGUI_Bandits_Speech_ZSReloading_Female_1_2 = "Перезавантажити!",
+	IGUI_Bandits_Speech_ZSReloading_Female_1_3 = "Чорт! Я порожня!",
+	IGUI_Bandits_Speech_ZSReloading_Female_1_4 = "Зачекайте! Мені треба
+	перезарядитися!",
+	IGUI_Bandits_Speech_ZSReloading_Female_1_5 = "У мене закінчилися!",
+	IGUI_Bandits_Speech_ZSReloading_Female_1_6 = "Перезарядити!",
+	IGUI_Bandits_Speech_ZSBreach_Female_1_1 = "Knock! Стук! Трясця твоїй
+	матері",
+	IGUI_Bandits_Speech_ZSBreach_Female_1_2 = "I'm coming in whether you
+	like ir or not! Панк!",
+	IGUI_Bandits_Speech_ZSBreach_Female_1_3 = "Відкрий ці кляті двері!",
+	IGUI_Bandits_Speech_ZSBreach_Female_1_4 = "Я заходжу!",
+	IGUI_Bandits_Speech_ZSBreach_Female_1_5 = "Вам краще приготуватися,
+	бо я заходжу!",
+	IGUI_Bandits_Speech_ZSBreach_Female_1_6 = "Я зараз виламаю ці
+	двері!",
+	IGUI_Bandits_Speech_ZSCar_Female_1_1 = "Куди ти йдеш? Придурок!",
+	IGUI_Bandits_Speech_ZSCar_Female_1_2 = "Зупини машину! Негайно!",
+	IGUI_Bandits_Speech_ZSCar_Female_1_3 = "Зупиніть цей автомобіль!",
+	IGUI_Bandits_Speech_ZSCar_Female_1_4 = "Я хочу, щоб ви вийшли з
+	машини!",
+	IGUI_Bandits_Speech_ZSCar_Female_1_5 = "Просто так поїхали?",
+	IGUI_Bandits_Speech_ZSCar_Female_1_6 = "Просто так поїхати?",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_1 = "О, це було занадто
+	просто!",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_2 = "На здоров'я!",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_3 = "Він упав!",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_4 = "Попався!",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_5 = "Він мертвий!",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_6 = "О, це було занадто
+	легко!",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_7 = "",
+	IGUI_Bandits_Speech_ZSDeath_Female_1_8 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_1_1 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_1_2 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_1_3 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_1_4 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_1_5 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_1_6 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_1_1 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_1_2 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_1_3 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_1_1 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_1_2 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_1_3 = "",
+	IGUI_Bandits_Speech_ZSInside_Female_1_1 = "Там!",
+	IGUI_Bandits_Speech_ZSInside_Female_1_2 = "Прямо там, всередині!",
+	IGUI_Bandits_Speech_ZSInside_Female_1_3 = "Прямо в будівлі!",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_1_1 = "Він на верхньому
+	поверсі!",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_1_2 = "Має бути нагорі!",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_1_3 = "Перейдіть на верхній
+	поверх.",
+	IGUI_Bandits_Speech_ZSOutside_Female_1_1 = "На вулицю!",
+	IGUI_Bandits_Speech_ZSOutside_Female_1_2 = "Він вибігає на вулицю!",
+	IGUI_Bandits_Speech_ZSOutside_Female_1_3 = "Чисто! Виходьте!",
+	IGUI_Bandits_Reporter_Female_1_3 = "Чисто!
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Female_1_1 = "Він забарикадувався
+	в туалеті!",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Female_1_1 = "Він на кухні!",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Female_1_1 = "Він там, на
+	кухні!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_1_1 = "Якого біса ти
+	робиш на моєму місці!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_1_2 = "Забирайся до біса
+	звідси!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_1_3 = "Порушник!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_1_4 = "Геть! Негайно!",
+	IGUI_Bandits_Speech_ZSHit_Female_1_1 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_2 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_3 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_4 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_5 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_6 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_7 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_8 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_9 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_10 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_11 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_12 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_13 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_1_14 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_1_1 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_1_2 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_1_3 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_1_4 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_1_5 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_1_6 = "",
+	IGUI_Bandits_Speech_ZSSpotted_Female_2_1 = "Гей, мудак!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_2_2 = "Є тут один!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_2_3 = "Там! Прямо там!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_2_4 = "Сюрприз, матір твою!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_2_5 = "Взяти цього виродка!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_2_6 = "Get that son of a
+	bi**h!",
+	IGUI_Bandits_Speech_ZSReloading_Female_2_1 = "Перезарядка!",
+	IGUI_Bandits_Speech_ZSReloading_Female_2_2 = "Прикрий мене!",
+	IGUI_Bandits_Speech_ZSReloading_Female_2_3 = "Потрібно
+	перезавантажитися!",
+	IGUI_Bandits_Speech_ZSReloading_Female_2_4 = "Мені потрібні набої!",
+	IGUI_Bandits_Speech_ZSReloading_Female_2_5 = "У мене закінчилися!
+	Перезарядити!",
+	IGUI_Bandits_Speech_ZSReloading_Female_2_6 = "Перезаряджай моє
+	лайно!",
+	IGUI_Bandits_Speech_ZSBreach_Female_2_1 = "Розбити його!",
+	IGUI_Bandits_Speech_ZSBreach_Female_2_2 = "Відкривай!",
+	IGUI_Bandits_Speech_ZSBreach_Female_2_3 = "Ми заходимо!",
+	IGUI_Bandits_Speech_ZSBreach_Female_2_4 = "Нам потрібно пройти!",
+	IGUI_Bandits_Speech_ZSBreach_Female_2_5 = "Відкрий цю штуку!",
+	IGUI_Bandits_Speech_ZSBreach_Female_2_6 = "Знищ це лайно!",
+	IGUI_Bandits_Speech_ZSCar_Female_2_1 = "Виходьте з машини!",
+	IGUI_Bandits_Speech_ZSCar_Female_2_2 = "Вийдіть з машини!",
+	IGUI_Bandits_Speech_ZSCar_Female_2_3 = "Стій!",
+	IGUI_Bandits_Speech_ZSCar_Female_2_4 = "Зупиніть машину!",
+	IGUI_Bandits_Speech_ZSCar_Female_2_5 = "Я хочу, щоб ви зупинили
+	машину!",
+	IGUI_Bandits_Speech_ZSCar_Female_2_6 = "Зупини машину, мудак!",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_1 = "О, це було так легко!",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_2 = "Ahahah! Попався!",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_3 = "Чесно кажучи, я очікував
+	більшого.",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_4 = "Його здобич - моя!",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_5 = "Ти зв'язався не з тією
+	жінкою, друже!",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_6 = "Гадаю, час подрімати.",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_7 = "",
+	IGUI_Bandits_Speech_ZSDeath_Female_2_8 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_2_1 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_2_2 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_2_3 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_2_4 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_2_5 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_2_6 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_2_1 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_2_2 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_2_3 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_2_1 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_2_2 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_2_3 = "",
+	IGUI_Bandits_Speech_ZSInside_Female_2_1 = "Він має бути всередині
+	будівлі!",
+	IGUI_Bandits_Speech_ZSInside_Female_2_2 = "Виродок всередині!",
+	IGUI_Bandits_Speech_ZSInside_Female_2_3 = "Він ховається
+	всередині!",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_2_1 = "Використовуйте сходи!
+	Він нагорі!", IGUI_Bandits_ZSUpstairs_Female_2_1 = "Використовуйте
+	сходи!
+	IGUI_Bandits_Speech_ZSUpstairs_Female_2_2 = "Використовуйте сходи!
+	Він нагорі!", IGUI_Bandits_ZSUpstairs_Female_2_2 = "Сходами!
+	IGUI_Bandits_Speech_ZSUpstairs_Female_2_3 = "Використовуйте сходи!
+	Він нагорі!", IGUI_Bandits_ZSUpstairs_Female_2_3 = "Сходами!
+	IGUI_Bandits_Speech_ZSOutside_Female_2_1 = "У будівлі чисто!",
+	IGUI_Bandits_Speech_ZSOutside_Female_2_2 = "Я помітив одного
+	зовні!",
+	IGUI_Bandits_Speech_ZSOutside_Female_2_3 = "Швидше! Він тікає!",
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Female_2_1 = "На кухні!",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Female_2_1 = "Він десь
+	ховається!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_2_1 = "Виходьте!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_2_2 = "Виходьте
+	негайно!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_2_3 = "У нас
+	зловмисник!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_2_4 = "Не туди прийшов,
+	друже!",
+	IGUI_Bandits_Speech_ZSHit_Female_2_1 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_2 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_3 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_4 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_5 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_6 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_7 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_8 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_9 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_10 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_11 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_12 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_13 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_2_14 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_2_1 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_2_2 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_2_3 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_2_4 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_2_5 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_2_6 = "",
+	IGUI_Bandits_Speech_ZSSpotted_Female_3_1 = "Руки вгору!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_3_2 = "Я бачу його!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_3_3 = "Сюди!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_3_4 = "Негайно зупинись!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_3_5 = "Ціль помічено!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_3_6 = "Ти!",
+	IGUI_Bandits_Speech_ZSReloading_Female_3_1 = "Я вийшла!",
+	IGUI_Bandits_Speech_ZSReloading_Female_3_2 = "Перезавантаження!",
+	IGUI_Bandits_Speech_ZSReloading_Female_3_3 = "Перезавантажити!",
+	IGUI_Bandits_Speech_ZSReloading_Female_3_4 = "Мені потрібно
+	перезавантажитися!",
+	IGUI_Bandits_Speech_ZSReloading_Female_3_5 = "Прикрий мене, поки я
+	перезаряджаю!",
+	IGUI_Bandits_Speech_ZSReloading_Female_3_6 = "Міняю магазин!",
+	IGUI_Bandits_Speech_ZSBreach_Female_3_1 = "Зруйнуй його!",
+	IGUI_Bandits_Speech_ZSBreach_Female_3_2 = "Знищити це!",
+	IGUI_Bandits_Speech_ZSBreach_Female_3_3 = "Відкрий двері!",
+	IGUI_Bandits_Speech_ZSBreach_Female_3_4 = "Треба це знищити.",
+	IGUI_Bandits_Speech_ZSBreach_Female_3_5 = "Негайно зламати двері!",
+	IGUI_Bandits_Speech_ZSBreach_Female_3_6 = "Я вриваюся!",
+	IGUI_Bandits_Speech_ZSCar_Female_3_1 = "Виходьте з машини!",
+	IGUI_Bandits_Speech_ZSCar_Female_3_2 = "Вийдіть з машини!",
+	IGUI_Bandits_Speech_ZSCar_Female_3_3 = "Виходьте!",
+	IGUI_Bandits_Speech_ZSCar_Female_3_4 = "Вийдіть з машини!",
+	IGUI_Bandits_Speech_ZSCar_Female_3_5 = "",
+	IGUI_Bandits_Speech_ZSCar_Female_3_6 = "",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_1 = "Oh that was too easy!",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_2 = "Goobye to you!",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_3 = "Він упав!",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_4 = "Попався!",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_5 = "Він мертвий!",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_6 = "О, це було занадто
+	легко!",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_7 = "",
+	IGUI_Bandits_Speech_ZSDeath_Female_3_8 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_3_1 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_3_2 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_3_3 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_3_4 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_3_5 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_3_6 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_3_1 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_3_2 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_3_3 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_3_1 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_3_2 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_3_3 = "",
+	IGUI_Bandits_Speech_ZSInside_Female_3_1 = "Нам треба потрапити
+	всередину!",
+	IGUI_Bandits_Speech_ZSInside_Female_3_2 = "Швидше! Треба зайти
+	всередину!",
+	IGUI_Bandits_Speech_ZSInside_Female_3_3 = "Він всередині!",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_3_1 = "Використовуйте сходи!
+	Він нагорі!", IGUI_Bandits_ZSUpstairs_Female_3_1 = "Він нагорі!
+	IGUI_Bandits_Speech_ZSUpstairs_Female_3_2 = "",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_3_3 = "",
+	IGUI_Bandits_Speech_ZSOutside_Female_3_1 = "Він може бути зараз на
+	вулиці.",
+	IGUI_Bandits_Speech_ZSOutside_Female_3_2 = "Виходьте!",
+	IGUI_Bandits_Speech_ZSOutside_Female_3_3 = "Вийдіть на вулицю!",
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Female_3_1 = "Він забарикадувався
+	в туалеті!",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Female_3_1 = "Він на кухні!",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Female_3_1 = "Він прямо там, на
+	кухні!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_3_1 = "Вас сюди ніхто не
+	запрошував!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_3_2 = "Це моє місце!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_3_3 = "Забирайся звідси
+	негайно!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_3_4 = "Негайно забирайся
+	з мого дому!",
+	IGUI_Bandits_Speech_ZSHit_Female_3_1 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_2 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_3 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_4 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_5 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_6 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_7 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_8 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_9 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_10 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_11 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_12 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_13 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_3_14 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_3_1 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_3_2 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_3_3 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_3_4 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_3_5 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_3_6 = "",
+	IGUI_Bandits_Speech_ZSSpotted_Female_4_1 = "Час помирати!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_4_2 = "Я бачу одного!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_4_3 = "У нас компанія!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_4_4 = "Взяти цього сучого
+	сина!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_4_5 = "Є один!",
+	IGUI_Bandits_Speech_ZSSpotted_Female_4_6 = "Ось тут!",
+	IGUI_Bandits_Speech_ZSReloading_Female_4_1 = "Перезарядити!",
+	IGUI_Bandits_Speech_ZSReloading_Female_4_2 = "Перезавантаження!",
+	IGUI_Bandits_Speech_ZSReloading_Female_4_3 = "Прикрий мене...",
+	IGUI_Bandits_Speech_ZSReloading_Female_4_4 = "Бляха... Мені треба
+	перезарядитися!",
+	IGUI_Bandits_Speech_ZSReloading_Female_4_5 = "Бляха, я порожній!",
+	IGUI_Bandits_Speech_ZSReloading_Female_4_6 = "Давай! Давай!",
+	IGUI_Bandits_Speech_ZSBreach_Female_4_1 = "Вломитися!",
+	IGUI_Bandits_Speech_ZSBreach_Female_4_2 = "Ламайте!",
+	IGUI_Bandits_Speech_ZSBreach_Female_4_3 = "Зламай цю штуку!",
+	IGUI_Bandits_Speech_ZSBreach_Female_4_4 = "Знищити цю штуку!",
+	IGUI_Bandits_Speech_ZSBreach_Female_4_5 = "Знищ це негайно!",
+	IGUI_Bandits_Speech_ZSBreach_Female_4_6 = "Виламати двері!",
+	IGUI_Bandits_Speech_ZSCar_Female_4_1 = "Виходь з машини, боягузе!",
+	IGUI_Bandits_Speech_ZSCar_Female_4_2 = "Виходьте негайно!",
+	IGUI_Bandits_Speech_ZSCar_Female_4_3 = "Зупиніть машину!",
+	IGUI_Bandits_Speech_ZSCar_Female_4_4 = "Зупиніться негайно!",
+	IGUI_Bandits_Speech_ZSCar_Female_4_5 = "Зупиніть автомобіль!",
+	IGUI_Bandits_Speech_ZSCar_Female_4_6 = "Зупини довбану машину!",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_1 = "Гадаю, час подрімати
+	довше.",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_2 = "Це було швидко.",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_3 = "Спи, моя люба :)",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_4 = "Дивись, який герой!",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_5 = "Ну... Добраніч.",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_6 = "Гаразд. Шоу закінчено.",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_7 = "",
+	IGUI_Bandits_Speech_ZSDeath_Female_4_8 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_4_1 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_4_2 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_4_3 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_4_4 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_4_5 = "",
+	IGUI_Bandits_Speech_ZSDead_Female_4_6 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_4_1 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_4_2 = "",
+	IGUI_Bandits_Speech_ZSBurn_Female_4_3 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_4_1 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_4_2 = "",
+	IGUI_Bandits_Speech_ZSDragdown_Female_4_3 = "",
+	IGUI_Bandits_Speech_ZSInside_Female_4_1 = "На вулицю!",
+	IGUI_Bandits_Speech_ZSInside_Female_4_2 = "На вулицю! Негайно!",
+	IGUI_Bandits_Speech_ZSInside_Female_4_3 = "Чисто!",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_4_1 = "Перейдіть на верхній
+	поверх.",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_4_2 = "Нагору! Перевірте
+	нагорі!",
+	IGUI_Bandits_Speech_ZSUpstairs_Female_4_3 = "Вони нагорі!
+	Ворушіться!",
+	IGUI_Bandits_Speech_ZSOutside_Female_4_1 = "Заходять.",
+	IGUI_Bandits_Speech_ZSOutside_Female_4_2 = "Всередині будівлі!",
+	IGUI_Bandits_Speech_ZSOutside_Female_4_3 = "Заходьте до будівлі!",
+	IGUI_Bandits_Speech_ZSRoom_Kitchen_Female_4_1 = "Перевірте на
+	кухні!",
+	IGUI_Bandits_Speech_ZSRoom_Bathroom_Female_4_1 = "У ванній!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_4_1 = "Що за?",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_4_2 = "Забирай звідси
+	свою понівечену дупу!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_4_3 = "Матір твою, щоб ти
+	забиралася звідси!",
+	IGUI_Bandits_Speech_ZSDefender_Spot_Female_4_4 = "Ти ступила не
+	туди!",
+	IGUI_Bandits_Speech_ZSHit_Female_4_1 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_2 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_3 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_4 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_5 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_6 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_7 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_8 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_9 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_10 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_11 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_12 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_13 = "",
+	IGUI_Bandits_Speech_ZSHit_Female_4_14 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_1 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_2 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_3 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_4 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_5 = "",
+	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_6 = "",
 }
