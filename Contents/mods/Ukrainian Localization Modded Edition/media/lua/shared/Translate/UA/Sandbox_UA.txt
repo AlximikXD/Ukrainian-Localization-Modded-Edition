@@ -101,4 +101,36 @@ Sandbox_UA = {
 
     Sandbox_ExpandedHeli_ContinueSchedulingLateGameOnly = "Продовжити Планувальника: Тільки Пізні Події",
     Sandbox_ExpandedHeli_ContinueSchedulingLateGameOnly_tooltip = "Коли увімкнено «Продовжити Планувальника Назавжди», ця функція змушує планувальник використовував лише події пізньої гри.",
+	
+		------------Just Drugs - DLC------------
+	
+    Sandbox_JustDrugsDLC = "Just Drugs - DLC | Від Leuan",
+    
+    Sandbox_JustDrugsDLC_AlucinogenasSpawnRate = "Частота появи галюциногенних наркотиків",
+    Sandbox_JustDrugsDLC_InhalablesSpawnRate = "Частота появи інгаляційних наркотиків",
+    Sandbox_JustDrugsDLC_PolvoSpawnRate = "Частота появи порошкових наркотиків",
+    Sandbox_JustDrugsDLC_HerbalSpawnRate = "Частота появи рослинних наркотиків",
+    Sandbox_JustDrugsDLC_PillsSpawnRate = "Частота появи фармацевтичних наркотиків",
+    Sandbox_JustDrugsDLC_DesintoxicantesSpawnRate = "Частота появи детоксикаційних препаратів",
+    Sandbox_JustDrugsDLC_ZombieDrugLootSpawnRate = "Частота появи наркотиків у зомбі",
+    Sandbox_JustDrugsDLC_BottleCompoundSpawnRate = "Частота появи пляшок з хімічними речовинами",
+    Sandbox_JustDrugsDLC_LibrosChem101SpawnRate = "Частота появи книг 'Хімія 101'",
+    
+    Sandbox_JustDrugsDLC_BoredomIncrement = "Зростання нудьги за годину",
+    Sandbox_JustDrugsDLC_SuperarAddicion = "Дні, необхідні для подолання залежності від наркозалежного трейтів",
+
+    Sandbox_JustDrugsDLC_AlucinogenasSpawnRate_tooltip = "Гриби, ЛСД, MDMA, екстазі тощо...",
+    Sandbox_JustDrugsDLC_InhalablesSpawnRate_tooltip = "Дезодоранти, Дженкем і неопрен",
+    Sandbox_JustDrugsDLC_PolvoSpawnRate_tooltip = "Кокаїн, героїн, фентаніл, мет тощо...",
+    Sandbox_JustDrugsDLC_HerbalSpawnRate_tooltip = "Айяуаска, кат, пейот, диявольський подих тощо...",
+    Sandbox_JustDrugsDLC_PillsSpawnRate_tooltip = "Ібупрофен, Вікодин, Трамадол, Ксанакс тощо...",
+    Sandbox_JustDrugsDLC_DesintoxicantesSpawnRate_tooltip = "Narcan, Лоперамід, Бісмут. Ліки для боротьби з передозуванням.",
+    Sandbox_JustDrugsDLC_ZombieDrugLootSpawnRate_tooltip = "Змінює частоту появи предметів у тілах зомбі.",
+    Sandbox_JustDrugsDLC_BottleCompoundSpawnRate_tooltip = "Пляшки з аміаком, фенілом, етанолом, калієм тощо...",
+    Sandbox_JustDrugsDLC_LibrosChem101SpawnRate_tooltip = "Книги, які навчають рецептів для створення конкретних наркотиків.",
+    Sandbox_JustDrugsDLC_BolsasDeDrogaSpawnRate_tooltip = "Порожні пакети для наркотиків. (Корисні для крафту)",
+
+    Sandbox_JustDrugsDLC_BoredomIncrement_tooltip = "Нудьга зростає лише за умови наявності трейтів наркозалежного. Це дозволяє налаштувати, як швидко зростає нудьга.",
+    Sandbox_JustDrugsDLC_SuperarAddicion_tooltip = "Пам'ятайте, що наркотики не повинні бути у вашому інвентарі, щоб це спрацювало.",
+	
 }

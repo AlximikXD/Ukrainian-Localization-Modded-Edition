@@ -1287,4 +1287,21 @@ ContextMenu_UA = {
 	ContextMenu_ComboWasherDryer_SetModeWasher = "Встановити режим: Прати",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "Встановити режим: Сушити",
 	ContextMenu_FuelCapacity = "Кількість палива: ",
+	
+		------------Just Drugs - DLC------------
+	
+    ContextMenu_Inhale = "Вдихнути",
+    ContextMenu_Inject = "Ввести ін'єкцію",
+    ContextMenu_Swallow = "Ковтнути",
+    ContextMenu_Eat_Shrooms = "З'їсти гриби",
+    ContextMenu_Take_Pill = "Прийняти таблетку",
+    ContextMenu_Drink_Lean = "Випити",
+    ContextMenu_Smoke_Meth = "Палити",
+	
+		------------Check Around------------
+		
+    ContextMenu_CheckThroughWindow = "Перевірити через вікно",
+    ContextMenu_PeekDoor = "Зазирнути за двері",
+    ContextMenu_CheckBehindDoor = "Перевірити за дверима",
+	
 }
