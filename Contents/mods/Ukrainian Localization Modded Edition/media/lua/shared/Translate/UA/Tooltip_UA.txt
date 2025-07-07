@@ -356,5 +356,34 @@ Tooltip_Teabag_Energizing = "Можна зробити бадьорячий чай",
 
     Tooltip_PeekBehindDoor = "Заглядання за двері може спричинити певний шум, залежно від ваших навичок скрадання.",
 		
+		------------More Medical------------
+		
+    Tooltip_MoreMedicalWarning86 = "Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1986)",
+    Tooltip_MoreMedicalWarning87 = "Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1987)",
+    Tooltip_MoreMedicalWarning88 = "Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1988)",
+    Tooltip_MoreMedicalWarning89 = "Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1989)",
+    Tooltip_MoreMedicalWarning90 = "Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1990)",
+    
+    Tooltip_PillsCommercialPainkillers = "Знеболюючі засоби. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1986)",
+    Tooltip_PillsPrescriptionPainkillers = "Знеболюючі засоби. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1987)",
+    Tooltip_PillsCaffeine = "Противтома. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1988)",
+    Tooltip_PillsCommercialAntibiotic = "Антибіотик. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1989)",
+    Tooltip_PillsAntiPoisoning = "Таблетки проти отруєння. <br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1990)",
+    Tooltip_PillsCommercialSedative = "Седативний засіб. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1986)",
+    Tooltip_PillsPharmacyPrescription = "Невідомі рецептурні ліки. Їх прийом є НЕБЕЗПЕЧНИМ.",
+    
+    Tooltip_SyretteHighGradePainkillers = "Знеболюючі засоби. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1987)",
+    Tooltip_SyretteAdrenalin = "Противтома. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1988)",
+    Tooltip_SyrettePrescriptionAntibiotic = "Антибіотик. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1989)",
+    Tooltip_SyrettePrescriptionSedatives = "Седативний засіб. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1990)",
+    Tooltip_BottleFluMedication = "Ліки від грипу. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1986)",
+    Tooltip_PowderPackFluMedication = "Ліки від грипу. УВАГА: РИЗИК СМЕРТЕЛЬНОГО ПЕРЕДОЗУВАННЯ.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1987)",
+    Tooltip_PowderPackHemostatic = "Кровоспинний засіб.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1990)",
+    
+    Tooltip_Tourniquet = "УВАГА: НЕ ЗАСТОСОВУВАТИ НА ШИЮ",
+    
+    Tooltip_BottleCoughSyrup = "Засоби від кашлю.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1988)",
+    Tooltip_NasalSpray = "Засоби від кашлю.<br>Виробник: Z-Ontic Medical Breakthroughs Inc.<br>Очікується схвалення FDA (1989)",
+		
 } 
 	

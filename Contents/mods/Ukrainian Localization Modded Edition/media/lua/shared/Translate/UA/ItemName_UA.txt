@@ -3965,4 +3965,33 @@ ItemName_Base.SpoonMagazineHerbal = "Журнал рецептів трав",
 	ItemName_DrugsDLC.Loperamide = "Лоперамід",
 	ItemName_DrugsDLC.NarcanSOS = "NarCan - S.O.S від передозування",
 	
+		------------More Medical------------
+	
+    ItemName_MoreMedical.PillsCommercialPainkillers = "Таблетки «Neboline»",
+    ItemName_MoreMedical.PillsPrescriptionPainkillers = "Таблетки «Torcine»",
+    ItemName_MoreMedical.PillsCaffeine = "Таблетки «Caffeine»?",
+    ItemName_MoreMedical.PillsCommercialAntibiotic = "Таблетки «Idivon»??",
+    ItemName_MoreMedical.PillsAntiPoisoning = "Таблетки «Antipzidin»?",
+    ItemName_MoreMedical.PillsCommercialSedative = "Таблетки «Hrenozepam»??",
+    ItemName_MoreMedical.PillsPharmacyPrescription = "Рецептурні таблетки",
+    ItemName_MoreMedical.SyretteHighGradePainkillers = "Сирет «Morphine»??",
+    ItemName_MoreMedical.SyretteAdrenalin = "Сирет «Adrenalin»?",
+    ItemName_MoreMedical.SyrettePrescriptionAntibiotic = "Сирет «Denashol»?",
+    ItemName_MoreMedical.SyrettePrescriptionSedatives = "Сирет «US Pоcaine»?",
+    ItemName_MoreMedical.BottleFluMedication = "Пляшка «TsarFlu»?",
+    ItemName_MoreMedical.SealedBandage = "Стерильна упаковка для бинтів",
+    
+    ItemName_MoreMedical.PowderPackFluMedication = "Порошок «TsarFlu»",
+    ItemName_MoreMedical.HotDrinkFluMedicationMug = "Гарячий напій «TsarFlu»",
+    ItemName_MoreMedical.HotDrinkFluMedicationMugRed = "Гарячий напій «TsarFlu»",
+    ItemName_MoreMedical.HotDrinkFluMedicationMugWhite = "Гарячий напій «TsarFlu»",
+    ItemName_MoreMedical.HotDrinkFluMedicationMugSpiffo = "Гарячий напій «TsarFlu»",
+    
+    ItemName_MoreMedical.BurnTreatment = "Крем від опіків «Pog Orel Gel»",
+    ItemName_MoreMedical.PowderPackHemostatic = "Кровоспинний порошок",
+    ItemName_MoreMedical.Tourniquet = "Джгут",
+    
+    ItemName_MoreMedical.BottleCoughSyrup = "Пляшка сиропу від кашлю «Dr. IBLT»",
+    ItemName_MoreMedical.NasalSpray = "Назальний спрей «SoPlaR Forte»",
+	
 }

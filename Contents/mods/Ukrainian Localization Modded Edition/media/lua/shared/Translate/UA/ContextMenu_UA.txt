@@ -1304,4 +1304,11 @@ ContextMenu_UA = {
     ContextMenu_PeekDoor = "Зазирнути за двері",
     ContextMenu_CheckBehindDoor = "Перевірити за дверима",
 	
+		------------More Medical------------
+	
+    ContextMenu_Inject = "Ввести",
+    ContextMenu_BurnTreatment = "Нанесіть крем на опік",
+    ContextMenu_PackHemostatic = "Нанести кровоспинний порошок",
+    ContextMenu_Tourniquet = "Накласти джгут",
+	
 }

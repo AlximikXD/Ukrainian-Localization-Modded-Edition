@@ -933,4 +933,9 @@ Recipe_Breakpieces_of_charcoal = "Розбити шматки деревного вугілля",
 	Recipe_Extract_Phenylethylamine = "Екстрагувати фенілетиламін",
 	Recipe_Add_Heroin_To_Needle = "Заповнити шприц героїном",
 
+		------------More Medical------------
+	
+    Recipe_Open_SealedBandage = "Взяти бинт",
+    Recipe_Make_HotDrinkFluMedication = "Насипати порошок у чашку",
+
 }

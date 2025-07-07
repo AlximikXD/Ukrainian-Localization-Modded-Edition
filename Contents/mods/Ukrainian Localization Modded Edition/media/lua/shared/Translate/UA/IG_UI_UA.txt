@@ -3114,4 +3114,12 @@ IGUI_UA = {
 	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_5 = "",
 	IGUI_Bandits_Speech_ZSThief_Spot_Female_4_6 = "",
 	
+		------------More Medical------------
+	
+    IGUI_JobType_ApplyBurnTreatment = "Застосувати крем від опіків",
+    IGUI_JobType_ApplyPowderPackHemostatic = "Застосувати кровоспинний порошок",
+    IGUI_JobType_ApplyTourniquet = "Накласти джгут",
+    IGUI_JobType_ApplyTourniquetOnNeck = "Задушити себе",
+    IGUI_PlayerText_PleaseStop = "ЗУПИНІТЬСЯ! Я НЕ ЗАСЛУЖУЮ ЦЬОГО!!! ДАЙТЕ МЕНІ ЩЕ ОДИН ШАНС!!! НАТИСНІТЬ «ESC» ЗАРАЗ!!!! СПЕРШУ ПРОЧИТАЙТЕ ІНСТРУКЦІЇ ЩОДО ТУРНІКЕТУ!!!",
+	
 }
