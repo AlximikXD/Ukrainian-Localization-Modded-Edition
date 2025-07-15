@@ -3122,4 +3122,317 @@ IGUI_UA = {
     IGUI_JobType_ApplyTourniquetOnNeck = "Задушити себе",
     IGUI_PlayerText_PleaseStop = "ЗУПИНІТЬСЯ! Я НЕ ЗАСЛУЖУЮ ЦЬОГО!!! ДАЙТЕ МЕНІ ЩЕ ОДИН ШАНС!!! НАТИСНІТЬ «ESC» ЗАРАЗ!!!! СПЕРШУ ПРОЧИТАЙТЕ ІНСТРУКЦІЇ ЩОДО ТУРНІКЕТУ!!!",
 	
+		------------Avatar offline------------
+	
+	IGUI_AO_avatarOf = "Аватар ",
+	IGUI_AO_noExist = " не існує!",
+	IGUI_AO_isPresent = " присутній!",
+	IGUI_AO_youHaveTaked = "Ви взяли ",
+	IGUI_AO_YouHaveSeated = "Ви посадили ",
+	IGUI_AO_isSaved = " збережено",
+	IGUI_AO_noBody = "Нікого немає!!",
+	IGUI_AO_itsYou = "Це ви самі!",
+	IGUI_AO_PlaceAvatarMsg = "Розмістіть або зачекайте...",
+	IGUI_AO_AutoDecoDansMsg = "автоматичне відключення через 15 секунд...",
+	IGUI_AO_10sRestanteMsg = "Залишилося 10 секунд...",
+	IGUI_AO_tropTardMsg = "Запізно!! автоматичне відключення...",
+	IGUI_AO_avatarPresentOnYou = "У вас є персонаж(і)!",
+	IGUI_AO_avatarPresentDUP = " присутній: ДУБЛІКАТ",
+	IGUI_AO_YourAvatarAddedInInv = "Ваш аватар додано до інвентарю.",
+	IGUI_AO_seatAvatarsBeforeDrive = "Посадіть персонажів перед тим, як вирушити в дорогу!",
+	IGUI_AO_seatAvatarOfYourInv = "Ви повинні посадити персонажів з інвентарю!",
+	IGUI_AO_seatAvatar = "Посадити персонажа на місце",
+	IGUI_AO_takeAvatar = "Взаємодіяти з персонажами",
+	IGUI_AO_Siege = "Місце ",
+	IGUI_AO_noAvatarToSeat = "У вас немає аватара!",
+	IGUI_AO_impossibleToTakeAvatarInRV = "заборонено взаємодіяти з персонажами в приміщеннях автодома тощо...",
+	IGUI_AO_no_place_for_this_avatar = "Немає місця для нього!",
+	IGUI_AO_CantQuitRVinsideWithAvatarInInventory = "Ви не можете вийти з автодому з аватаром в інвентарі!",
+	IGUI_AO_NotAvatarNeedAdmin = "Ви не маєте доступу до цієї опції, бо не додані до білого списку.",
+	IGUI_AO_AutoExpulseIfHaveNotAvatar = "Автовидалення: у вас немає аватара, прив’язаного до вашого акаунта. Зверніться до адміністратора.",
+
+	IGUI_AO_context_RefreshAvatarSeatedMenu = "Оновити",
+	IGUI_AO_context_set_your_avatar = "Мій аватар",
+	IGUI_AO_context_Avatars_Neutral = "Нейтральні",
+	IGUI_AO_context_Rand_avatars_neutral = "Випадкові",
+	IGUI_AO_context_Avatars_Females = "Жіночі",
+	IGUI_AO_context_Avatars_Males = "Чоловічі",
+	IGUI_AO_context_Avatars_WhiteListed = "У білому списку",
+	IGUI_AO_context_Avatars_Special = "Спеціальні",
+
+	IGUI_AO_seatAvatarSit = "Посадити ",
+	IGUI_AO_seatAvatarOnThe = " на місце",
+
+	IGUI_AO_context_Set_trust_player = "Управління білим списком",
+	IGUI_AO_context_set_Trust = "Додати",
+	IGUI_AO_context_set_noTrust = "Видалити",
+
+	IGUI_AO_ContextMenu_martyrizeAvatar = "Катувати ",
+	IGUI_AO_is_not_implemented = "Насправді шкоди не завдано, не реалізовано...",
+
+	IGUI_AO_You_are_whitelisted_info = "ви у білому списку Avatar Offline!",
+
+	IGUI_AO_ServerMessage = "Повідомлення сервера: ",
+	IGUI_AO_You_are_Not_whitelisted_info = "ви більше не у білому списку Avatar Offline!",
+
+	IGUI_AO_context_force_players_exit_game = "Примусово вийти всім гравцям",
+	IGUI_AO_context_Debug_Confirm = "Підтвердити",
+
+	IGUI_AO_you_have_already_avatar_in_inv = "У вас вже є персонаж!",
+
+	IGUI_AO_context_description_exit_game_confirm = "Підтвердивши, ви змусите всіх гравців вийти з гри, залишивши їхніх аватарів на позиції. Адміни не підпадають під дію. Можна автоматизувати через AvatarFUNC.ForcePlayersToExitGame()",
+
+	IGUI_AO_context_description_SetTrustOrNot_true = "Додавши до білого списку, ви дозволите розміщення аватарів у 3D-моделі (з обертанням), а не в 2D-іконах. Це потрібно для запобігання неправильному розміщенню аватарів, які можуть стати невидимими. У налаштуваннях пісочниці можна вимкнути 3D-об’єкти повністю.",
+
+	IGUI_AO_you_will_auto_disconnect_by_server = "Увага, у вас 20 секунд до автоматичного відключення сервером...",
+
+	IGUI_AO_context_Avatars_Custom = "Серверні",
+	IGUI_AO_context_Avatars_Vanilla = "Ванільні",
+
+	IGUI_AO_context_My_Avatar = "Мій аватар",
+
+	IGUI_AO_convert_2dto3d = "Конвертувати у розміщуваний об’єкт",
+
+	IGUI_AO_context_interact_avatar_ground = "Взаємодіяти з персонажем",
+
+	IGUI_AO_ContextMenu_AO_PlacerAvatar = "Розмістити",
+
+	IGUI_AvatarData_info_LastPlayerCarrier = " переносив",
+	IGUI_AvatarData_info_LastPlayerGiver = " передав предмет",
+	IGUI_AvatarData_info_LastPlayerTaker = " взяв предмет",
+	IGUI_AvatarData_info_LastLogout = " вихід з гри",
+	IGUI_AvatarData_info_BadLogoutCounter = " неправильних виходів",
+	IGUI_AvatarData_info_TimeElapsedLastDC = "Відключено ",
+	IGUI_AvatarData_info_h = " год",
+	IGUI_AvatarData_info_j = " дн",
+	IGUI_AvatarData_info_InventoryWeight = "вага інвентарю ",
+	IGUI_AvatarData_info_Kg = " кг",
+	IGUI_AvatarData_submenuInfoItems_description = "Опис",
+
+	IGUI_AvatarData_info_Bad = "Погано",
+	IGUI_AvatarData_info_Good = "Добре",
+
+	IGUI_AvatarData_dontGetItemTooWeight = "Цей предмет надто важкий!",
+	IGUI_AvatarData_dontGetContainer = "Цей предмет неможливо взяти.",
+	IGUI_AvatarData_dontPutEquipedItem = "Цей предмет вже вдягнуто.",
+
+	IGUI_AvatarData_submanuInfoItems_mag = "Заряджувач встановлено.",
+
+	IGUI_AvatarData_context_putItemToAvatar = "Передати",
+	IGUI_AvatarData_context_takeItemToAvatar = "Забрати",
+	IGUI_AvatarData_ContextMenu_infoAvatar = "Інфо",
+
+	IGUI_AvatarData_context_gestionTargetedPlayerWL = "Мій аватар щодо ",
+	IGUI_AvatarData_context_gestionPlayerWL = "Керувати дозволами",
+	IGUI_AvatarData_context_PlayerToItemsWL = "Дозволено брати предмети",
+	IGUI_AvatarData_context_PlayerToCarryWL = "Дозволено переносити мене",
+	IGUI_AvatarData_context_removePlayerFromItemsWL = "Заборонити брати предмети",
+	IGUI_AvatarData_context_removePlayerFromCarryWL = "Заборонити переносити",
+	IGUI_AvatarData_context_addPlayerToItemsWL = "Дозволити брати предмети",
+	IGUI_AvatarData_context_addPlayerToCarryWL = "Дозволити переносити мене",
+
+	IGUI_AO_context_GlobalPrintAdmin = "Згенерувати інформацію",
+	IGUI_AO_context_CrashedOrAltF4PrintAdmin = "Інформація про краш/Alt+F4",
+	IGUI_AO_context_resetCrashOrAltF4info = "Скинути лічильник аварійних виходів",
+	IGUI_AvatarData_info_resetCrashOrAltF4info = "Ця опція скине лічильник аварійних виходів для всіх гравців (краш або Alt+F4)",
+
+	IGUI_AvatarData_info_resetAvatarPositionAndData = "Скинути дані аватара та Respawn In Car (увійдіть у режимі налагодження, не рекомендується).",
+	IGUI_AvatarData_info_ForcePlayerToExitGame = "Підтвердивши, ви змусите гравця вийти, залишивши аватара на місці.",
+
+	IGUI_AO_dialog_youWantRemoveAvatarsData_Confirm = "Ви хочете видалити всі дані моду Avatar?<br>(лише інвентар, час виходу, хто кого переносив тощо, позиція в світі не зміниться).",
+	IGUI_AO_dialog_youWantRemoveAvatarsposition_Confirm = "Ви хочете видалити дані моду Respawn In Car?<br>(збережені позиції для входу гравців)",
+
+	IGUI_AO_context_ActiveAdminMenu = "Увімкнути меню",
+
+	IGUI_AO_context_subMenAllAvatarsDeclaredAdmin = "Задекларовані аватари",
+	IGUI_AO_context_subMenAvatarsKnowedPositionAdmin = "Аватари у світі",
+	IGUI_AO_context_subMenAvatarsKnowedPositionInCarAdmin = "Аватари у транспорті",
+	IGUI_AO_context_subMenOnlinePlayersAdmin = "Онлайн гравці",
+
+	IGUI_AO_context_resetAllAvatarsPositionAndData = "Скинути всі дані",
+
+	IGUI_AO_context_Avatars_choice = "Вибір аватара",
+
+	IGUI_AvatarData_SAY_avatarHaveCrashedOrAltF4 = "Останнє відключення некоректне",
+	IGUI_AvatarData_SAY_youHaveCrashedOrAltF4 = "Виявлено аварійний вихід. Будь ласка, виходьте через меню гри.",
+	IGUI_AvatarData_SAY_itemIsTakedInYourInv = "У вас забрали щонайменше один предмет.",
+	IGUI_AvatarData_SAY_itemIsGivedInYourInv = "Вам передали щонайменше один предмет.",
+	IGUI_AvatarData_SAY_avatarIsFull = "Інвентар заповнений!",
+
+	IGUI_AvatarData_context_teleportToAvatar = "Телепортуватися",
+	IGUI_AvatarData_context_ForcePlayerToExitGame = "Вигнати гравця",
+	IGUI_AvatarData_context_resetAvatarPositionAndData = "Скинути дані",
+	IGUI_AvatarData_info_GlobalPrintAdmin = "У консолі сервера буде згенеровано повний звіт по аватарам.",
+	IGUI_AvatarData_info_playerPositionUnknow = "Позиція гравця невідома!",
+	IGUI_AvatarData_info_avatarPositionUnknow = "Позиція аватара невідома.",
+	IGUI_AvatarData_info_avatarPositionInVehicle = "Аватар сидить у транспорті.",
+	IGUI_AvatarData_info_Online = "Онлайн",
+
+	IGUI_AO_ForbidenToTakeAvatarBecauseCarryFuncIsDesactivate = "Неможливо переносити аватарів — функцію вимкнено!",
+
+	IGUI_AO_youShouldTakeAvatarByMenu = "Скористайтесь меню взаємодії з персонажем...",
+
+	IGUI_AO_ImpossibleToTakeAvatarHere = "Неможливо забрати цього аватара, бо",
+	IGUI_AO_ImpossibleToTakeAvatarInSafeHouse = " ви не у своєму притулку",
+	IGUI_AO_ImpossibleToTakeAvatarIfNotYourFaction = " ви не з його фракції",
+	IGUI_AO_ImpossibleToTakeAvatarIfYouAreNotInWL = " вас немає у його білому списку",
+
+	IGUI_AvatarData_ImpossibleToTakeGiveItemAvatarHere = "Не можна передавати/забирати предмети у нього, бо",
+	IGUI_AvatarData_ImpossibleToTakeGiveItemsFromAvatarIfYouAreNotInWL = " вас немає у його білому списку",
+	IGUI_AvatarData_ImpossibleToTakeGiveItemAvatarInSafeHouse = " ви не у своєму притулку",
+	IGUI_AvatarData_ImpossibleToTakeGiveItemAvatarIfNotYourFaction = " ви не з його фракції",
+
+	IGUI_AO_CantEnterInRvBecauseHaveAvatarInv = "Ви не можете зайти всередину, маючи аватара в інвентарі.",
+
+	IGUI_AO_ImpossibleToTakeAvatarHereIGUI_AO_ImpossibleToTakeAvatarInSafeHouse = "Не можна переносити аватара, бо ви не у своєму притулку",
+	IGUI_AO_ImpossibleToTakeAvatarHereIGUI_AO_ImpossibleToTakeAvatarIfNotYourFaction = "Не можна переносити аватара, бо ви не з його фракції",
+	IGUI_AO_ImpossibleToTakeAvatarHereIGUI_AO_ImpossibleToTakeAvatarIfYouAreNotInWL = "Не можна переносити аватара, бо вас немає в його білому списку",
+
+	IGUI_AO_ImpossibleToTakeAvatarHereIGUI_AO_ImpossibleToTakeAvatarInSafeHouseIGUI_AO_ImpossibleToTakeAvatarIfNotYourFaction = "Не можна переносити аватара, бо ви не у своєму притулку і не з його фракції",
+	IGUI_AO_ImpossibleToTakeAvatarHereIGUI_AO_ImpossibleToTakeAvatarInSafeHouseIGUI_AO_ImpossibleToTakeAvatarIfYouAreNotInWL = "Не можна переносити аватара, бо ви не у своєму притулку і вас немає в його білому списку",
+
+	IGUI_AO_ImpossibleToTakeAvatarHereIGUI_AO_ImpossibleToTakeAvatarIfNotYourFactionIGUI_AO_ImpossibleToTakeAvatarIfYouAreNotInWL = "Не можна переносити аватара, бо ви не з його фракції і вас немає в білому списку",
+
+	IGUI_AO_ImpossibleToTakeAvatarHereIGUI_AO_ImpossibleToTakeAvatarInSafeHouseIGUI_AO_ImpossibleToTakeAvatarIfNotYourFactionIGUI_AO_ImpossibleToTakeAvatarIfYouAreNotInWL = "Не можна переносити аватара, бо ви не у притулку, не з фракції і вас немає у білому списку",
+
+	IGUI_AO_UI_Title_AvataPanel = "Керування аватарами",
+	IGUI_AO_UI_button_Remove = "Видалити",
+	IGUI_AO_UI_button_Refresh = "Оновити",
+	IGUI_AO_UI_button_Close = "Закрити",
+	IGUI_AO_UI_button_Info = "Інфо",
+	IGUI_AO_UI_button_Teleport = "Телепорт",
+	IGUI_AO_UI_button_Create = "Створити",
+	IGUI_AO_UI_button_Kick = "Вигнати",
+
+	IGUI_AO_UI_Title_CreateAvatar = "Створити аватара з цим іменем",
+
+	IGUI_AO_UI_info_youWantCreateAvatarFromName = "Бажаєте створити аватара за цим іменем? (він з’явиться під час наступного входу гравця)<br><br>У налаштуваннях пісочниці є опція, чи дозволено телепортуватися при створенні нового персонажа<br><br>Рекомендується забирати аватара вручну, коли він на землі.<br>Цю опцію слід використовувати лише один раз між входами гравця, щоб уникнути дублікатів.",
+
+	IGUI_AO_UI_info_PlayerIsOnline = "Гравець онлайн!",
+	IGUI_AO_UI_info_PlayerIsNotOnline = "Гравець не в мережі!",
+
+	IGUI_AO_UI_info_youWantRemovePosition = "Бажаєте видалити позицію гравця у світі?<br>збережена позиція для наступного входу<br>Бажано використовувати цю опцію поруч з аватаром.",
+	IGUI_AO_UI_info_youWantRemoveData = "Бажаєте видалити дані аватара?<br>(інвентар, час виходу тощо, без позиції)",
+
+	IGUI_AO_UI_option_AllAvatarsDeclared = "Усі задекларовані",
+	IGUI_AO_UI_option_AvatarsKnowedPosition = "На землі",
+	IGUI_AO_UI_option_AvatarsKnowedPositionInCar = "У транспорті",
+	IGUI_AO_UI_option_OnlinePlayers = "Онлайн",
+
+	IGUI_AvatarData_description_note = "Нотатка",
+	IGUI_AO_context_takeAvatar = "Забрати персонажа"
+
+		------------Realistic Clothes------------
+	
+	IGUI_Hint_Very_Loose = "(Дуже вільний)",
+	IGUI_Hint_Loose = "(Вільний)",
+	IGUI_Hint_Fit = "(Підходить)",
+	IGUI_Hint_Tight = "(Тісний)",
+	IGUI_Hint_Very_Tight = "(Дуже тісний)",
+
+	IGUI_JobType_CheckClothesSize = "Перевірити розмір одягу",
+	IGUI_JobType_ResizeClothes = "Змінити розмір одягу",
+	IGUI_JobType_ToSize = "До %1",
+	IGUI_JobType_ResizeClothesTo = "Змінити розмір одягу до %1",
+	IGUI_JobType_UpsizeClothes = "Збільшити розмір одягу",
+	IGUI_JobType_DownsizeClothes = "Зменшити розмір одягу",
+	IGUI_JobType_ReconditionClothes = "Відновити",
+	IGUI_JobType_Recondition_UseStrip = "Використати %1",
+	IGUI_JobType_Recondition_UseSpare = "Використати %1",
+	IGUI_JobType_Recondition_RepairedTimes = "%1 ремонти(в)",
+
+	IGUI_RealisticClothes_BarelyDegrading = "Ледь зношується",
+	IGUI_RealisticClothes_SlowlyDegrading = "Повільно зношується",
+	IGUI_RealisticClothes_NormallyDegrading = "Зношується нормально",
+	IGUI_RealisticClothes_FastDegrading = "Швидко зношується",
+	IGUI_RealisticClothes_RapidDegrading = "Дуже швидко зношується",
+	IGUI_RealisticClothes_DaysRemaining = "Приблизно %1 дн. залишилось",
+
+	IGUI_Say_Label_Very_Tight0 = "Це розмір %1, явно замалий для мене",
+	IGUI_Say_Label_Very_Tight1 = "Це розмір %1, я ніяк не влізу в це",
+	IGUI_Say_Label_Tight0 = "Це розмір %1, може бути трохи тіснувато",
+	IGUI_Say_Label_Tight1 = "Це розмір %1, виглядає трохи впритул",
+	IGUI_Say_Label_Fit0 = "Це розмір %1, виглядає якраз",
+	IGUI_Say_Label_Fit1 = "Це розмір %1, має добре сидіти на мені",
+	IGUI_Say_Label_Loose0 = "Це розмір %1, може бути трохи завеликий",
+	IGUI_Say_Label_Loose1 = "Це розмір %1, виглядає просторим, але в міру",
+	IGUI_Say_Label_Very_Loose0 = "Це розмір %1, явно завеликий для мене",
+	IGUI_Say_Label_Very_Loose1 = "Це розмір %1, я б у цьому втопився",
+
+	IGUI_Say_Hint_Very_Tight0 = "Ні, це задушливо тісне!",
+	IGUI_Say_Hint_Very_Tight1 = "Ні, я навіть дихати не можу в цьому!",
+	IGUI_Say_Hint_Tight0 = "Хмм... трохи тісно, але зійде",
+	IGUI_Say_Hint_Tight1 = "Відчувається трохи тісним, але терпимо",
+	IGUI_Say_Hint_Fit0 = "Сидить ідеально, наче для мене шито",
+	IGUI_Say_Hint_Fit1 = "Мій розмір, без сумніву",
+	IGUI_Say_Hint_Loose0 = "Рукава трохи задовгі...",
+	IGUI_Say_Hint_Loose1 = "Відчувається трохи мішкуватим",
+	IGUI_Say_Hint_Very_Loose0 = "Наче я пончо вдягнув",
+	IGUI_Say_Hint_Very_Loose1 = "Я тону в цих штанах",
+
+	IGUI_Say_Dropped_Pants0 = "Ну от... штани спали",
+	IGUI_Say_Dropped_Pants1 = "Записати: ремінь — не розкіш, а необхідність...",
+	IGUI_Say_Dropped_Skirt0 = "Ця спідниця мене підвела",
+	IGUI_Say_Dropped_Skirt1 = "Мабуть, час купити ремінь...",
+	IGUI_Say_Nofit_Clothes0 = "Це більше не налазить на мене",
+	IGUI_Say_Nofit_Clothes1 = "Я вже занадто великий для цього",
+
+	IGUI_Say_Ripped_Clothes0 = "Я знав, що це надто впритул...",
+	IGUI_Say_Ripped_Clothes1 = "Цей одяг не витримав цього руху",
+
+		------------Lifestyle: Hobbies------------
+
+	IGUI_PaintingAuthor = "Автор",
+	IGUI_PaintingAddName = "Назвати цю роботу",
+	IGUI_PaintingBeauty = "Краса",
+	IGUI_PaintingCustomName = "Назва",
+	IGUI_PaintingStyle = "Стиль",
+	IGUI_PaintingStyleAbstract = "Абстракціонізм",
+	IGUI_PaintingStyleClassicism = "Класицизм",
+	IGUI_PaintingStyleExpressionism = "Експресіонізм",
+	IGUI_PaintingStyleIllustrative = "Ілюстративний",
+	IGUI_PaintingStyleImpressionism = "Імпресіонізм",
+	IGUI_PaintingStyleMasterpiece = "Шедевр",
+	IGUI_PaintingStylePointillism = "Пуантілізм",
+	IGUI_PaintingStylePopArt = "Поп-арт",
+	IGUI_PaintingStyleRealism = "Реалізм",
+	IGUI_PaintingStyleScribble = "Нашвидкоруч",
+	IGUI_PaintingStyleSurrealism = "Сюрреалізм",
+
+	IGUI_HaloNote_PlaylistGet = "Імпортовано новий плейлист з ",
+	IGUI_HaloNote_PlaylistGetEnd = " піснями",
+	IGUI_HaloNote_CleaningNoPath = "Неможливо дістатися до місця прибирання",
+
+	IGUI_ItemCat_Hygiene = "Гігієна",
+	IGUI_ItemCat_Art = "Мистецтво",
+
+	IGUI_perks_Cleaning = "Прибирання",
+	IGUI_perks_Meditation = "Медитація",
+	IGUI_perks_Dancing = "Танці",
+	IGUI_perks_Music = "Музика",
+	IGUI_perks_Lifestyle = "Стиль життя",
+
+	IGUI_HaloNote_XP = "Досвід",
+	IGUI_HaloNote_XPBonus = "Бонус до досвіду",
+	IGUI_HaloNote_Stress = "Стрес",
+	IGUI_HaloNote_Embarrassed = "Зніяковілість",
+	IGUI_HaloNote_Boredom = "Нудьга",
+	IGUI_HaloNote_Happyness = "Щастя",
+	IGUI_HaloNote_Unhappyness = "Нещастя",
+	IGUI_HaloNote_Pain = "Біль",
+	IGUI_HaloNote_Pain_BadPosture = "Біль від поганої постави",
+	IGUI_HaloNote_Bladder = "Сечовий міхур",
+	IGUI_HaloNote_Hygiene = "Гігієна",
+	IGUI_HaloNote_MintFresh = "Свіже дихання",
+	IGUI_HaloNote_LearnSong = "Вивчено нову пісню",
+	IGUI_HaloNote_ReadSongPlusStart = " ще ",
+	IGUI_HaloNote_ReadSongPlusEnd = " пісень",
+	IGUI_HaloNote_WriteSongSuccess = "Новий запис додано до зошита",
+	IGUI_HaloNote_ChangeAPEnd = "виглядає",
+	IGUI_HaloNote_Attractive = "Привабливо",
+	IGUI_HaloNote_SmellGood = "Божественний аромат",
+	IGUI_HaloNote_Nauseous = "Нудота",
+	IGUI_HaloNote_WellRested = "Добре відпочив",
+
+	
 }
